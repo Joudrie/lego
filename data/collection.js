@@ -4517,7 +4517,9 @@ window.COLLECTION = [
     role: "SWAT",
     group: "The SWAT Team",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-swat-commissioner", label: "Commanded by" }
+    ],
     rating: 0,
     background:
       "Two members of the Lego civilization's SWAT team.\n\n" +
@@ -4526,7 +4528,7 @@ window.COLLECTION = [
     tags: ["swat", "police", "tactical", "out-of-gear", "pair"],
     images: ["images/the-swat-officers-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. One box because they share a photo, same as the Gas Men and the Fisherman - say so if you'd rather they were split. Kept as their own unit rather than folded into Lego City Law, since SWAT here is the whole civilization's rather than the city's."
+    notes: "Placeholder name. One box because they share a photo, same as the Gas Men and the Fisherman - say so if you'd rather they were split. Kept as their own unit rather than folded into Lego City Law, since SWAT here is the whole civilization's rather than the city's.\n\nThey have somebody over them now. The SWAT Commissioner arrived with \"in charge of SWAT\" said about her, and these two are the only SWAT in the collection, so the line was drawn. That is an inference rather than something you said about these particular men - if she runs a different team, it comes out."
   },
 
 
@@ -23829,6 +23831,85 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-25",
     notes: "One of three shock trooper cards, split out of the single entry that used to hold all of them. He is the one you sent on his own, and he is here because of what he is not wearing: the army all have red pauldrons clipped over the shoulders and he has none, with the grey yoke bare underneath.\n\nEverything else about him is the army pattern rather than the open-faced one - the full black T visor, the red slashes at the cheeks, the harness and the two ammunition blocks at the belt, white legs with red knees and boots. So he stands between the other two cards: the ranks' face and kit, without the ranks' shoulders.\n\nWhether that means a rank of his own, or just a man who lost his pauldrons, is not something the photograph says."
+  },
+
+  {
+    id: "odenkirk",
+    name: "Odenkirk",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Odenkirk. One of the good guys.\n\n" +
+      "His lightsaber is blue, and over here that is the ordinary way round. " +
+      "It is worth saying out loud only because the last blue blade to arrive " +
+      "in this collection belonged to Clovis, who is evil and carries one " +
+      "anyway.",
+    provenance:
+      "The whole head is moulded rather than printed. A pale grey face set " +
+      "into a shaggy fur ruff, with a tall ridged crest standing straight up " +
+      "off the crown, knuckled along its length like bone. Four eyes - two " +
+      "large below, two small above - each a black pupil inside a white ring. " +
+      "Two short flat tusks the colour of old ivory hang side by side under " +
+      "the mouth.\n\n" +
+      "A darker grey shawl is draped over the shoulders and comes to a point " +
+      "at the chest. The torso beneath it is pale grey and moulded with the " +
+      "same fur, combed downwards. Medium grey arms, black hands, plain pale " +
+      "grey legs with nothing printed on them.\n\n" +
+      "A white hilt, ribbed and stepped, pushed right through the fist so that " +
+      "the pommel stands clear on the far side, with a translucent light blue " +
+      "blade held level across him. The other hand is empty.",
+    tags: ["star-wars", "alien", "four-eyes", "tusks", "fur", "moulded-head",
+           "lightsaber", "blue-saber", "branded", "provisional-rank"],
+    images: [
+      { src: "images/odenkirk-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-27",
+    notes: "Odenkirk is your name for him and it is the only name this card has.\n\nWhat he is made of is my reading and not yours, so it is set down here where it can be struck out in one line. Four eyes in two pairs, tusks under the mouth and fur over the whole body is a Talz - the four-eyed, tusked, fur-covered species out of Star Wars - and the only Talz Lego has ever made is Thi-Sen, the chieftain from the Clone Wars. That is the whole reason this card says Star Wars and says branded. If he came out of some other box, say so and both fields change.\n\nThe rank is provisional and marked as such, the same way Clovis's is. Nothing was said about what he does, and a good figure with no job title written down falls to Civilians by this catalogue's own rule - which is where the Companion Robot sits, and which would be plainly wrong for a man holding a lightsaber. So he is at Elite, which is the rung this catalogue gives a lightsaber when nothing else is written down: the Jedi rung. He stands at the back of it rather than in front of anybody who was already there. One word moves him.\n\nHe is the first four-eyed figure on the good side. The only other four eyes in the collection belong to two of the three Martians, who invaded Lego City.\n\nHe is also the second blue blade to arrive this week, and the pair of them make the point between them. Clovis holds one and is evil; this one holds one and is good, and neither of them is a Jedi as far as anything written here says. Whether Odenkirk has anything to do with the Jedi in this world - the Jedi, and the Snow Jedi's Line - is unwritten."
+  },
+
+  {
+    id: "the-swat-commissioner",
+    name: "The SWAT Commissioner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Police Commissioner",
+    group: "The SWAT Team",
+    location: "",
+    relations: [
+      { to: "the-swat-officers", label: "Commands" }
+    ],
+    rating: 0,
+    background:
+      "A police commissioner, a detective, and the officer in charge of SWAT.\n\n" +
+      "She is the first person here who commands the SWAT team. Until now SWAT " +
+      "was two men photographed out of their gear, with nobody above them.",
+    provenance:
+      "Black hair with a straight fringe, gathered up into a small bun at the " +
+      "crown. A pale face with fine brown brows, one of them lifted, black " +
+      "lashed eyes with a white catchlight in each, a closed mouth painted " +
+      "brown, and three small marks high on one cheek.\n\n" +
+      "A moulded pale blue tactical vest clipped over a navy top - sculpted " +
+      "shoulder plates, four pouches along the bottom edge, webbing and " +
+      "stitching printed across the front, and ACU lettered in a box at the " +
+      "centre of the chest. Dark grey hands. Plain black legs.",
+    tags: ["woman", "swat", "police", "detective", "commissioner", "tactical-vest",
+           "acu", "command"],
+    images: [
+      { src: "images/the-swat-commissioner-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-27",
+    notes: "Placeholder name, built out of the three things you said about her: police commissioner, detective, in charge of SWAT.\n\nShe is the second commissioner in this collection and that is the open question on the card. The Commissioner is Chief of Police in Lego City, above a colonel, mostly at the palace. Nothing says whether she works under him, alongside him, or in some other force altogether, so no line is drawn between them. Say which and it gets written.\n\nWhere she was filed: Police, at the top of that rung - above SWAT, above the detectives, the sheriffs and the beat. That is by her job, which is how everybody in the law is ranked here except one man. The Commissioner is not on this rung at all. He stands four above it at Champions, put there by name because his card says he is above a colonel and runs anti-terrorism and fortifications for the whole city. Nothing that came with her says she is that senior, so she went in by the job rather than by name. If she belongs up there with him, it is one line.\n\nThe one line that was drawn is to the SWAT Officers, and it is an inference: you said she is in charge of SWAT, and they are the only SWAT in the collection. If she runs a different team, say so and it comes out.\n\nThe vest has been here once before and it was on a villain. The Man in the Astromech Head wears the same pale blue ACU plate over a grey undersuit, under a droid's dome worn as a mask - kit taken off somebody. Hers is the first one in the collection being worn by the sort of person it was issued to."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

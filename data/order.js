@@ -411,6 +411,10 @@ window.ORDER = {
     // then the door-kickers, then the beat, then traffic and animal control.
     "Chief of Police": [7, 0, 5], "Chief of Space Police": [7, 0, 5],
     "Watch Command": [7, 0, 5], "Domestic Police Commander": [7, 0, 5],
+    // A commissioner who runs SWAT. She leads, so she is above the team she
+    // commands and above the detectives; she sits one place under Chief of
+    // Police only because that seat was already taken.
+    "Police Commissioner": [7, 0, 6],
     "SWAT": [7, 0, 10],
     "Detective": [7, 5, 20], "Sheriff": [7, 1, 20], "Police": [7, 5, 22],
     "Space Police": [7, 5, 24],
@@ -708,6 +712,13 @@ window.ORDER = {
     "the-old-apprentice": [5, 41],
     "the-night-watch-apprentice": [5, 42],
     "the-bravo-pilot": [5, 43],
+
+    // Provisional, and marked as such on his card. Nothing was said about what
+    // he does, and a good figure with no job title falls to Civilians by the
+    // rule above - which would put a man holding a lightsaber under the
+    // shopkeepers. Elite is the rung this catalogue gives a lightsaber with
+    // nothing else written down. No standing, so he waits behind the named.
+    "odenkirk": 4,
   },
 
 
