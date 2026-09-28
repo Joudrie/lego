@@ -236,6 +236,26 @@ window.ORDER = {
        "the-bribed-royal-enforcer", "the-bearded-spaceman",
        "the-masked-bounty-hunter",
     ],
+
+    /* The animals: the figures here that are an animal rather than a person.
+       The test is not the shape of the head, it is whether there is somebody
+       in there. Laval wears a harness and answers to a tribe, the Bear
+       Villager has a jumper and a watering can, the Shark, Squid and Manta
+       Warriors hold rank, the Werewolf is a goon on small arms, Chewbacca and
+       the Ewok and the Hutts are people of other species - all of them are
+       people shaped like animals, and none of them are in here. What is in
+       here eats, carries, hunts or stands in a field.
+
+       The horses are written first here only for reading; a section draws its
+       people in the combined deck's order, so the list below sets who is in it
+       and never where they stand. The Explorer's monkey is missing for a
+       duller reason: he has no card of his own and travels on the Explorer's. */
+    "The animals": [
+       "king-arthurs-horse", "the-lion-warhorse", "the-horse-in-blue-armour",
+       "the-horse-in-the-blue-saddle", "the-brown-horse", "widow",
+       "the-genius-gorilla", "the-wampa", "the-yeti", "the-anglerfish",
+       "the-evil-bug", "the-brain-parasites",
+    ],
   },
 
   /* For a figure with no job title at all. Matched on the name, first pattern

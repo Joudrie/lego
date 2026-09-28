@@ -3065,6 +3065,7 @@ window.COLLECTION = [
       { to: "the-prince", label: "Follows" },
       { to: "the-city-king", label: "Rules above" },
       { to: "curtis", label: "His knight" },
+      { to: "king-arthurs-horse", label: "His horse" },
     ],
     rating: 0,
     background:
@@ -23910,6 +23911,176 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-27",
     notes: "Placeholder name, built out of the three things you said about her: police commissioner, detective, in charge of SWAT.\n\nShe is the second commissioner in this collection and that is the open question on the card. The Commissioner is Chief of Police in Lego City, above a colonel, mostly at the palace. Nothing says whether she works under him, alongside him, or in some other force altogether, so no line is drawn between them. Say which and it gets written.\n\nWhere she was filed: Police, at the top of that rung - above SWAT, above the detectives, the sheriffs and the beat. That is by her job, which is how everybody in the law is ranked here except one man. The Commissioner is not on this rung at all. He stands four above it at Champions, put there by name because his card says he is above a colonel and runs anti-terrorism and fortifications for the whole city. Nothing that came with her says she is that senior, so she went in by the job rather than by name. If she belongs up there with him, it is one line.\n\nThe one line that was drawn is to the SWAT Officers, and it is an inference: you said she is in charge of SWAT, and they are the only SWAT in the collection. If she runs a different team, say so and it comes out.\n\nThe vest has been here once before and it was on a villain. The Man in the Astromech Head wears the same pale blue ACU plate over a grey undersuit, under a droid's dome worn as a mask - kit taken off somebody. Hers is the first one in the collection being worn by the sort of person it was issued to."
+  },
+
+  {
+    id: "king-arthurs-horse",
+    name: "King Arthur's Horse",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Horse",
+    group: "The Gunless Realm",
+    location: "The Medieval Era",
+    relations: [
+      { to: "king-arthur", label: "His rider" }
+    ],
+    rating: 0,
+    background:
+      "The horse King Arthur rides.\n\n" +
+      "Nothing has ever been said about him beyond that - no name, no history. " +
+      "He is on the shelf because Arthur is never off him: the King's card has " +
+      "read Mounted since the day it was written, and the horse under him has " +
+      "been in the photograph the whole time without a card of his own.",
+    provenance:
+      "Gold armour over the whole head, with a fanned crest of stiff plates " +
+      "running back over the crown and two points standing up at the top. The " +
+      "face is covered to the muzzle.\n\n" +
+      "Dark blue barding over a white body, printed with plate armour down the " +
+      "flank and with gold crowns on the paler blue quarters behind. The hem is " +
+      "scalloped. A saddle sits between the two halves, under the rider. White " +
+      "legs, unprinted.",
+    tags: ["horse", "animal", "barding", "armour", "gold", "crowns", "medieval",
+           "mounted", "gunless-realm"],
+    images: [
+      { src: "images/king-arthurs-horse-01.jpg", caption: "Cropped from King Arthur's photograph" }
+    ],
+    acquired: "",
+    notes: "You asked for a photograph of Arthur's horse and there isn't one - he has never been shot on his own. So this is a crop of King Arthur's own photograph, framed down onto the horse, and the caption says so on the card. It is his plastic and his picture; it is just not a new picture. Send one of the horse by himself and it replaces this.\n\nThe name is a placeholder of the plainest kind - he is called what he is. He has been carrying a king for as long as this catalogue has existed and nobody has named him.\n\nGroup and location come from Arthur rather than from anything said about the horse. If the Gunless Realm keeps its horses somewhere else, say so.\n\nThe armour is the thing that ties this batch together. Three of the six horses here wear the same fanned head armour - his in gold, the Lion Warhorse's in gold with a horn fitted into it, and the third in navy with a silver faceplate. Whether that means one stable, one armourer or one box of parts is not something the plastic settles."
+  },
+
+  {
+    id: "the-lion-warhorse",
+    name: "The Lion Warhorse",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Horse",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A warhorse in full barding, armoured from the crown down and dressed in " +
+      "somebody's colours.\n\n" +
+      "Nobody has said whose.",
+    provenance:
+      "Gold armour over the whole head, with a fanned crest of stiff plates " +
+      "running back over the crown and a row of small beads worked along its " +
+      "lower edge. The horse's own white ears stand up through a slot in it, " +
+      "and its eye - white with a black pupil - shows through an eyehole cut " +
+      "in the gold.\n\n" +
+      "A pale grey-blue horn, ridged along its length, socketed into the brow " +
+      "through a gold collar. It is fitted rather than grown.\n\n" +
+      "Barding quartered red and white over the body, with a gold lion rearing " +
+      "on each white quarter, and a scalloped hem worked in gold braid over a " +
+      "red edge. A red drape falls down the chest. White legs.",
+    tags: ["horse", "animal", "warhorse", "barding", "armour", "heraldry", "lion",
+           "horn", "gold", "medieval"],
+    images: [
+      { src: "images/the-lion-warhorse-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name, taken off the heraldry, which is the only thing on him that says anything.\n\nThe lions are the reason he is filed good. The medieval enemies in this collection are marked with dragons - the Evil Cavalryman, the Evil Swordsman and the rest of the Evil Knights all carry one - and a rearing lion on red and white is the other side of that. It is an inference off the print, not something you said, so one word flips him.\n\nNobody rides him. He is the first horse here with full barding and no rider written down, which is the question this card exists to ask: he is dressed for somebody. The Royal Knights, the Dragon Knight and King Arthur's realm are all on the shelf and any of them could be the answer.\n\nThe horn is the detail worth keeping. It is a separate piece pushed into the brow of the armour through a gold collar, so it is worn rather than grown - the Wampa's two horns come out of his skull, and this one is equipment. A horse dressed as a unicorn is a decision somebody made."
+  },
+
+  {
+    id: "the-horse-in-blue-armour",
+    name: "The Horse in Blue Armour",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Horse",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A horse in head armour and nothing else. Stripped to the chanfron: no " +
+      "barding, no saddle, no colours on him anywhere.",
+    provenance:
+      "The same fanned head armour the other armoured horses wear, this one in " +
+      "dark navy - a crest of stiff plates over the crown, a faceplate down the " +
+      "muzzle painted silver, and a black guard standing off the cheek. One " +
+      "cream ear shows through the slot at the top.\n\n" +
+      "The body is cream rather than white and wears its age: scuffing along " +
+      "the flank, across the barrel and down both forelegs. Nothing is printed " +
+      "on him.",
+    tags: ["horse", "animal", "armour", "chanfron", "navy", "silver", "unbarded",
+           "worn"],
+    images: [
+      { src: "images/the-horse-in-blue-armour-01.jpg", caption: "The figure" },
+      { src: "images/the-horse-in-blue-armour-02.jpg", caption: "Closer, from the side" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card and two photographs: the two shots you sent are the same horse from two angles, not two horses. The scuffs line up across both, which is what settles it - if they are in fact a pair, say so and this splits.\n\nHe wears the head armour and none of the rest. Every other armoured horse here is dressed the whole way - Arthur's in blue and gold, the Lion Warhorse in red and white - and this one has the helmet and nothing under it. Whether that is a horse between liveries or a horse whose colours were never his is not something the plastic says.\n\nHe is also the most worn animal in the collection, which on these cards reads as history rather than damage."
+  },
+
+  {
+    id: "the-horse-in-the-blue-saddle",
+    name: "The Horse in the Blue Saddle",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Horse",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A saddled horse, ready to be got on. No armour and no colours - this is " +
+      "a horse for riding rather than for fighting.",
+    provenance:
+      "White, with the bridle printed on in orange: a browband over the crown, " +
+      "a cheek strap running down to a black and white ring at the jaw, and a " +
+      "black eye with a white catchlight beside it. The mane is moulded into " +
+      "the neck in combed strands.\n\n" +
+      "A blue saddle clipped over the back, moulded with a raised cantle and a " +
+      "flap hanging down each side. Nothing else on him.",
+    tags: ["horse", "animal", "saddle", "bridle", "white", "blue", "mount"],
+    images: [
+      { src: "images/the-horse-in-the-blue-saddle-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. The first horse in the collection wearing tack and nothing else - the other four are either armoured or bare, and this one is simply saddled up.\n\nThe saddle is the only thing on him that is a separate piece, and it is the only part that could belong to somebody. Nobody has been named."
+  },
+
+  {
+    id: "the-brown-horse",
+    name: "The Brown Horse",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Horse",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A brown horse. Nothing on him and nothing said about him - the plainest " +
+      "animal in the collection.",
+    provenance:
+      "Reddish brown the whole way over. The bridle is printed in black - a " +
+      "browband, a cheek strap and a noseband meeting at a small white ring - " +
+      "with a white blaze down the muzzle and a black eye above it. The mane " +
+      "is moulded into the neck in combed strands.\n\n" +
+      "No saddle, no armour, no barding, nothing printed on the body.",
+    tags: ["horse", "animal", "brown", "bridle", "plain", "unbarded"],
+    images: [
+      { src: "images/the-brown-horse-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name, and the most placeholder of the five - he is a brown horse and there is nothing else to call him yet.\n\nHe is the only one of the six that is not white or cream underneath. Arthur's horse, the Lion Warhorse, the one in blue armour and the one in the blue saddle are all pale; Widow is white and grey. This is the first horse here of another colour, which matters only because it makes him the easiest to pick out of a stable."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
