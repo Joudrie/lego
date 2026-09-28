@@ -414,6 +414,7 @@ window.ORDER = {
 
     // 4 - elite
     "Jedi": 4, "Sith": 4, "Assassin": 4, "Bounty Hunter": 4, "Hitman": 4,
+    "Force Trainer": 4,
     "Commando": 4, "Clone Commando": 4, "ARC Trooper": 4, "Sniper": 4,
     "Mandalorian": 4, "Ninja": 4, "Samurai": 6, "Knight": 6, "Mace Knight": 6,
     "Swordsman": 6, "Fencer": 6, "Mercenary": 4, "Enforcer": 4, "Outlaw": 4,

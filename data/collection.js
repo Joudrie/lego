@@ -25585,6 +25585,51 @@ window.COLLECTION = [
     notes: "Placeholder name. The most ordinary animal in the collection, and that is the whole of its interest.\n\nThe sea here is all predators and monsters - two sharks, a megalodon named for the largest shark that ever lived, an anglerfish with fangs, a squid with no face, three jellyfish and two crabs. Nothing in the water has ever simply been food. This is the first.\n\nIt is also built to be held. The mouth is a socket, which on every other figure in this collection means the piece clips onto something else, and the usual something is a minifigure's hand. A fish that is made to be carried is a fish somebody caught.\n\nNobody is holding it. There are two fishermen in the collection - the Fisherman and his Son, and the Inuit Fisherman - and nothing says this is either one's."
   },
 
+  {
+    id: "nick-b-carpenter",
+    name: "Nick B Carpenter",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Force Trainer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Nick B Carpenter. One of the good ones, and elite.\n\n" +
+      "He was a baby. He has grown into a promising trainer of the force " +
+      "sensitive - not a promising student, a promising teacher, which is a " +
+      "thing this collection has almost nobody doing.\n\n" +
+      "His blade is yellow. Nothing else in this world carries one.",
+    provenance:
+      "Dark brown hair, thick and swept back off the brow with the ends " +
+      "curling out. The face is the plain one: two black dots and a wide " +
+      "smile on yellow, no lines, no shading, nothing else on it at all.\n\n" +
+      "A dark brown jacket worn open over a cream shirt, the shirt printed " +
+      "with a collar, a run of buttons and the folds around them, and a line " +
+      "of white stitching marked down the jacket's front edge. An orange belt " +
+      "across the waist, and orange legs printed with brown pocket shapes and " +
+      "a dark strap across one thigh.\n\n" +
+      "The lightsaber is a silver hilt, stepped along the grip and flared at " +
+      "the pommel, held up in his right hand. The blade is translucent yellow " +
+      "going to lime where the light runs through it.\n\n" +
+      "A large translucent yellow disc stands against his left side, most of " +
+      "a circle with a deep wedge cut out of one edge, and a black cylinder " +
+      "fitted through the middle of it. It is nearly as tall as he is. His " +
+      "left hand is behind it and the photograph does not show whether he has " +
+      "hold of it.",
+    tags: ["force-sensitive", "trainer", "elite", "lightsaber", "yellow-blade",
+           "jacket", "classic-face", "named", "grown-up"],
+    images: [
+      { src: "images/nick-b-carpenter-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Elite is your word, so that is the rung he is on rather than one this catalogue worked out. A new role was made for him - Force Trainer - which puts him at Elite alongside the Jedi and files him under the Force in the sections rather than among ordinary people.\n\nHe has the only full name in the collection with a middle initial. Eight hundred and eighty-two figures, and every other one is a first name, a title, or a description.\n\nThe open question is which baby. You said he was formerly a baby, and this world has several - the Son of the West family, the Royal Sons and the Royal Daughter, Grogu, a young Anakin, a young Boba Fett, and Matthew, who was kidnapped by the bad guys and is being raised by some of them and is filed on the enemy deck. If Nick B Carpenter is one of those grown up, that card and this one are the same person and should be linked. If he is Matthew, it is the largest thing anybody has told me in a week, because it would mean somebody got out. Nothing is drawn until you say which.\n\nThe yellow blade is new. This collection has blue, green, red and purple - the Jedi's blue staff, the Snow Jedi's green, Ahsoka's green, Darth Nihilus's red, the Purple Shadow's purple, and the two blue blades that arrived this week on Clovis and Odenkirk. Yellow has never appeared, so whatever a colour means here, his does not mean it yet.\n\nA trainer also lands next to the one training lineage on the shelf. The Snow Jedi is a Jedi Master who was formed out of ancient pieces and simply knows things without having learned them, and his card says he trained two Padawans and one of them is dead - the Beowulf Jedi and the Second Padawan are both catalogued under The Snow Jedi's Line. A promising teacher arriving into a world with exactly one teacher in it is worth a line between them. Nothing says there is one.\n\nThe face is worth recording because of what it is not. This is a collection of painted expressions - scars, beards, snarls, goggles, a man with an eye in his chest - and the newest Force user in it has the oldest face Lego makes."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
