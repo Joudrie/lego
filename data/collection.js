@@ -24253,6 +24253,172 @@ window.COLLECTION = [
     notes: "Placeholder name. One card for the three, since they are identical and came in one photograph.\n\nFiled with the enemy, and that is a filing decision rather than a finding about them - exactly the one the Plain-Faced Skeletons card already explains. Every skeleton in this collection is on the bad deck: the Hooded Skeleton, the Evil Skeletons, the Skeleton Robot, and the three plain ones who wanted nothing and went over there because there was nowhere else. Bones go with the enemy here. Nothing about these three says they want anything either, and if they are somebody's mounts rather than the enemy's, one word moves all three.\n\nThey are the first dead animals in the collection. Everything else in the animals section is alive, including the Wampa, and the dead until now have all been people.\n\nThey also make eight horses, which is the largest run of one animal here by a long way - five living, the God Horse who is bricks, and these three. A stable, a battlefield and a graveyard."
   },
 
+  {
+    id: "the-german-shepherd-and-the-parrot",
+    name: "The German Shepherd and the Parrot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dog",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A German Shepherd, and the parrot who is his friend.\n\n" +
+      "The parrot rides on his back. That is the whole of it and it is enough " +
+      "- this is the first friendship in the collection between two animals " +
+      "rather than between an animal and somebody who owns it.",
+    provenance:
+      "The dog is tan, standing square with both ears up and pointed. A black " +
+      "mask is printed across the muzzle and up round the eyes, with a black " +
+      "nose at the end of it and a white dot in each eye. The legs are plain " +
+      "and the hindquarters are moulded in one piece with the body.\n\n" +
+      "The parrot sits on his back, upright and red, a hooked beak with yellow " +
+      "worked into it. A pale patch runs down the side of the face with a " +
+      "round dark socket set into it for the eye, there is a white flash at " +
+      "the throat, and yellow and green run down the wing.",
+    tags: ["dog", "parrot", "bird", "animal", "german-shepherd", "friendship",
+           "pair", "tan", "red"],
+    images: [
+      { src: "images/the-german-shepherd-and-the-parrot-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "One card for the two because you handed them in as one thing - a dog with a parrot friend - and that is how the Explorer and the Monkey are filed too. Say the word and the parrot gets his own.\n\nThe parrot is the first bird in the collection. Eight hundred and fifty figures, a section for the animals, and nothing has had feathers until now.\n\nThe dog is the first dog, which lands next to a card that has been waiting for one. The Animal Control Officer is grumpy about wild animals being a standing problem in the city, and a German Shepherd is the animal a police force actually keeps - Lego City Law is eleven strong and has never had a dog. No line drawn, because nothing says he is theirs.\n\nWorth saying what this card is not doing: it is not calling the parrot a pet. You said friend."
+  },
+
+  {
+    id: "the-dogs",
+    name: "The Dogs",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dog",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two dogs, cut square. The oldest-looking animals in the collection - " +
+      "these are from back when a dog was four blocks and a snout.",
+    provenance:
+      "Two of them, identical, in reddish brown. Everything about them is flat " +
+      "planes and hard angles: a wedge for the head with the muzzle cut " +
+      "straight off the front, two square ears standing up, one small printed " +
+      "eye to a side, a slab body and four square legs.\n\n" +
+      "A round socket is set into the back of each, open, for clipping " +
+      "something on. Nothing is clipped on. There is no printing anywhere " +
+      "else on them.",
+    tags: ["dog", "animal", "pair", "brown", "blocky", "vintage", "angular"],
+    images: [
+      { src: "images/the-dogs-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the two: identical, one photograph.\n\nThey are the oldest-looking things in the animals section by a distance, and it is worth putting next to the God Horse. He is a horse made of bricks because somebody built him that way; these are dogs moulded to look like they were made of bricks, which is a different thing and a deliberate one. Between them they are the two ends of how this collection does an animal - one built, one moulded to look built - and everything else here is moulded to look alive.\n\nThe socket in each back is empty. Whatever rode them, or whatever they carried, is not here."
+  },
+
+  {
+    id: "the-puppy",
+    name: "The Puppy",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dog",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A puppy, sitting up with a paw out. The smallest animal in the " +
+      "collection and the only one doing a trick.",
+    provenance:
+      "Dark orange, sitting back on his haunches with the head cocked hard to " +
+      "one side. Both ears are down - one hanging past the jaw, the other " +
+      "folded across the crown - and one foreleg is lifted with a round paw " +
+      "at the end of it.\n\n" +
+      "The face is printed: two black eyes with a white catchlight in each, a " +
+      "thin brow drawn over the upper one, and a black muzzle mark. Nothing " +
+      "else on him.",
+    tags: ["dog", "puppy", "animal", "orange", "small", "sitting", "paw"],
+    images: [
+      { src: "images/the-puppy-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. Third dog card in one batch, which takes the collection from no dogs to four of them in an afternoon.\n\nHe is the only animal here caught doing something. Everything else in the section stands, walks, swims or lies there: the horses stand, the bear walks, the tauntauns wait, the sharks lie on the plate. This one has his head on one side and a paw in the air, which is a pose aimed at a person. Somebody is being asked something.\n\nNo owner written, because nothing says who."
+  },
+
+  {
+    id: "the-sharks",
+    name: "The Sharks",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Shark",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two sharks, out of the water and lying on a plate.",
+    provenance:
+      "Two of them, close but not the same. The left is a cooler, paler grey " +
+      "with the jaw shut; the right is warmer and darker, the jaw dropped open " +
+      "on a row of small white teeth. Both have a printed eye set well forward " +
+      "on the snout.\n\n" +
+      "The build is the same on each: a hinged lower jaw, a tall dorsal fin " +
+      "standing off the back, a swept tail, and a pectoral fin out from each " +
+      "side. The difference between them is colour and wear rather than mould.",
+    tags: ["shark", "animal", "sea", "fish", "pair", "grey", "predator", "jaws"],
+    images: [
+      { src: "images/the-sharks-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the two: same mould, photographed together, and the only thing separating them is that one is a shade greyer than the other and one has its mouth open.\n\nThey break a pattern and it is the reason this note is long. Every creature the sea has sent this collection so far is an enemy - the Anglerfish, and the Shark, Squid and Manta Warriors, all four of them filed bad. The people of the sea go both ways, sixteen divers on the good deck against the Underwater King and his lot, but the animals have been unanimous. These two are the first sea creatures here that are not enemies.\n\nThat is the standing rule doing it rather than a decision about them: you said nothing about a side, and an animal with no story falls to the good deck. Given what the record says about the sea, the odds are they belong over with the Anglerfish. One word moves both.\n\nThe Shark Warrior already here is a man in a shark's head. These are sharks."
+  },
+
+  {
+    id: "the-megalodon",
+    name: "The Megalodon",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Shark",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Megalodon. Mouth open, and big enough that the two sharks in this " +
+      "same batch look like something it would eat.",
+    provenance:
+      "Pale grey and far larger than the other two, built around a jaw that " +
+      "opens most of the way to the gills. Two rows of white teeth stand up " +
+      "and down across the whole width of it, deep enough to leave a black " +
+      "throat behind them.\n\n" +
+      "The eye is printed with a heavy black brow drawn over it, which reads " +
+      "as an expression rather than as an eye. Three gill slits are cut into " +
+      "the side behind the head, the dorsal fin stands tall off the back, and " +
+      "the pectoral fins are wide and swept. Two bare studs sit on the back " +
+      "behind the skull.",
+    tags: ["shark", "megalodon", "animal", "sea", "fish", "predator", "jaws",
+           "large", "grey"],
+    images: [
+      { src: "images/the-megalodon-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "The name is yours. It is also the only name in the animals section that is a species rather than a description, which puts him closer to Widow and Laval than to the Brown Horse.\n\nHe is the largest animal in the collection - bigger than the Wampa, who is twice the bulk of a minifigure, and several times the two sharks he arrived with.\n\nFiled on the good deck for the same reason they are, and with the same doubt written on their card: every sea creature here before today is an enemy. He is the one this reads worst on. A thing named for the largest shark that ever lived, with a brow printed over its eye so that it looks like it means it, is not obviously somebody's friend. Say the word and he goes over.\n\nThe brow is the detail. The other two sharks have a plain eye and no opinion. This one has been drawn a face."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

@@ -255,6 +255,8 @@ window.ORDER = {
        "the-horse-in-the-blue-saddle", "the-brown-horse", "widow",
        "the-god-horse", "the-skeleton-horses",
        "the-camel", "the-tauntauns", "the-bear",
+       "the-german-shepherd-and-the-parrot", "the-dogs", "the-puppy",
+       "the-sharks", "the-megalodon",
        "the-genius-gorilla", "the-wampa", "the-yeti", "the-anglerfish",
        "the-evil-bug", "the-brain-parasites",
     ],
@@ -432,7 +434,7 @@ window.ORDER = {
     // since the Wampa, so the animals that arrived after them go in beside
     // them rather than getting a rung of their own. It is the rung, not a
     // claim that a camel is a soldier.
-    "Camel": 5, "Tauntaun": 5, "Bear": 5,
+    "Camel": 5, "Tauntaun": 5, "Bear": 5, "Dog": 5, "Shark": 5,
 
     // 6 - police
     // Inside the police the third number orders the whole rung: the chiefs,
