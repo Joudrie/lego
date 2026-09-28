@@ -253,6 +253,8 @@ window.ORDER = {
     "The animals": [
        "king-arthurs-horse", "the-lion-warhorse", "the-horse-in-blue-armour",
        "the-horse-in-the-blue-saddle", "the-brown-horse", "widow",
+       "the-god-horse", "the-skeleton-horses",
+       "the-camel", "the-tauntauns", "the-bear",
        "the-genius-gorilla", "the-wampa", "the-yeti", "the-anglerfish",
        "the-evil-bug", "the-brain-parasites",
     ],
@@ -425,6 +427,12 @@ window.ORDER = {
     "Goon": 5, "Thug": 5, "Raider": 5, "Quartermaster": 5, "Space Command": 5,
     "Propagandist": 5, "Space Biker": 5, "Discarded": 5, "Horse": 5,
     "Replica": 5,
+
+    // The rest of the menagerie. Horses have sat here since Widow and a beast
+    // since the Wampa, so the animals that arrived after them go in beside
+    // them rather than getting a rung of their own. It is the rung, not a
+    // claim that a camel is a soldier.
+    "Camel": 5, "Tauntaun": 5, "Bear": 5,
 
     // 6 - police
     // Inside the police the third number orders the whole rung: the chiefs,

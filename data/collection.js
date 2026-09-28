@@ -24083,6 +24083,176 @@ window.COLLECTION = [
     notes: "Placeholder name, and the most placeholder of the five - he is a brown horse and there is nothing else to call him yet.\n\nHe is the only one of the six that is not white or cream underneath. Arthur's horse, the Lion Warhorse, the one in blue armour and the one in the blue saddle are all pale; Widow is white and grey. This is the first horse here of another colour, which matters only because it makes him the easiest to pick out of a stable."
   },
 
+  {
+    id: "the-god-horse",
+    name: "The God Horse",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Horse",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The God Horse.\n\n" +
+      "He is the only animal in this collection built rather than moulded - " +
+      "there is no horse piece anywhere in him. Somebody made a horse out of " +
+      "ordinary bricks and it worked.",
+    provenance:
+      "All white except for two round plates. The head and chest are one white " +
+      "brick standing on end, with a rectangular opening cut through the front " +
+      "and a single white bar set across it on the diagonal, and two small " +
+      "clips standing off the bottom edge. A tan round plate and a red round " +
+      "plate sit side by side on the crown where the eyes would be, with two " +
+      "bare studs behind them.\n\n" +
+      "The body is a long white brick two studs wide, studs bare along the " +
+      "whole back, with an arch cut underneath it that makes the hind legs. " +
+      "The foreleg is a plain white column dropped from the head brick. Four " +
+      "pieces, near enough, and it stands.",
+    tags: ["horse", "animal", "brick-built", "white", "abstract", "god-horse",
+           "needs-a-rung"],
+    images: [
+      { src: "images/the-god-horse-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "The name is the open question and it is the first thing on this card rather than the last, because it is the one thing here I could get badly wrong.\n\nYou called him the God Horse. That could mean he is a god, or it could mean he is a god's horse, and those land four rungs apart. The ladder here has a Gods rung and two figures on it, and it is defined as creative power - the ability to make things - rather than as a title. Nothing you said puts him there, so he is filed at Horse with the rest of the animals, which is a holding position and not a judgement. One word moves him, and if the word is god he goes to the top of the collection.\n\nWhat is not in doubt is that he is different in kind from everything else in the section. Every other animal here is a moulded piece that came out shaped like the animal. This one is bricks - a window brick for a face, an arch brick for hindquarters, two round plates for eyes, one of them red and one of them tan. He is the oldest way of making a horse there is, and he is the only figure in the collection that is an animal by construction rather than by moulding.\n\nThe two round plates on his crown are doing the work. They are not a matched pair, they are not where eyes go on a real horse, and they are the only colour on him. Whether they are eyes at all is not something the bricks say."
+  },
+
+  {
+    id: "the-camel",
+    name: "The Camel",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Camel",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A camel, saddled and loaded. The first animal here that is for carrying " +
+      "things rather than for riding into anything.",
+    provenance:
+      "Tan the whole way over, a shade darker along the back and the hump. The " +
+      "head is small and held low on a curved neck - one ear standing up, a " +
+      "black eye, and a blunt muzzle with the mouth cut in as a line. The legs " +
+      "end in split hooves, two toes to each foot.\n\n" +
+      "Reddish brown tack clipped over the hump in two parts: an arched frame " +
+      "across the back with a bar over the top of it, and a panel hanging down " +
+      "the near side with a small clip set into it. Nothing is loaded onto the " +
+      "clip.",
+    tags: ["camel", "animal", "tan", "saddle", "pack-animal", "desert", "hump"],
+    images: [
+      { src: "images/the-camel-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. First camel in the collection, and the first desert animal of any kind.\n\nThere is one thing already here that he lands next to, and it is a joke the catalogue made before he arrived. The Empire's four-legged walker is on the villain deck and it is on there partly because of a labelling problem - one of its two crewmen came in described as the general of the camel-looking walker, and that phrase is written on his card. The collection has had a camel-shaped war machine for longer than it has had a camel.\n\nHe is also the second animal here wearing tack with nobody on him, after the Horse in the Blue Saddle. The clip on his side panel is empty, which means whatever he was carrying is not here."
+  },
+
+  {
+    id: "the-bear",
+    name: "The Bear",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bear",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A bear. Not a person, not a villager, not anybody's - a bear, walking.",
+    provenance:
+      "Dark reddish brown, moulded in halves that meet behind the shoulder, " +
+      "standing square on four legs with the head carried low. A cream muzzle " +
+      "with a black nose at the end of it and the mouth open, the dark of the " +
+      "throat showing through. Small round ears. One black eye with a white " +
+      "catchlight.\n\n" +
+      "Two bare studs on the back, over the shoulders, for whatever was meant " +
+      "to be put there. The paws end in cut toes.",
+    tags: ["bear", "animal", "brown", "predator", "wild", "four-legged"],
+    images: [
+      { src: "images/the-bear-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. Third bear in the collection and the first one that is actually a bear - the other two are people. Lotso is a villain out of Toy Story and the Bear Villager has a jumper and a watering can. This one has a muzzle and an open mouth and nothing else, so he is the one that goes in the animals section and they do not.\n\nFiled good, which here means unallocated rather than friendly. Nothing has been said about him, and a wild animal with no story falls to this side by the standing rule. Worth saying that the collection has a card that expects him: the Animal Control Officer is grumpy about wild animals being a standing problem in the city, and until now the only wildlife on record was wolves nobody has photographed. If this bear is that problem, say so and a line gets drawn.\n\nHe is the second predator here after the Wampa, and the first one on the good deck."
+  },
+
+  {
+    id: "the-tauntauns",
+    name: "The Tauntauns",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Tauntaun",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two tauntauns. Snow beasts, ridden in cold nobody should be out in.",
+    provenance:
+      "Two of them, identical, in light grey. A pair of heavy cream horns " +
+      "curls down and forward from behind the ears and finishes below the jaw, " +
+      "ridged along the whole length. Small grey ears stand up behind them, " +
+      "with a run of raised bumps over the brow.\n\n" +
+      "The face is printed rather than bare: a dark eye with lashes at each " +
+      "side, a nostril cut into the snout, and a cream tusk standing out of " +
+      "the lower jaw. The forelimbs are held up and folded against the chest, " +
+      "the hind legs are heavy, and all four feet end in three splayed claws. " +
+      "A flat notch sits on the back where a rider clips on.",
+    tags: ["star-wars", "tauntaun", "animal", "beast", "mount", "horns", "snow",
+           "pair", "branded"],
+    images: [
+      { src: "images/the-tauntauns-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "You wrote Taunton and I have read it as Tauntaun - the snow mounts out of Star Wars, which is what the horns and the folded forelimbs say these are. If that was your word for them rather than a slip, say so and the card takes it back.\n\nOne card for the two because they are identical and share a photograph, the same way the Gas Men, the Fisherman and the Camo Scouts are filed.\n\nThey are the first mounts in the collection that are not horses, and the first animal on the good deck out of Star Wars. That matters because of who else is on the ice: the Wampa is here, filed bad, and he is the only other snow animal in the collection. A tauntaun and a wampa on the same shelf is the whole of Hoth's food chain, on opposite decks, with nothing written between them.\n\nNobody rides them. The clip on each back is empty."
+  },
+
+  {
+    id: "the-skeleton-horses",
+    name: "The Skeleton Horses",
+    variant: "Three of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Horse",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Three horses with the flesh gone. They stand the way the living ones do " +
+      "and there is nothing left of them but the frame.",
+    provenance:
+      "Three, identical, in bone white going yellow at the edges where they " +
+      "have aged. The barrel is a ribcage, ribs cut down both sides with the " +
+      "spine running over the top of it. The neck is a run of vertebrae curving " +
+      "up to a long skull - a deep round socket for the eye, and the jaw drawn " +
+      "out past it.\n\n" +
+      "The legs are separate, socketed in at the shoulder and the hip, thin the " +
+      "whole way down and ending in wide cupped hooves. They stand on their own " +
+      "without anything holding them up.",
+    tags: ["horse", "animal", "skeleton", "bone", "dead", "undead", "three-figures",
+           "villain"],
+    images: [
+      { src: "images/the-skeleton-horses-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the three, since they are identical and came in one photograph.\n\nFiled with the enemy, and that is a filing decision rather than a finding about them - exactly the one the Plain-Faced Skeletons card already explains. Every skeleton in this collection is on the bad deck: the Hooded Skeleton, the Evil Skeletons, the Skeleton Robot, and the three plain ones who wanted nothing and went over there because there was nowhere else. Bones go with the enemy here. Nothing about these three says they want anything either, and if they are somebody's mounts rather than the enemy's, one word moves all three.\n\nThey are the first dead animals in the collection. Everything else in the animals section is alive, including the Wampa, and the dead until now have all been people.\n\nThey also make eight horses, which is the largest run of one animal here by a long way - five living, the God Horse who is bricks, and these three. A stable, a battlefield and a graveyard."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
