@@ -262,6 +262,8 @@ window.ORDER = {
        "robotgator", "the-baby-apes", "kitty", "the-white-cat",
        "the-air-duck-god",
        "the-rats", "the-frogs", "the-spiders", "the-jellyfish", "the-crabs",
+       "the-baby-dinos", "the-baby-dragon", "the-snakes",
+       "the-owl", "the-second-parrot", "the-baby-bird", "the-hedgehog",
        "the-genius-gorilla", "the-wampa", "the-yeti", "the-anglerfish",
        "the-evil-bug", "the-brain-parasites",
     ],
@@ -442,7 +444,8 @@ window.ORDER = {
     "Camel": 5, "Tauntaun": 5, "Bear": 5, "Dog": 5, "Shark": 5,
     "Duck": 5, "Dinosaur": 5, "Alligator": 5, "Squid": 5,
     "Cat": 5, "Ape": 5, "Rat": 5, "Frog": 5, "Spider": 5,
-    "Jellyfish": 5, "Crab": 5,
+    "Jellyfish": 5, "Crab": 5, "Dragon": 5, "Snake": 5,
+    "Bird": 5, "Hedgehog": 5,
 
     // 6 - police
     // Inside the police the third number orders the whole rung: the chiefs,

@@ -24275,7 +24275,9 @@ window.COLLECTION = [
     role: "Dog",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-second-parrot", label: "The other parrot" }
+    ],
     rating: 0,
     background:
       "A German Shepherd, and the parrot who is his friend.\n\n" +
@@ -24517,7 +24519,9 @@ window.COLLECTION = [
     role: "Dinosaur",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-baby-dinos", label: "The young ones" }
+    ],
     rating: 0,
     background:
       "A velociraptor. The first dinosaur in the collection, and the first " +
@@ -25153,6 +25157,250 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-28",
     notes: "Placeholder name. One card for the three: identical, one photograph.\n\nThey are the simplest figures in the collection. The Devil Duck is two bricks and the Companion Robot is a head on a rod, but both of those are still made of parts. These are one piece with no face, no limbs, no print and nothing that could be called a front. The Squid was written up as the first living thing here with no face at all; these are the first with no anything.\n\nThe translucency is not decoration. Plenty of figures here carry a clear part - a visor, a blade, a canopy - and a few are clear all the way through, the Air Duck God and Darth Vader's hologram among them. On those it reads as light, or as a projection, or as a god. On these it reads as water, which is the only case in the collection where see-through plastic is being used to say what the animal is actually made of.\n\nFiled good along with the rest of the sea, and the Crabs card sets out how lopsided that has become. Eight sea creatures on this deck now, all of them there by default."
+  },
+
+  {
+    id: "the-baby-dragon",
+    name: "The Baby Dragon",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dragon",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-baby-dinos", label: "Photographed with them" }
+    ],
+    rating: 0,
+    background:
+      "A baby dragon.\n\n" +
+      "This collection has been covered in dragons for as long as it has " +
+      "existed and not one of them has ever been an animal. They have all been " +
+      "emblems - on a knight's shield, on a cavalryman's armour, in a ninja's " +
+      "name. This is the first dragon here that is a dragon.",
+    provenance:
+      "Dark green, one solid piece standing on a small round base. The head is " +
+      "carried low and forward on a thick neck, with a broad crest sweeping " +
+      "back off the crown, a lizard's eye set into the side of the skull and " +
+      "the jaw closed in a long line.\n\n" +
+      "A scalloped wing is folded down the near side of the body, edged with a " +
+      "row of ridged spines that run back along the flank. Nothing is printed " +
+      "on him anywhere - every feature is cut into the mould.",
+    tags: ["dragon", "animal", "baby", "green", "wings", "spines", "moulded",
+           "unprinted", "first-of-its-kind"],
+    images: [
+      { src: "images/the-baby-dragon-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Three figures arrived in one photograph under two names - Baby Dino and Baby Dragon - so they are split two and one. This is the one, and the reason is the mould: he has a backswept crest, a folded wing and a line of spines that neither of the other two has. The gold and the bright green are the same shape as each other and a different shape from him. If that reading is wrong, say so and the three come back onto one card.\n\nWhat he arrives into is the interesting part and it is on the card rather than in this note. Dragons have been all over this world from the start and every one of them has been a picture of a dragon: the Dragon Knight wears one, the Evil Cavalryman and the Evil Swordsman are marked with one, a ninja is named for one. The enemy's medieval knights are told apart from the good ones by the dragon on their armour. Eight hundred and seventy figures of that, and then a dragon walks in and it is a baby.\n\nFiled good, which means unallocated. Given that a dragon is the enemy's emblem in this world, that may be exactly wrong. Nothing you said settles it and one word would."
+  },
+
+  {
+    id: "the-baby-dinos",
+    name: "The Baby Dinos",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dinosaur",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-baby-dragon", label: "Photographed with him" },
+      { to: "the-velociraptor", label: "The grown one" }
+    ],
+    rating: 0,
+    background:
+      "Two baby dinosaurs, one gold and one green.\n\n" +
+      "The gold one is the only animal in this collection that is not the " +
+      "colour of an animal.",
+    provenance:
+      "Two, the same mould, each a single piece standing on a small round " +
+      "base. The head is held up on a short neck with a blunt squared muzzle, " +
+      "the jaw cut across it as a single line, and a small hole bored at the " +
+      "crown. The forelimbs are folded in against the chest and the body " +
+      "thickens down to the base.\n\n" +
+      "One is bright green. The other is gold - not painted gold, moulded in " +
+      "it, so the light runs along every edge and the detail is hardest to " +
+      "read on the one that catches the most of it.",
+    tags: ["dinosaur", "animal", "baby", "pair", "gold", "green", "moulded",
+           "unprinted"],
+    images: [
+      { src: "images/the-baby-dinos-01.jpg", caption: "The two of them, with the Baby Dragon between" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. Three figures came in one photograph under two names, and they are split two and one on the mould: these two match each other and the dark green one does not. That reasoning is set out on the Baby Dragon's card. One word puts all three back together.\n\nThe photograph on this card holds all three, because the two dinos stand at opposite ends of it with the dragon in the middle. The caption says so.\n\nThe gold is the thing worth keeping. Every other animal in this collection is the colour something alive would be - white horses, a brown bear, green alligators, a tan camel, pink jellyfish. This one is gold the whole way through, which in this world is the colour of rank: the Commissioner's helmet band, the Golden Company, the gold sash the loyal wear against the traitor's black. A gold animal has never happened here before.\n\nWhether that means anything is yours. It might be a baby dinosaur that came out gold.\n\nThe Velociraptor is on the shelf and is the only other dinosaur in the collection, so the line is drawn to him. Nothing says these are his."
+  },
+
+  {
+    id: "the-snakes",
+    name: "The Snakes",
+    variant: "Three of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Snake",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Three snakes, and no two of them are made the same way.",
+    provenance:
+      "The first is hard plastic in bright lime, moulded into a fixed S with " +
+      "the head reared up at one end and the tail ringed and tapering at the " +
+      "other. The mouth is cut open across the front of the head and there is " +
+      "a socket bored down through the crown. It cannot be moved.\n\n" +
+      "The other two are rubber and will bend to anything. One is green and " +
+      "one is red, both of them ridged the whole length like a rope, both " +
+      "drawn to a small flat head with the mouth marked as a nick. They lie " +
+      "wherever they are put.\n\n" +
+      "The rigid one stands. The soft ones cannot.",
+    tags: ["snake", "reptile", "animal", "three-figures", "lime", "green", "red",
+           "rubber", "rigid"],
+    images: [
+      { src: "images/the-snakes-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the three, and the difference between them is written into the description because it is the whole of what there is to say: one is a moulded piece and two are lengths of rubber.\n\nThat makes them the first figures in the collection made of something soft. Everything else here, eight hundred and seventy-odd of them, is rigid plastic. These two bend.\n\nThey are the first actual snakes. The collection has three Serpents - Ninjago snake-people, all on the enemy deck, all of them wearing armour and holding rank - and those are people shaped like snakes rather than snakes, which is why they are not in the animals section and these are. No line drawn between them; nothing says a snake belongs to the Serpents any more than a horse belongs to a knight.\n\nFiled good, meaning unallocated."
+  },
+
+  {
+    id: "the-owl",
+    name: "The Owl",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bird",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-second-parrot", label: "Photographed together" }
+    ],
+    rating: 0,
+    background:
+      "An owl, grey, facing straight out.\n\n" +
+      "The first bird in this collection that is not somebody's companion.",
+    provenance:
+      "Light grey the whole way over, one piece, standing on a round stud at " +
+      "the base. The head sits flat on the shoulders with no neck at all, two " +
+      "wide discs moulded round the eyes and the beak cut small between them.\n\n" +
+      "The wings are folded down the sides and marked with long feather lines, " +
+      "and the breast is left smooth. Nothing is printed. The face is entirely " +
+      "cut into the plastic, so the eyes are shape rather than paint.",
+    tags: ["owl", "bird", "animal", "grey", "moulded", "unprinted", "facing-front"],
+    images: [
+      { src: "images/the-owl-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. Photographed beside the Second Parrot and split from it because they are two different birds; the crops are from the one picture and both cards say so.\n\nHe is the first owl. He is also the first bird here with nobody attached to him - the parrot in this collection arrived riding a German Shepherd and was catalogued as the dog's friend, which is the only reason there was a bird on the shelf at all.\n\nOwls are a thing this world has a use for and has never used. There is a Hogwarts group seven cards deep and no owl has ever been photographed with any of it. Nothing says he is theirs, so nothing is written. Say the word.\n\nHe faces straight forward, which nothing else in the animals section does. Every other animal here is photographed side on."
+  },
+
+  {
+    id: "the-second-parrot",
+    name: "The Second Parrot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bird",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-owl", label: "Photographed together" },
+      { to: "the-german-shepherd-and-the-parrot", label: "The other parrot" }
+    ],
+    rating: 0,
+    background:
+      "A second parrot, and not the same bird as the first.",
+    provenance:
+      "Red through the head and body, with a green tail hanging straight down " +
+      "behind and green at the feet. The beak is hooked and red like the rest " +
+      "of him, and the eye is a single small black dot painted onto plain red.\n\n" +
+      "That is what separates him from the parrot already here. The other one " +
+      "has yellow worked into the beak, a pale patch running down the side of " +
+      "the face with the eye set into it, a white flash at the throat and " +
+      "yellow and green down the wing. This one has none of that - no face " +
+      "patch, no throat flash, nothing on the wing - and a green tail the " +
+      "other one does not show.",
+    tags: ["parrot", "bird", "animal", "red", "green-tail", "second-of-its-kind",
+           "painted-eye"],
+    images: [
+      { src: "images/the-second-parrot-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Named the way the Second Serpent and the Second Cyborg Soldier are named, for arriving after somebody.\n\nThe first thing this card had to do was rule out being a duplicate. The collection already has a parrot - red, riding a German Shepherd - and a second red parrot turning up is exactly the sort of thing that gets catalogued twice by accident. It is not the same bird: the printing is different in four places and they are listed on the card rather than buried here.\n\nWhat is not settled is whether they are the same kind of bird. Two red parrots in one collection, printed differently, could be two species or one species and two paint jobs. Nothing says, and no line is drawn beyond the plain one between them.\n\nHe is the only bird here photographed with another bird, and the only one standing on his own tail."
+  },
+
+  {
+    id: "the-hedgehog",
+    name: "The Hedgehog",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Hedgehog",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A hedgehog. Small, round, and looking up.",
+    provenance:
+      "A dark brown shell of spines covering the whole back and head, moulded " +
+      "in rows of blunt points rather than needles, with a socket bored down " +
+      "through the top of it.\n\n" +
+      "The face and the four feet are pale cream and come out from under the " +
+      "spines. It is the only part of him that is printed, and it is printed " +
+      "carefully: two large dark eyes with a white catchlight in each and a " +
+      "lash line drawn over both, a black nose, and the mouth curved under it. " +
+      "He is looking upward and slightly to one side.",
+    tags: ["hedgehog", "animal", "small", "brown", "spines", "printed-face",
+           "looking-up"],
+    images: [
+      { src: "images/the-hedgehog-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. First hedgehog, and the first animal in the collection whose face was drawn to be looked at rather than to be accurate.\n\nThat is worth a line because of what it sits next to. The section has a wampa, a megalodon with a brow printed over its eye so it looks like it means it, three skeleton horses and a velociraptor. This one has eyelashes.\n\nHe is also the only animal here with a socket through the top of his head, which on everything else in this collection means something clips on. Nothing is clipped on, and nothing says what would."
+  },
+
+  {
+    id: "the-baby-bird",
+    name: "The Baby Bird",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bird",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A baby bird, sitting on a stud with its tail up.",
+    provenance:
+      "Warm tan, one piece, the body a smooth round wedge with the tail " +
+      "sticking out flat behind and the whole thing sitting on a single round " +
+      "stud.\n\n" +
+      "The head is printed on one side only: a small yellow beak, one black " +
+      "eye, and a white brow patch with a red-brown streak laid through the " +
+      "middle of it. Nothing on the body, nothing on the tail, nothing on the " +
+      "other side of the head.",
+    tags: ["bird", "baby", "animal", "tan", "small", "printed-head", "stud-base"],
+    images: [
+      { src: "images/the-baby-bird-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. Third bird in one batch and the fourth in the collection, after the parrot on the German Shepherd's back, the Owl and the Second Parrot. Two days ago there were none.\n\nHe is the smallest animal here. The Devil Duck is two bricks and is smaller as an object, but he is a god made of bricks rather than a moulded animal; among the things shaped like creatures this one is the least of them.\n\nWhose baby is not written. There are three grown birds in the collection now and none of their cards say anything about a nest.\n\nThe printing stops at the far side of his head, which is normal for a piece this size and worth recording anyway: from one angle he has a face and from the other he has not."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
