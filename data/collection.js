@@ -5732,7 +5732,9 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-baby-apes", label: "His children" }
+    ],
     rating: 0,
     background: "A gorilla. Conscious, highly intelligent, and a genius with it.",
     provenance: "",
@@ -19800,7 +19802,9 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-mini-beasts", label: "The same thing, small" }
+    ],
     rating: 0,
     background:
       "A werewolf.",
@@ -24543,7 +24547,9 @@ window.COLLECTION = [
     role: "Alligator",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "robotgator", label: "The same animal, with hardware" }
+    ],
     rating: 0,
     background:
       "Three alligators, lying flat and pointed the same way.",
@@ -24600,6 +24606,183 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-28",
     notes: "Filed with the enemy, and this one is a filing decision made on the evidence rather than the standing rule - the same kind of call the Skeleton Horses card explains.\n\nThe reason is on the card. The Squid Warriors already here are dark red, they are squids, and their card calls them evil squids in as many words. This figure is dark red, is a squid, and arrived with nothing said about it. Sending it to the good deck by default would have put an animal on the opposite side from the only other animal of its kind and colour in the collection. So it goes over with them. One word brings it back.\n\nIt is the second sea creature on the enemy's deck after the Anglerfish, and it makes the sharks and the Megalodon the odd ones out: they are the only creatures of the sea here on the good side, and their cards already say the record is against them.\n\nEight arms, so it reads as an octopus rather than a squid. Squid is your word and the card keeps it.\n\nNo face at all. Eight hundred and fifty figures and the things without faces have all been machines, helmets or masks. This is the first living thing here that simply has not got one."
+  },
+
+  {
+    id: "robotgator",
+    name: "RobotGator",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Alligator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-alligators", label: "Same animal, before the hardware" }
+    ],
+    rating: 0,
+    background:
+      "RobotGator. An alligator with machinery worked into its head.\n\n" +
+      "It is the same animal as the three plain alligators in this collection " +
+      "and it is the only one of the four with anything done to it.",
+    provenance:
+      "The same dark green alligator as the other three - long flat snout, " +
+      "wavy jaw seam with small teeth showing, spiked plates up the back and " +
+      "tail, a run of bare studs along the spine, stubby legs splayed at the " +
+      "sides.\n\n" +
+      "The difference is a silver plate laid along the side of the jaw, " +
+      "printed with dark markings and carrying one amber lamp set into it. " +
+      "The plate is applied rather than moulded, and its edge has begun to " +
+      "lift away from the green.",
+    tags: ["alligator", "reptile", "animal", "robot", "cyborg", "machine",
+           "silver-plate", "amber-lamp", "modified"],
+    images: [
+      { src: "images/robotgator-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "RobotGator is your name and it is the only name on this card.\n\nHe is the first animal in this collection that is part machine, which puts him next to two things already here and the card does not choose between them.\n\nThe first is a whole section. The rebuilt and the bionic holds twenty-five figures who have had machinery put into them - the Discarded, the Rebuilt, the Mechanic, Claws, the cyborg soldiers - and every single one of them is a person. An animal in that section would be a new thing and possibly the point of him.\n\nThe second is Steel, whose card says in as many words that everything mechanical answers to him and that he is the one in charge of all robots. Read flat, that sentence claims this animal. Steel is on the enemy deck and this card is not, which is the tension: a good gator with a machine in its head either proves Steel does not own quite everything, or proves this one is his.\n\nNo line drawn either way, because you have not said. He is filed good by the standing rule for an animal with no story, and he stays in the animals section because he is an alligator with a plate stuck on him rather than a machine shaped like one.\n\nThe plate is peeling. On these cards wear reads as history, and this is the first time the history is coming off."
+  },
+
+  {
+    id: "the-baby-apes",
+    name: "The Baby Apes",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ape",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-genius-gorilla", label: "Their father" }
+    ],
+    rating: 0,
+    background:
+      "Two baby apes, and they are the Genius Gorilla's children.\n\n" +
+      "That makes them the first animals in this collection born to another " +
+      "animal here. Everything else in the section arrived on its own.",
+    provenance:
+      "Two of them, identical and tiny, in black. Each sits back on its " +
+      "haunches with one long arm thrown straight up over the head and the " +
+      "other folded across the chest.\n\n" +
+      "The face is a cream mask printed with two black eyes, a small nose and " +
+      "a wide closed smile drawn from cheek to cheek, with a cream ear " +
+      "standing off each side of the skull. Nothing else is printed on them.",
+    tags: ["ape", "gorilla", "chimp", "animal", "baby", "children", "pair",
+           "black", "intelligent"],
+    images: [
+      { src: "images/the-baby-apes-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "You called them the intelligent gorilla's kids, so the line to the Genius Gorilla is drawn on your word rather than on a guess. It is the first parent-and-child link in the animals section and one of very few anywhere in the collection.\n\nIt also inherits his card's problem, which is worth saying out loud. The Genius Gorilla is filed as an animal but his own note calls him the first animal here who is a person in his own right - conscious, highly intelligent, a genius. If that is true of him it is presumably true of these two, and then the animals section is holding three people. The section's rule is whether there is somebody in there. For the gorillas the honest answer is yes and they are in it anyway, because you handed them in as animals. Say the word and all three come out.\n\nOne small thing the catalogue should fix rather than ask about: their father has no physical description on his card at all. His provenance field is empty. He has been here since long before the animals section existed and nobody has ever written down what he looks like.\n\nBoth of them have one arm up. Not a wave and not a reach - the pose is moulded in, so it is what they always do."
+  },
+
+  {
+    id: "kitty",
+    name: "Kitty",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Cat",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-white-cat", label: "The other cat" }
+    ],
+    rating: 0,
+    background:
+      "Kitty. A tabby, standing with her tail up.",
+    provenance:
+      "Warm orange brown, standing four square with the tail curled up over " +
+      "the back. Brown tabby stripes are printed across the crown and down " +
+      "the flank, with a white patch at the chest and a white flash over the " +
+      "shoulder.\n\n" +
+      "The face is a cream muzzle with a small magenta nose and a black mouth " +
+      "drawn under it, one brown eye with a white catchlight, and a white " +
+      "brow over it. The ears stand up and are marked brown inside.",
+    tags: ["cat", "animal", "tabby", "orange", "striped", "tail-up", "pet"],
+    images: [
+      { src: "images/kitty-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Kitty is taken as a name rather than as a word for what she is, because you gave the other one a description - white cat - and gave this one this. If it was meant the other way round, say so.\n\nFirst cat in the collection, and the second arrived in the same batch. There is a card here that has been waiting for them: the Cat Lover, a civilian filed under cats and glasses, whose whole entry is that she likes them. She has never had one. Nothing says these are hers, so no line is drawn, but somebody should say.\n\nShe is one of two pets in the animals section - this one and the Puppy - against horses, sharks, a megalodon, a bear, alligators and a raptor. The section has been all working animals and predators until now."
+  },
+
+  {
+    id: "the-white-cat",
+    name: "The White Cat",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Cat",
+    group: "",
+    location: "",
+    relations: [
+      { to: "kitty", label: "The other cat" }
+    ],
+    rating: 0,
+    background:
+      "A white cat, crouched down with its front end low and its back end up. " +
+      "The only animal in the collection caught mid-pounce.",
+    provenance:
+      "Plain white and completely unprinted - no eyes, no nose, no markings " +
+      "anywhere on it. A different mould from the other cat and a different " +
+      "pose: the chest is flat to the ground, the forelegs are stretched out " +
+      "ahead, the haunches are raised and the tail stands straight up.\n\n" +
+      "The face is moulded rather than painted. The ears are laid back flat " +
+      "against the skull and the whole head is pushed forward along the " +
+      "ground.",
+    tags: ["cat", "animal", "white", "unprinted", "crouching", "pounce",
+           "moulded-face"],
+    images: [
+      { src: "images/the-white-cat-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name, taken off the one thing you said about it.\n\nIt has no printing at all, which makes it one of a very small number of figures here with no face painted on. The difference is that the others got there by being machines, helmets or masks. This one is an animal whose face was moulded in and never printed, so it has features without having a single mark on it.\n\nThe pose is the whole card. Everything else in the animals section stands, walks, lies down or sits - the Puppy has a paw up and that is as much movement as this collection has managed. This one is flat to the floor with its haunches in the air, which is not resting and is not walking. It is about to do something.\n\nNo colour, no print, no name and no story. The most anonymous figure in the section, and the only one in the middle of an action."
+  },
+
+  {
+    id: "the-mini-beasts",
+    name: "The Mini Beasts",
+    variant: "Three of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Beast",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-werewolf", label: "The same thing, full size" }
+    ],
+    rating: 0,
+    background:
+      "Three beasts, and they are a quarter the size of everything else here.\n\n" +
+      "They are not minifigures. Each one is a single solid piece with a stud " +
+      "on top of the head - no arms that move, no legs that move, nothing that " +
+      "comes apart.",
+    provenance:
+      "Three, identical, in reddish brown. The face is printed as a shaggy " +
+      "dark mane framing a snarl: two yellow eyes with no pupils, and a mouth " +
+      "of white fangs standing up and down across the whole width of it.\n\n" +
+      "The body is printed with dark fur over the chest and shoulders, a pale " +
+      "ragged band at the waist, and claws marked at the feet. The head is " +
+      "hollow-studded on top like an ordinary head but the whole figure is one " +
+      "piece from crown to base.",
+    tags: ["beast", "monster", "werewolf", "microfigure", "villain", "fangs",
+           "three-figures", "one-piece", "small"],
+    images: [
+      { src: "images/the-mini-beasts-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Two decisions on this card and both are arguable.\n\nThe first is the side. Filed with the enemy, on the evidence rather than on the standing rule - the same kind of call the Skeleton Horses and the Squid explain. Every monster in this collection is an enemy: the Werewolf, the Yeti, the Orc Queen, the Short Orc, the Warrior Orc, the Giant Orc and the Orc-Alien Hybrid. Nine out of nine, no exceptions. Three more snarling things with fangs go the same way until you say otherwise.\n\nThe second is that they are not in the animals section, and that is the section's own rule turning on them. The test written into it is whether there is somebody in there, not what shape the head is - which is why Laval, the Bear Villager and the Werewolf are all kept out. These three stand upright, they have hands and feet, and they are wearing something at the waist. They are beast-people, exactly like the Werewolf, so they are filed with him rather than with the bears. You sent them in a run of animals, so if that reading is wrong, one word puts them in.\n\nThey are also the first figures in the collection that are not minifigure-scale at all. Eight hundred and sixty figures, and every one of them until now has been either a minifigure, a creature built at minifigure scale, or something bigger. These are smaller, and they are one solid piece."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
