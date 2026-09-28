@@ -24983,6 +24983,178 @@ window.COLLECTION = [
     notes: "Placeholder name, taken from your word for him.\n\nFiled with the Warriors rather than the Soldiers, which is the rung this catalogue keeps for people who fight with their hands and with blades: a bronze blade does not beat a minigun, however well trained the man holding it. He carries no weapon in the photograph at all, so that placement is off the straps, the furs and the snarl rather than off anything he is holding.\n\nGood side, and that is the standing rule for somebody with no story rather than a reading of his face. He is snarling, he is stripped to the waist and he is armed with nothing, and none of that says which way he would swing.\n\nThe gem is the part that does not fit. Everything else about him is leather, fur and bare skin, and then there is a cut white stone mounted in a diamond at the centre of his chest. Barbarians in this collection do not have jewellery because until now this collection did not have a barbarian."
   },
 
+  {
+    id: "the-frogs",
+    name: "The Frogs",
+    variant: "Four of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Frog",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Four frogs, three green and one yellow, all of them crouched and none " +
+      "of them doing anything.\n\n" +
+      "There has been a frog in this collection for a long time and it has " +
+      "never been one of these. It is on a man's head.",
+    provenance:
+      "Four, one piece each. Three are the same bright green and one is " +
+      "yellow, and the yellow one is the same mould as the rest.\n\n" +
+      "Each sits low with the hind legs folded up along the sides and the " +
+      "forelegs tucked under the chin, the back rising to a hump behind the " +
+      "head. The eyes are two bumps moulded at the crown rather than printed, " +
+      "the mouth is a line cut across the front, and a seam runs the length of " +
+      "each flank where the leg meets the body.\n\n" +
+      "No printing anywhere on any of them.",
+    tags: ["frog", "amphibian", "animal", "green", "yellow", "four-figures",
+           "moulded", "unprinted"],
+    images: [
+      { src: "images/the-frogs-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the four: same mould, one photograph, and the only difference between them is that one came out yellow.\n\nThey walk straight into the strangest card in the collection. The Man with the Frog uncovered a statue of a frog, it fastened itself to the top of his head the moment he picked it up, and it has not come off since - he now has every power a frog has and is indestructible, and he uses it to commute to an office. That card has no provenance written on it at all. Nobody has ever described his frog.\n\nSo there are now four frogs here and no way to tell whether one of them is the same object that made an ordinary civilian indestructible. If his is this mould, say so, and the line between these and him gets drawn. Nothing is drawn yet because nothing says so.\n\nThey are the first amphibians in the collection. The alligators work on land and in water; these are the first that start in it."
+  },
+
+  {
+    id: "the-spiders",
+    name: "The Spiders",
+    variant: "Six of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Spider",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Six spiders, in four colours, and the first actual spiders in a " +
+      "collection that has been full of the idea of them.",
+    provenance:
+      "Six, identical in mould and split across four colours: three black, " +
+      "one solid blue, one translucent blue that the light goes through, and " +
+      "one red.\n\n" +
+      "Each is a domed body with two small eyes moulded at the front of the " +
+      "crown and eight legs coming off it - the front pair hooked up and " +
+      "inward, the rest splayed flat. Nothing is printed on any of them; the " +
+      "faces are moulded in.\n\n" +
+      "The translucent one is the only one you can see into. In every other " +
+      "respect it is the same animal as the other five.",
+    tags: ["spider", "arachnid", "animal", "six-figures", "black", "blue", "red",
+           "translucent", "moulded"],
+    images: [
+      { src: "images/the-spiders-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the six: one mould, one photograph, four colours.\n\nThe open question is whether they belong to somebody. The Evil Insects is a group of two - the Insect Captain, who commands them, and the Evil Bug - and the captain's card was written with the line that the insects he commands had never been photographed. Six creatures with eight legs turning up is the nearest thing to an answer that has arrived.\n\nThe case against is simple and it is the reason no line is drawn: a spider is not an insect. This catalogue has already refused one join on a technicality - the Sting Rays came in with an insect printed across the chest and were kept out because an emblem is a badge rather than an animal - so it should be just as careful going the other way. Say the word and six spiders join the Evil Insects. Say nothing and they stay loose and filed good, which here means unallocated.\n\nThe other thing they land on is the spider-shaped hole in this collection. There are two figures here built on spiders - Cowboy Spider-Man, and Widow, a horse wearing a red spider mask across her muzzle - and until today not one actual spider. The idea arrived years before the animal."
+  },
+
+  {
+    id: "the-rats",
+    name: "The Rats",
+    variant: "Three of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Rat",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Three rats. The first vermin in the collection - the first animals here " +
+      "that nobody keeps, rides, fights or feeds.",
+    provenance:
+      "Three, in bone white going grey. Two of them are the same: the fur is " +
+      "cut into the plastic in deep ragged strokes over the back and " +
+      "haunches, the face draws forward to a point with the ears set small and " +
+      "round behind it, the forepaws are tucked under the chest, and the tail " +
+      "comes off the back smooth and bare and curls away.\n\n" +
+      "The third stands apart from those two in the photograph, turned away " +
+      "with its head down. It is paler, and the fur on it reads smoother and " +
+      "shallower than on the other pair, which may be a second mould or may " +
+      "just be the angle. It is not something the photograph settles.",
+    tags: ["rat", "rodent", "vermin", "animal", "three-figures", "white",
+           "moulded", "unprinted"],
+    images: [
+      { src: "images/the-rats-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the three because they arrived in one photograph, with the caveat about the third written into the description rather than hidden here.\n\nThey are a kind of animal this collection has not had. Everything else in the section has a place in somebody's life - the horses are ridden, the dogs and cats are kept, the sharks and the raptor are dangerous, the camel carries things. Rats are none of that. They are the first animals here that simply live in the same buildings as everybody else.\n\nThat makes them the first figures in the collection that imply a setting rather than a person. Nothing in eight hundred and seventy cards has ever needed there to be a cellar.\n\nFiled good, which means unallocated. If they belong to somewhere - the Bin, the prison, a sewer under Lego City - say where and they stop being loose."
+  },
+
+  {
+    id: "the-crabs",
+    name: "The Crabs",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Crab",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two crabs, one yellow and one dark red, flat to the ground with their " +
+      "claws up.",
+    provenance:
+      "Two, the same mould in two colours. The shell is a flat oval with a " +
+      "single stud on top of it and a scatter of small bumps moulded across " +
+      "the back.\n\n" +
+      "Six legs come off the sides in a row, each one bent and tapering, and " +
+      "the two front limbs end in open claws. They stand no higher than the " +
+      "shell.\n\n" +
+      "The yellow one is a warm orange yellow, the other a deep dark red. " +
+      "Nothing is printed on either.",
+    tags: ["crab", "crustacean", "sea", "animal", "pair", "yellow", "dark-red",
+           "claws", "moulded"],
+    images: [
+      { src: "images/the-crabs-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the two: one mould, two colours, one photograph.\n\nThe dark red one is worth a second look. Dark red is the colour the sea's enemies wear in this collection - the two Squid Warriors are dark red, their card calls them evil squids, and the Squid that arrived this week is dark red and was filed with them on the strength of it. This crab is the same colour. It is also a crab, which is not a squid, so nothing has been done about it and the card says so rather than quietly matching them up.\n\nThe sea is now the most lopsided part of the collection. On the enemy deck: the Anglerfish and the Squid, plus the Shark, Squid and Manta Warriors, who are people. On this deck: two Sharks, the Megalodon, three Jellyfish and these two crabs - eight creatures, every one of them filed good by the standing rule rather than by anything you said, and every one of their cards saying the record is against it. One word would move the lot."
+  },
+
+  {
+    id: "the-jellyfish",
+    name: "The Jellyfish",
+    variant: "Three of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Jellyfish",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Three jellyfish. The only animals in the collection you can see " +
+      "through, and the only ones with nothing inside them at all.",
+    provenance:
+      "Three, identical, in translucent deep pink. Each is a domed bell with " +
+      "deep ribs running from the crown down to the rim, cut into eight " +
+      "segments, sitting on a plain round base.\n\n" +
+      "No face, no eyes, no limbs, no printing. The plastic is clear enough " +
+      "that the baseplate shows through the bell, and the colour deepens where " +
+      "the ribs thicken.",
+    tags: ["jellyfish", "sea", "animal", "translucent", "pink", "three-figures",
+           "faceless", "no-limbs"],
+    images: [
+      { src: "images/the-jellyfish-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the three: identical, one photograph.\n\nThey are the simplest figures in the collection. The Devil Duck is two bricks and the Companion Robot is a head on a rod, but both of those are still made of parts. These are one piece with no face, no limbs, no print and nothing that could be called a front. The Squid was written up as the first living thing here with no face at all; these are the first with no anything.\n\nThe translucency is not decoration. Plenty of figures here carry a clear part - a visor, a blade, a canopy - and a few are clear all the way through, the Air Duck God and Darth Vader's hologram among them. On those it reads as light, or as a projection, or as a god. On these it reads as water, which is the only case in the collection where see-through plastic is being used to say what the animal is actually made of.\n\nFiled good along with the rest of the sea, and the Crabs card sets out how lopsided that has become. Eight sea creatures on this deck now, all of them there by default."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
