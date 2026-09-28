@@ -24094,7 +24094,9 @@ window.COLLECTION = [
     role: "Horse",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-duck-god", label: "The other brick-built god" }
+    ],
     rating: 0,
     background:
       "The God Horse.\n\n" +
@@ -24118,7 +24120,7 @@ window.COLLECTION = [
       { src: "images/the-god-horse-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-28",
-    notes: "The name is the open question and it is the first thing on this card rather than the last, because it is the one thing here I could get badly wrong.\n\nYou called him the God Horse. That could mean he is a god, or it could mean he is a god's horse, and those land four rungs apart. The ladder here has a Gods rung and two figures on it, and it is defined as creative power - the ability to make things - rather than as a title. Nothing you said puts him there, so he is filed at Horse with the rest of the animals, which is a holding position and not a judgement. One word moves him, and if the word is god he goes to the top of the collection.\n\nWhat is not in doubt is that he is different in kind from everything else in the section. Every other animal here is a moulded piece that came out shaped like the animal. This one is bricks - a window brick for a face, an arch brick for hindquarters, two round plates for eyes, one of them red and one of them tan. He is the oldest way of making a horse there is, and he is the only figure in the collection that is an animal by construction rather than by moulding.\n\nThe two round plates on his crown are doing the work. They are not a matched pair, they are not where eyes go on a real horse, and they are the only colour on him. Whether they are eyes at all is not something the bricks say."
+    notes: "The name is the open question and it is the first thing on this card rather than the last, because it is the one thing here I could get badly wrong.\n\nYou called him the God Horse. That could mean he is a god, or it could mean he is a god's horse, and those land four rungs apart. The ladder here has a Gods rung and two figures on it, and it is defined as creative power - the ability to make things - rather than as a title. Nothing you said puts him there, so he is filed at Horse with the rest of the animals, which is a holding position and not a judgement. One word moves him, and if the word is god he goes to the top of the collection.\n\nWhat is not in doubt is that he is different in kind from everything else in the section. Every other animal here is a moulded piece that came out shaped like the animal. This one is bricks - a window brick for a face, an arch brick for hindquarters, two round plates for eyes, one of them red and one of them tan. He is the oldest way of making a horse there is.\n\nWhen this card was written he was the only animal here built rather than moulded. He is not any more, and what arrived beside him turns the question above from a quibble into a real one. There are three brick-built animals in this collection now - this one, the Duck God and the Devil Duck - and every single one of them is named for a god or a devil. Nothing else in the animals section is built rather than moulded, and nothing else in it carries a name like that. Two could be chance. Three is a category, and it says the bricks are how this world does its gods.\n\nThe two round plates on his crown are doing the work. They are not a matched pair, they are not where eyes go on a real horse, and they are the only colour on him. Whether they are eyes at all is not something the bricks say."
   },
 
   {
@@ -24417,6 +24419,187 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-28",
     notes: "The name is yours. It is also the only name in the animals section that is a species rather than a description, which puts him closer to Widow and Laval than to the Brown Horse.\n\nHe is the largest animal in the collection - bigger than the Wampa, who is twice the bulk of a minifigure, and several times the two sharks he arrived with.\n\nFiled on the good deck for the same reason they are, and with the same doubt written on their card: every sea creature here before today is an enemy. He is the one this reads worst on. A thing named for the largest shark that ever lived, with a brow printed over its eye so that it looks like it means it, is not obviously somebody's friend. Say the word and he goes over.\n\nThe brow is the detail. The other two sharks have a plain eye and no opinion. This one has been drawn a face."
+  },
+
+  {
+    id: "the-duck-god",
+    name: "The Duck God",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Duck",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-god-horse", label: "The other brick-built god" },
+      { to: "the-devil-duck", label: "The duck on the other side" }
+    ],
+    rating: 0,
+    background:
+      "The Duck God.\n\n" +
+      "He is the second brick-built animal in this collection and the second " +
+      "one you have named for a god, which is now too many to be a coincidence.",
+    provenance:
+      "Six bricks, in four colours, and none of them are the colours a duck " +
+      "is. A red brick on the ground with an orange one stacked on it makes " +
+      "the body. Two slopes sit on top facing the same way - an orange one " +
+      "behind and a blue one lapped over the front of it, so the orange shows " +
+      "as a strip along the back of the blue.\n\n" +
+      "Behind the blue slope a blue step stands up with two bare studs on it. " +
+      "One orange stud is left exposed on the orange slope and one blue stud " +
+      "on the blue. The sloped faces are the rough-textured kind, which is the " +
+      "only surface detail anywhere on him.\n\n" +
+      "Read from the side, the two slopes are a head and a bill. Nothing is " +
+      "printed. Nothing is moulded. He is a duck because the bricks are " +
+      "arranged that way and for no other reason.",
+    tags: ["duck", "bird", "animal", "brick-built", "god", "abstract",
+           "needs-a-rung"],
+    images: [
+      { src: "images/the-duck-god-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "This card exists to make a pattern visible, so here it is first.\n\nThere are three brick-built animals in this collection and every one of them has a theological name. The God Horse, in white. The Duck God, in red, orange and blue. The Devil Duck, in red and black. Nothing else in the animals section is built rather than moulded, and nothing else in it is named for anything divine. Two of those could be chance. Three is a category.\n\nSo the same question the God Horse's card asks is now asked twice, and it matters more. If the bricks are how this world does gods, then two figures here belong on the top rung of the collection and one belongs on the enemy's, and the animals section is holding three of the most important figures in the catalogue at the rung for horses. If the names are just what you called them, nothing moves. One word does it either way.\n\nUntil then he is filed at the animal rung with the rest, which is a holding position and not a judgement.\n\nOne thing the plastic says on its own: he is the only figure in the collection whose colours are an argument against him. Red, orange and blue is not a duck, is not a god, and is not camouflage. Somebody built a duck out of whatever was in reach and then called it a god anyway."
+  },
+
+  {
+    id: "the-devil-duck",
+    name: "The Devil Duck",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Duck",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-duck-god", label: "The duck on the other side" }
+    ],
+    rating: 0,
+    background:
+      "The Devil Duck. The god's opposite number, and the smaller of the two.",
+    provenance:
+      "Two bricks. A black brick on the ground, and a red slope set on top of " +
+      "it facing forward, with two red studs left bare along the back edge. " +
+      "The sloped face is the rough-textured kind.\n\n" +
+      "That is the whole figure. No printing, no moulding, no third piece. He " +
+      "is the smallest thing in the collection.",
+    tags: ["duck", "bird", "animal", "brick-built", "devil", "villain", "red",
+           "black", "abstract", "two-bricks"],
+    images: [
+      { src: "images/the-devil-duck-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "You named him a devil, so he is on the enemy's deck. That is the whole of the faction reasoning and it is the only one of the three brick ducks and horses whose side you actually gave me.\n\nHe is the third brick-built animal here and the third with a theological name, which is the pattern the Duck God's card sets out at length: nothing in the animals section is built rather than moulded except these three, and nothing else in it is named for anything divine. If that pattern is real then this one is not a duck at the animal rung, he is a devil, and he belongs up with the enemy's principals rather than down among the horses. Filed at the rung for now. One word.\n\nTwo bricks is the whole build, which makes him the smallest figure in the collection and, if the name is literal, the largest gap between what a figure is made of and what it is.\n\nRed on black against the Duck God's red, orange and blue. The two of them share a colour and nothing else."
+  },
+
+  {
+    id: "the-velociraptor",
+    name: "The Velociraptor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dinosaur",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A velociraptor. The first dinosaur in the collection, and the first " +
+      "animal here that could hunt a minifigure down.",
+    provenance:
+      "Tan, striped dark green - bars across the skull, a band over the " +
+      "shoulders, blotches down the flank and rings the length of the tail. " +
+      "One yellow eye with a slit pupil. The jaw stands open on a row of small " +
+      "pointed teeth.\n\n" +
+      "He is built to run: the body carried level, the tail out straight " +
+      "behind as a counterweight, heavy hind legs and small forelimbs held up " +
+      "and hooked. A dark green socket is set into the shoulders.\n\n" +
+      "He is flecked all over with dried lime green - on the muzzle, the " +
+      "forearm, the feet and the hip. It is not part of the print and it is " +
+      "not his colour. One of the three alligators carries the same lime " +
+      "green in the same places.",
+    tags: ["dinosaur", "velociraptor", "raptor", "animal", "predator", "striped",
+           "tan", "green", "hunter"],
+    images: [
+      { src: "images/the-velociraptor-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name, which is also just what he is.\n\nFiled on the good deck, which here means unallocated rather than friendly - you said nothing about a side and an animal with no story falls there by the standing rule. He is the fifth predator in a row to land that way, after the Bear, the two Sharks and the Megalodon, and the Wampa is still the only animal in the collection actually filed as an enemy. If the predators belong over there as a block, one word moves all of them.\n\nThe lime green is the interesting thing and it is on the card rather than in this note. Wear reads as history here, and this is not wear - it is paint or glue, dried, and an alligator in the same batch has it too. Those two were somewhere together. Nothing else in the collection carries it.\n\nHe is also the first dinosaur. Eight hundred and fifty figures, a section for the animals, and until now the closest thing to one was a wampa."
+  },
+
+  {
+    id: "the-alligators",
+    name: "The Alligators",
+    variant: "Three of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Alligator",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Three alligators, lying flat and pointed the same way.",
+    provenance:
+      "Three, identical, in dark green. The snout is long and flat with the " +
+      "jaw cut along it as a wavy seam and small teeth showing through, a " +
+      "nostril bored at the tip and a heavy brow ridge standing over the eye.\n\n" +
+      "Plates run up the back and down the tail in raised spikes, with scale " +
+      "marks scratched in between them, and a run of bare studs sits along the " +
+      "spine. The legs are stubby and splayed out at the sides. They lie flat " +
+      "rather than standing.\n\n" +
+      "The leftmost one carries a scrap of dried lime green at the head - the " +
+      "same lime green flecked over the Velociraptor in this batch, and " +
+      "nowhere else in the collection.",
+    tags: ["alligator", "crocodile", "animal", "reptile", "predator", "green",
+           "three-figures", "scaled"],
+    images: [
+      { src: "images/the-alligators-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the three: identical, one photograph.\n\nFiled good, which again means unallocated. Three more predators onto that deck in one batch.\n\nThe lime green links one of them to the Velociraptor, and that is the only physical evidence in the whole collection of two animals having been anywhere together. Everything else here is connected by what you have said about it. These two are connected by what is dried onto them.\n\nThey are also the first reptiles in the collection, and the first animals here that are amphibious - the sharks and the Megalodon are of the sea, the rest are of the land, and these three are the first that work in both."
+  },
+
+  {
+    id: "the-squid",
+    name: "The Squid",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Squid",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-squid-warrior", label: "Same colour, same creature" }
+    ],
+    rating: 0,
+    background:
+      "A squid, dark red, arms spread on the floor.\n\n" +
+      "The collection already had two evil squids. They were people wearing a " +
+      "squid's head. This is the animal, in the same colour they are.",
+    provenance:
+      "Dark red throughout. A smooth domed body with a socket set into each " +
+      "side and two studs on the crown, and eight arms coming off it - each " +
+      "one flat, tapering, and curled under at the tip into a closed ring.\n\n" +
+      "No face. No eyes printed anywhere on him. Nothing on the body but the " +
+      "sockets, which means the only thing he is built to do is hold on to " +
+      "something.",
+    tags: ["squid", "octopus", "animal", "sea", "creature", "dark-red", "arms",
+           "villain", "faceless"],
+    images: [
+      { src: "images/the-squid-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Filed with the enemy, and this one is a filing decision made on the evidence rather than the standing rule - the same kind of call the Skeleton Horses card explains.\n\nThe reason is on the card. The Squid Warriors already here are dark red, they are squids, and their card calls them evil squids in as many words. This figure is dark red, is a squid, and arrived with nothing said about it. Sending it to the good deck by default would have put an animal on the opposite side from the only other animal of its kind and colour in the collection. So it goes over with them. One word brings it back.\n\nIt is the second sea creature on the enemy's deck after the Anglerfish, and it makes the sharks and the Megalodon the odd ones out: they are the only creatures of the sea here on the good side, and their cards already say the record is against them.\n\nEight arms, so it reads as an octopus rather than a squid. Squid is your word and the card keeps it.\n\nNo face at all. Eight hundred and fifty figures and the things without faces have all been machines, helmets or masks. This is the first living thing here that simply has not got one."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

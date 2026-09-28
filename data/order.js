@@ -256,7 +256,9 @@ window.ORDER = {
        "the-god-horse", "the-skeleton-horses",
        "the-camel", "the-tauntauns", "the-bear",
        "the-german-shepherd-and-the-parrot", "the-dogs", "the-puppy",
-       "the-sharks", "the-megalodon",
+       "the-sharks", "the-megalodon", "the-squid",
+       "the-velociraptor", "the-alligators",
+       "the-duck-god", "the-devil-duck",
        "the-genius-gorilla", "the-wampa", "the-yeti", "the-anglerfish",
        "the-evil-bug", "the-brain-parasites",
     ],
@@ -435,6 +437,7 @@ window.ORDER = {
     // them rather than getting a rung of their own. It is the rung, not a
     // claim that a camel is a soldier.
     "Camel": 5, "Tauntaun": 5, "Bear": 5, "Dog": 5, "Shark": 5,
+    "Duck": 5, "Dinosaur": 5, "Alligator": 5, "Squid": 5,
 
     // 6 - police
     // Inside the police the third number orders the whole rung: the chiefs,
