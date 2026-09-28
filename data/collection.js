@@ -16099,7 +16099,9 @@ window.COLLECTION = [
     role: "Parasite",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-friendly-alien-sucker", label: "The same creature, on the other side" }
+    ],
     rating: 0,
     background:
       "Brain-eating parasites. They fasten onto a person's head and feed on " +
@@ -25034,7 +25036,9 @@ window.COLLECTION = [
     role: "Spider",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-ants", label: "The same mould" }
+    ],
     rating: 0,
     background:
       "Six spiders, in four colours, and the first actual spiders in a " +
@@ -25210,7 +25214,8 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-baby-dragon", label: "Photographed with him" },
-      { to: "the-velociraptor", label: "The grown one" }
+      { to: "the-velociraptor", label: "The grown one" },
+      { to: "the-gold-scorpions", label: "The other gold animals" }
     ],
     rating: 0,
     background:
@@ -25232,7 +25237,7 @@ window.COLLECTION = [
       { src: "images/the-baby-dinos-01.jpg", caption: "The two of them, with the Baby Dragon between" }
     ],
     acquired: "2026-09-28",
-    notes: "Placeholder name. Three figures came in one photograph under two names, and they are split two and one on the mould: these two match each other and the dark green one does not. That reasoning is set out on the Baby Dragon's card. One word puts all three back together.\n\nThe photograph on this card holds all three, because the two dinos stand at opposite ends of it with the dragon in the middle. The caption says so.\n\nThe gold is the thing worth keeping. Every other animal in this collection is the colour something alive would be - white horses, a brown bear, green alligators, a tan camel, pink jellyfish. This one is gold the whole way through, which in this world is the colour of rank: the Commissioner's helmet band, the Golden Company, the gold sash the loyal wear against the traitor's black. A gold animal has never happened here before.\n\nWhether that means anything is yours. It might be a baby dinosaur that came out gold.\n\nThe Velociraptor is on the shelf and is the only other dinosaur in the collection, so the line is drawn to him. Nothing says these are his."
+    notes: "Placeholder name. Three figures came in one photograph under two names, and they are split two and one on the mould: these two match each other and the dark green one does not. That reasoning is set out on the Baby Dragon's card. One word puts all three back together.\n\nThe photograph on this card holds all three, because the two dinos stand at opposite ends of it with the dragon in the middle. The caption says so.\n\nThe gold is the thing worth keeping. Every other animal in this collection is the colour something alive would be - white horses, a brown bear, green alligators, a tan camel, pink jellyfish. This one is gold the whole way through, which in this world is the colour of rank: the Commissioner's helmet band, the Golden Company, the gold sash the loyal wear against the traitor's black. A gold animal had never happened here before.\n\nIt did not stay unique for a day. Three gold scorpions arrived in the batch straight after him, off the same mould as three black ones, which makes four gold animals in the collection and turns a curiosity into a pattern. Whatever gold means on a creature here, it is not a one-off.\n\nWhether that means anything is yours. It might be a baby dinosaur that came out gold.\n\nThe Velociraptor is on the shelf and is the only other dinosaur in the collection, so the line is drawn to him. Nothing says these are his."
   },
 
   {
@@ -25401,6 +25406,183 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-28",
     notes: "Placeholder name. Third bird in one batch and the fourth in the collection, after the parrot on the German Shepherd's back, the Owl and the Second Parrot. Two days ago there were none.\n\nHe is the smallest animal here. The Devil Duck is two bricks and is smaller as an object, but he is a god made of bricks rather than a moulded animal; among the things shaped like creatures this one is the least of them.\n\nWhose baby is not written. There are three grown birds in the collection now and none of their cards say anything about a nest.\n\nThe printing stops at the far side of his head, which is normal for a piece this size and worth recording anyway: from one angle he has a face and from the other he has not."
+  },
+
+  {
+    id: "the-friendly-alien-sucker",
+    name: "The Friendly Alien Sucker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Parasite",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-brain-parasites", label: "The same creature, on the other side" }
+    ],
+    rating: 0,
+    background:
+      "A friendly one.\n\n" +
+      "This collection already has two of these and they eat people's brains. " +
+      "They fasten onto a head and feed on what is inside it, and they are the " +
+      "first enemy here that is not a person or a machine - the first thing " +
+      "that just eats. This is the same creature and you say it is friendly.",
+    provenance:
+      "Lime green throughout, one moulded piece, and it is the same shape as " +
+      "the Brain Parasites down to the detail: one eye on a short stalk " +
+      "standing off the top with a black pupil painted into it, a wide round " +
+      "mouth opening through the middle of the body with a row of blunt points " +
+      "over it, and curled legs hanging down all round to grip with.\n\n" +
+      "What it has not got is their paint. Theirs have white teeth ringing the " +
+      "mouth and a dark red throat behind it. This one is bare lime the whole " +
+      "way through, so the mouth is a hole you can see clean through rather " +
+      "than something with an inside.",
+    tags: ["parasite", "alien", "sucker", "creature", "lime", "friendly",
+           "one-eye", "moulded", "unpainted"],
+    images: [
+      { src: "images/the-friendly-alien-sucker-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "This is the best thing in the batch and it is worth being clear about why.\n\nThe Brain Parasites are on the enemy deck and their card says what they do: they fasten onto a person's head and feed on what is inside it. They are one of the few things in this world that is not a person or a machine and has no motive beyond eating. This figure is the same mould as those two - the same stalked eye, the same ring of legs, the same mouth - and you have called it friendly. So this world now has a good one of the thing that eats minds, and nothing anywhere says how that happened.\n\nThe difference in the plastic may be the whole story or may be nothing. Theirs are painted: white teeth round the mouth, a red throat behind it. This one has no paint at all, so the mouth goes straight through it. A creature of that kind with nothing in its throat is either a young one, a different animal that looks the same, or the same animal with nothing in it. The card does not choose.\n\nIt is filed at Parasite, which this catalogue puts at Elite - above every other animal in the collection, all of whom sit at Soldiers. That is not a judgement about this one, it is the rung the Brain Parasites already set, and it means the friendly sucker outranks the megalodon.\n\nWhat it actually does for anybody is unwritten."
+  },
+
+  {
+    id: "the-scorpions",
+    name: "The Scorpions",
+    variant: "Three of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Scorpion",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-gold-scorpions", label: "The same animal in gold" }
+    ],
+    rating: 0,
+    background:
+      "Three scorpions, black, tails up.",
+    provenance:
+      "Three, identical, in black. The body is flat and broad with a socket " +
+      "bored through the middle of the back, and two arms come forward from " +
+      "the front corners ending in open pincers.\n\n" +
+      "The tail is a run of segments rising off the rear and curving up and " +
+      "over, with a blunt sting turned forward at the top of it. The legs are " +
+      "cut in as short ridges along both sides. Nothing is printed.",
+    tags: ["scorpion", "arachnid", "animal", "villain", "black", "three-figures",
+           "sting", "pincers", "desert"],
+    images: [
+      { src: "images/the-scorpions-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. One card for the three: same mould, same colour, one photograph.\n\nFiled with the enemy, and unlike most of this batch that is a decision rather than a default. The tail is up. Every other animal that has arrived without a story went to the good deck because nothing about it said otherwise - a bear walks, a crab sits, a frog crouches. A scorpion with its sting cocked is the only one whose pose is a threat, and it is the pose the mould was made in, so they cannot be photographed any other way.\n\nThat is thin reasoning and it is written down so you can knock it over in one word.\n\nThey are the second arachnid here after the Spiders, who are on the good deck, so the two closest relatives in the collection are now on opposite sides. Nothing says they belong together and nothing says they do not."
+  },
+
+  {
+    id: "the-gold-scorpions",
+    name: "The Gold Scorpions",
+    variant: "Three of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Scorpion",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-scorpions", label: "The same animal in black" },
+      { to: "the-baby-dinos", label: "The other gold animal" }
+    ],
+    rating: 0,
+    background:
+      "Three more of the same scorpion, in gold.\n\n" +
+      "Gold in this world is the colour of rank. It is on the Commissioner's " +
+      "helmet as a solid band that means he is the one in charge, on the " +
+      "Golden Company, on the sash the loyal wear against the traitor's black. " +
+      "These are animals wearing it.",
+    provenance:
+      "Three, the same mould as the black scorpions and the same size: flat " +
+      "broad body, socket through the back, pincers forward, the segmented " +
+      "tail curled up over the body with the sting turned forward.\n\n" +
+      "The gold is moulded through the plastic rather than painted on, warm " +
+      "and slightly matte. One of the three carries dark scorch-coloured marks " +
+      "along the neck and the base of the tail - not print, and not on the " +
+      "other two.",
+    tags: ["scorpion", "arachnid", "animal", "villain", "gold", "three-figures",
+           "sting", "pincers", "marked"],
+    images: [
+      { src: "images/the-gold-scorpions-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name, and the same faction call as the black three: the tail is cocked, which is the only thing any of the six do. Knock it over in one word.\n\nThe gold is the reason this is a separate card rather than a variant line on the other one. Six scorpions arrived together, three of them in the colour this world uses for rank, and nothing else in the animals section is marked out that way except one gold baby dinosaur that turned up in the same week. Three days ago a gold animal had never happened here at all; there are now four.\n\nWhether gold means the same thing on a scorpion as it does on a helmet is the question. If it does, these three are not three more scorpions - they are the ones in charge of the other three.\n\nOne of them is marked. Dark streaks run along the neck and the base of the tail on that one alone, and they are not printing. On these cards wear reads as history, so something happened to it."
+  },
+
+  {
+    id: "the-ants",
+    name: "The Ants",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ant",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-spiders", label: "The same mould" }
+    ],
+    rating: 0,
+    background:
+      "Two ants.",
+    provenance:
+      "Two, the same, in a dark reddish brown that runs to grey through the " +
+      "legs and the underside, so the plastic reads two-toned and faintly " +
+      "metallic where the light sits on it.\n\n" +
+      "The build is the one the Spiders in this collection have: a domed " +
+      "abdomen behind, a joint at the centre with the mouthparts under it, and " +
+      "eight legs coming off the sides - the front pair hooked up and inward, " +
+      "the rest splayed flat. Nothing is printed; the face is moulded.",
+    tags: ["ant", "insect", "animal", "pair", "brown", "grey", "moulded",
+           "eight-legs"],
+    images: [
+      { src: "images/the-ants-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Ants is your word and the card is called that. What the plastic is, is the same mould as the six Spiders catalogued the day before - the same domed body, the same eight legs, the same hooked front pair - in a different colour. That is written into the description rather than hidden in this note, because it is the one thing about them somebody would want to check.\n\nIf they are ants then this world's ants have eight legs, which is fine; it is your world. If they are meant to be more spiders, say so and they fold into that card.\n\nIt matters slightly more than usual because of what is waiting for them. The Insect Captain commands the evil insects and his card was written with the line that none of them had ever been photographed. The Spiders were kept out of that group because a spider is not an insect. An ant is. So if these two are ants, they are the first figures in the collection that actually qualify for a group that has been sitting empty since it was made - and they are on the good deck, and he is not.\n\nNo line drawn. Say the word and it is."
+  },
+
+  {
+    id: "the-fish",
+    name: "The Fish",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fish",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A fish. Not a shark, not an anglerfish, not anybody's - a fish.",
+    provenance:
+      "Pale grey, one piece. The body is a smooth spindle with the gill line " +
+      "and a few scale ridges cut into the flank, a small fin standing off " +
+      "each side, and a flat forked tail at the back.\n\n" +
+      "The mouth end is open as a round socket, which is how it clips onto " +
+      "something. The eye is moulded rather than printed. It is scuffed dull " +
+      "along one flank and across the head.",
+    tags: ["fish", "sea", "animal", "grey", "small", "moulded", "unprinted",
+           "worn"],
+    images: [
+      { src: "images/the-fish-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name. The most ordinary animal in the collection, and that is the whole of its interest.\n\nThe sea here is all predators and monsters - two sharks, a megalodon named for the largest shark that ever lived, an anglerfish with fangs, a squid with no face, three jellyfish and two crabs. Nothing in the water has ever simply been food. This is the first.\n\nIt is also built to be held. The mouth is a socket, which on every other figure in this collection means the piece clips onto something else, and the usual something is a minifigure's hand. A fish that is made to be carried is a fish somebody caught.\n\nNobody is holding it. There are two fishermen in the collection - the Fisherman and his Son, and the Inuit Fisherman - and nothing says this is either one's."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
