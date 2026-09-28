@@ -6516,7 +6516,9 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-mini-statue", label: "The other statue" }
+    ],
     rating: 0,
     background:
       "The Statue of Liberty, except she is a walking person. Not a statue - an " +
@@ -18427,7 +18429,9 @@ window.COLLECTION = [
     role: "Raider",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-mini-sand-people", label: "The same people, small" }
+    ],
     rating: 0,
     background:
       "A Tusken Raider, off the desert planet.",
@@ -24099,7 +24103,8 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
-      { to: "the-duck-god", label: "The other brick-built god" }
+      { to: "the-duck-god", label: "The other brick-built god" },
+      { to: "the-air-duck-god", label: "The other brick-built god" }
     ],
     rating: 0,
     background:
@@ -24124,7 +24129,7 @@ window.COLLECTION = [
       { src: "images/the-god-horse-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-28",
-    notes: "The name is the open question and it is the first thing on this card rather than the last, because it is the one thing here I could get badly wrong.\n\nYou called him the God Horse. That could mean he is a god, or it could mean he is a god's horse, and those land four rungs apart. The ladder here has a Gods rung and two figures on it, and it is defined as creative power - the ability to make things - rather than as a title. Nothing you said puts him there, so he is filed at Horse with the rest of the animals, which is a holding position and not a judgement. One word moves him, and if the word is god he goes to the top of the collection.\n\nWhat is not in doubt is that he is different in kind from everything else in the section. Every other animal here is a moulded piece that came out shaped like the animal. This one is bricks - a window brick for a face, an arch brick for hindquarters, two round plates for eyes, one of them red and one of them tan. He is the oldest way of making a horse there is.\n\nWhen this card was written he was the only animal here built rather than moulded. He is not any more, and what arrived beside him turns the question above from a quibble into a real one. There are three brick-built animals in this collection now - this one, the Duck God and the Devil Duck - and every single one of them is named for a god or a devil. Nothing else in the animals section is built rather than moulded, and nothing else in it carries a name like that. Two could be chance. Three is a category, and it says the bricks are how this world does its gods.\n\nThe two round plates on his crown are doing the work. They are not a matched pair, they are not where eyes go on a real horse, and they are the only colour on him. Whether they are eyes at all is not something the bricks say."
+    notes: "The name is the open question and it is the first thing on this card rather than the last, because it is the one thing here I could get badly wrong.\n\nYou called him the God Horse. That could mean he is a god, or it could mean he is a god's horse, and those land four rungs apart. The ladder here has a Gods rung and two figures on it, and it is defined as creative power - the ability to make things - rather than as a title. Nothing you said puts him there, so he is filed at Horse with the rest of the animals, which is a holding position and not a judgement. One word moves him, and if the word is god he goes to the top of the collection.\n\nWhat is not in doubt is that he is different in kind from everything else in the section. Every other animal here is a moulded piece that came out shaped like the animal. This one is bricks - a window brick for a face, an arch brick for hindquarters, two round plates for eyes, one of them red and one of them tan. He is the oldest way of making a horse there is.\n\nWhen this card was written he was the only animal here built rather than moulded. He is not any more, and what arrived beside him turns the question above from a quibble into a real one. There are four brick-built figures in this collection now - this one, the Duck God, the Devil Duck and the Air Duck God - and every single one of them is named for a god or a devil. Nothing else here is built rather than moulded, and nothing else carries a name like that. Two could be chance. Four, with three of them ducks and one of those carrying an element in his name, is a pantheon, and it says the bricks are how this world does its gods.\n\nThe two round plates on his crown are doing the work. They are not a matched pair, they are not where eyes go on a real horse, and they are the only colour on him. Whether they are eyes at all is not something the bricks say."
   },
 
   {
@@ -24438,6 +24443,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-god-horse", label: "The other brick-built god" },
+      { to: "the-air-duck-god", label: "The other duck god" },
       { to: "the-devil-duck", label: "The duck on the other side" }
     ],
     rating: 0,
@@ -24464,7 +24470,7 @@ window.COLLECTION = [
       { src: "images/the-duck-god-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-28",
-    notes: "This card exists to make a pattern visible, so here it is first.\n\nThere are three brick-built animals in this collection and every one of them has a theological name. The God Horse, in white. The Duck God, in red, orange and blue. The Devil Duck, in red and black. Nothing else in the animals section is built rather than moulded, and nothing else in it is named for anything divine. Two of those could be chance. Three is a category.\n\nSo the same question the God Horse's card asks is now asked twice, and it matters more. If the bricks are how this world does gods, then two figures here belong on the top rung of the collection and one belongs on the enemy's, and the animals section is holding three of the most important figures in the catalogue at the rung for horses. If the names are just what you called them, nothing moves. One word does it either way.\n\nUntil then he is filed at the animal rung with the rest, which is a holding position and not a judgement.\n\nOne thing the plastic says on its own: he is the only figure in the collection whose colours are an argument against him. Red, orange and blue is not a duck, is not a god, and is not camouflage. Somebody built a duck out of whatever was in reach and then called it a god anyway."
+    notes: "This card exists to make a pattern visible, so here it is first.\n\nThere are four brick-built figures in this collection and every one of them has a theological name. The God Horse, in white. This one, in red, orange and blue. The Devil Duck, in red and black. The Air Duck God, in clear and yellow. Nothing else here is built rather than moulded, and nothing else carries a name like that. Two of those could be chance. Four, three of them ducks and one of them carrying an element, is a pantheon.\n\nSo the same question the God Horse's card asks is now asked twice, and it matters more. If the bricks are how this world does gods, then two figures here belong on the top rung of the collection and one belongs on the enemy's, and the animals section is holding three of the most important figures in the catalogue at the rung for horses. If the names are just what you called them, nothing moves. One word does it either way.\n\nUntil then he is filed at the animal rung with the rest, which is a holding position and not a judgement.\n\nOne thing the plastic says on its own: he is the only figure in the collection whose colours are an argument against him. Red, orange and blue is not a duck, is not a god, and is not camouflage. Somebody built a duck out of whatever was in reach and then called it a god anyway."
   },
 
   {
@@ -24479,7 +24485,8 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
-      { to: "the-duck-god", label: "The duck on the other side" }
+      { to: "the-duck-god", label: "The duck on the other side" },
+      { to: "the-air-duck-god", label: "The duck on the other side" }
     ],
     rating: 0,
     background:
@@ -24496,7 +24503,7 @@ window.COLLECTION = [
       { src: "images/the-devil-duck-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-28",
-    notes: "You named him a devil, so he is on the enemy's deck. That is the whole of the faction reasoning and it is the only one of the three brick ducks and horses whose side you actually gave me.\n\nHe is the third brick-built animal here and the third with a theological name, which is the pattern the Duck God's card sets out at length: nothing in the animals section is built rather than moulded except these three, and nothing else in it is named for anything divine. If that pattern is real then this one is not a duck at the animal rung, he is a devil, and he belongs up with the enemy's principals rather than down among the horses. Filed at the rung for now. One word.\n\nTwo bricks is the whole build, which makes him the smallest figure in the collection and, if the name is literal, the largest gap between what a figure is made of and what it is.\n\nRed on black against the Duck God's red, orange and blue. The two of them share a colour and nothing else."
+    notes: "You named him a devil, so he is on the enemy's deck. That is the whole of the faction reasoning and it is the only one of the three brick ducks and horses whose side you actually gave me.\n\nHe is one of four brick-built figures here and all four carry a theological name, which is the pattern the Duck God's card sets out at length: nothing else in the collection is built rather than moulded, and nothing else is named for anything divine. Three of the four are ducks, and he is the only one of those three on this side. If that pattern is real then this one is not a duck at the animal rung, he is a devil, and he belongs up with the enemy's principals rather than down among the horses. Filed at the rung for now. One word.\n\nTwo bricks is the whole build, which makes him the smallest figure in the collection and, if the name is literal, the largest gap between what a figure is made of and what it is.\n\nRed on black against the Duck God's red, orange and blue. The two of them share a colour and nothing else."
   },
 
   {
@@ -24782,7 +24789,198 @@ window.COLLECTION = [
       { src: "images/the-mini-beasts-01.jpg", caption: "The figures" }
     ],
     acquired: "2026-09-28",
-    notes: "Two decisions on this card and both are arguable.\n\nThe first is the side. Filed with the enemy, on the evidence rather than on the standing rule - the same kind of call the Skeleton Horses and the Squid explain. Every monster in this collection is an enemy: the Werewolf, the Yeti, the Orc Queen, the Short Orc, the Warrior Orc, the Giant Orc and the Orc-Alien Hybrid. Nine out of nine, no exceptions. Three more snarling things with fangs go the same way until you say otherwise.\n\nThe second is that they are not in the animals section, and that is the section's own rule turning on them. The test written into it is whether there is somebody in there, not what shape the head is - which is why Laval, the Bear Villager and the Werewolf are all kept out. These three stand upright, they have hands and feet, and they are wearing something at the waist. They are beast-people, exactly like the Werewolf, so they are filed with him rather than with the bears. You sent them in a run of animals, so if that reading is wrong, one word puts them in.\n\nThey are also the first figures in the collection that are not minifigure-scale at all. Eight hundred and sixty figures, and every one of them until now has been either a minifigure, a creature built at minifigure scale, or something bigger. These are smaller, and they are one solid piece."
+    notes: "Two decisions on this card and both are arguable.\n\nThe first is the side. Filed with the enemy, on the evidence rather than on the standing rule - the same kind of call the Skeleton Horses and the Squid explain. Every monster in this collection is an enemy: the Werewolf, the Yeti, the Orc Queen, the Short Orc, the Warrior Orc, the Giant Orc and the Orc-Alien Hybrid. Nine out of nine, no exceptions. Three more snarling things with fangs go the same way until you say otherwise.\n\nThe second is that they are not in the animals section, and that is the section's own rule turning on them. The test written into it is whether there is somebody in there, not what shape the head is - which is why Laval, the Bear Villager and the Werewolf are all kept out. These three stand upright, they have hands and feet, and they are wearing something at the waist. They are beast-people, exactly like the Werewolf, so they are filed with him rather than with the bears. You sent them in a run of animals, so if that reading is wrong, one word puts them in.\n\nThey are also the first figures in the collection that are not minifigure-scale at all. Eight hundred and sixty figures, and every one of them until now has been either a minifigure, a creature built at minifigure scale, or something bigger. These are smaller, and they are one solid piece.\n\nThey did not stay alone for long. Ten more microfigures arrived in the batch after them - six of Hogwarts, two sand people, a statue and a barbarian - which makes thirteen of them across five cards and a scale this collection did not have yesterday."
+  },
+
+  {
+    id: "the-air-duck-god",
+    name: "The Air Duck God",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Duck",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-duck-god", label: "The other duck god" },
+      { to: "the-devil-duck", label: "The duck on the other side" },
+      { to: "the-god-horse", label: "Built the same way" }
+    ],
+    rating: 0,
+    background:
+      "The Air Duck God. The third duck, and the one made of nothing you can " +
+      "see through.\n\n" +
+      "He settles a question this catalogue has been asking for two batches. " +
+      "There is not a duck god here - there is a set of them, and this one has " +
+      "an element attached to his name.",
+    provenance:
+      "Two bricks, both transparent. A clear slope sits on a transparent " +
+      "yellow brick, the slope facing forward the way the other two ducks " +
+      "face, with two clear studs left bare along the top edge.\n\n" +
+      "The sloped face is the rough-textured kind, which frosts it where the " +
+      "rest of him is glass-clear. You can see straight through the body to " +
+      "the baseplate behind, and the yellow in the lower brick only shows " +
+      "where the light catches it.\n\n" +
+      "Nothing printed. Nothing moulded. The same two-brick build as the " +
+      "Devil Duck, in the opposite material.",
+    tags: ["duck", "bird", "animal", "brick-built", "god", "air", "transparent",
+           "clear", "abstract", "two-bricks", "needs-a-rung"],
+    images: [
+      { src: "images/the-air-duck-god-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "This card is the one that makes the case, so it is put plainly.\n\nThere are now four figures in this collection built out of loose bricks rather than moulded, and every one of them is named for a god or a devil: the God Horse, the Duck God, the Devil Duck and this one. Three of the four are ducks. One of those ducks is a devil, and this one has an element in his name. That is not a coincidence and it is not a naming habit - it is a pantheon, and it has a weather system.\n\nAir implies the others. If there is an Air Duck God there is very likely a fire one, a water one and an earth one, and this catalogue would like to know before it builds the section wrong.\n\nSo the standing question is now urgent rather than pedantic. These four are filed at the animal rung, which is where horses and ducks go, and if the names mean what they appear to mean then three of the most important figures in the collection are sitting five rungs below the Prince because nobody has said the word. One word does it.\n\nThe build is worth its own line. The Devil Duck is two bricks, opaque, red on black. This one is two bricks, transparent, clear on yellow. Same shape, same size, inverted material - the devil is the only thing you cannot see through and the air god is the only thing you can."
+  },
+
+  {
+    id: "the-hogwarts-microfigures",
+    name: "The Hogwarts Microfigures",
+    variant: "Six of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Student",
+    group: "Hogwarts",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Six of Hogwarts, at a quarter the size of everybody else in it.\n\n" +
+      "Five students in four house colours, and one old man in a red robe who " +
+      "is not a student at all.",
+    provenance:
+      "Six microfigures, each one solid piece with a stud on the crown. Left " +
+      "to right:\n\n" +
+      "Yellow body and legs, brown hair, a grey V-neck jumper printed over a " +
+      "shirt and tie with a badger on the crest - Hufflepuff.\n\n" +
+      "Grey, light brown hair swept across the brow, smiling, a lion on the " +
+      "crest - Gryffindor.\n\n" +
+      "Dark red throughout, with long white hair to the shoulders and a full " +
+      "white beard and moustache covering most of the face. The robe is " +
+      "printed with a pale panel down the front and gold bands at the cuffs " +
+      "and hem. The only one of the six not in a school jumper.\n\n" +
+      "Blue body and legs, short black hair, a crest on the jumper - " +
+      "Ravenclaw.\n\n" +
+      "Grey, dark hair falling either side of the face, a painted mouth, a " +
+      "lion on the crest - Gryffindor.\n\n" +
+      "Grey, pale blond hair combed flat, a smirk, and a serpent on the crest " +
+      "- Slytherin.",
+    tags: ["harry-potter", "hogwarts", "microfigure", "students", "houses",
+           "six-figures", "branded", "one-piece"],
+    images: [
+      { src: "images/the-hogwarts-microfigures-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "One card for the six because they arrived as one thing in one photograph, and that is the arguable part. They are not identical the way the Camo Scouts or the Martians are - these are six different people, and the Shock Troopers went from one card to three the moment you said so. Say the word and these split.\n\nThe bearded one in red is the reason it matters. He is the only one of the six not in a school jumper, he is old, and he is at Hogwarts, which reads as Dumbledore. That is my reading off the print rather than anything you said, and if it is right then the headmaster of Hogwarts is currently filed on a card called The Hogwarts Microfigures at the rung for students, which is Civilians. Name him and he gets his own card and his own rung.\n\nHogwarts is now the largest single group in this collection that is not military: seven cards before this one - two professors, Harry, Neville, Fred, Luna and an unnamed student - and this one adds six more people on one card.\n\nThe houses are all four at once, which nothing else here manages. The five students cover Hufflepuff, Gryffindor twice, Ravenclaw and Slytherin, and the only house crest already in the collection is Harry's."
+  },
+
+  {
+    id: "the-mini-sand-people",
+    name: "The Mini Sand People",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Raider",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-tusken-raider", label: "The same people, full size" }
+    ],
+    rating: 0,
+    background:
+      "Two sand people, small. One of them has a face and the other has not " +
+      "been given one.",
+    provenance:
+      "Two microfigures in the same sand tan, one printed and one completely " +
+      "bare.\n\n" +
+      "The printed one has no face at all in the ordinary sense: the head is " +
+      "a black hood drawn across it with two red eyes burning inside, and a " +
+      "few tan strands falling either side. The body is a pale blue robe with " +
+      "a brown cord knotted at the waist, a second cord looped over the " +
+      "shoulders, and a round white pendant hanging at the chest.\n\n" +
+      "The other is the same piece with nothing on it. Bare tan plastic, " +
+      "crown to base, no print anywhere.",
+    tags: ["sand-people", "microfigure", "villain", "hooded", "red-eyes",
+           "robe", "pair", "unprinted", "desert"],
+    images: [
+      { src: "images/the-mini-sand-people-01.jpg", caption: "The figures" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Sand people is your word and the card takes it, which is also what decided the side. The only sand person in this collection is the Tusken Raider, he is filed with the enemy, and sending these two the other way would have split one people across both decks. That is a filing decision on the evidence, the same kind the Squid and the Mini Beasts explain, and one word reverses it.\n\nWhat is printed does not obviously say desert. A black hood with two red eyes inside it, a rope belt and a pendant reads closer to a cult than to a raiding party, and the robe is pale blue rather than sand. The description is on the card exactly as it appears so you can see what I saw and correct the name if it is wrong.\n\nOne of the two has never been printed at all. That is the third bare microfigure in the collection now, after the Mini Statue and the blank half of this pair - and it raises a question the catalogue cannot answer: whether an unprinted figure is a person waiting to be given a face, or a thing that is meant to be blank."
+  },
+
+  {
+    id: "the-mini-statue",
+    name: "The Mini Statue",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-statue-of-liberty", label: "The other statue" }
+    ],
+    rating: 0,
+    background:
+      "A statue of somebody, and nobody has said who.\n\n" +
+      "It is the only figure in this collection that is a monument rather than " +
+      "a person - a thing somebody in this world put up to remember somebody " +
+      "else.",
+    provenance:
+      "One microfigure in plain light grey, a single solid piece with a stud " +
+      "on the crown. Completely unprinted: no face, no clothing, no marking " +
+      "of any kind anywhere on it.\n\n" +
+      "The shape is the same as every other microfigure here - the same head, " +
+      "the same shoulders, the same split at the knees. Only the colour and " +
+      "the blankness make it stone.",
+    tags: ["statue", "monument", "microfigure", "grey", "unprinted", "stone",
+           "anonymous"],
+    images: [
+      { src: "images/the-mini-statue-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Statue is your word, and it is doing a lot of work. The plastic is an ordinary unprinted microfigure in grey; what makes it a monument is that you called it one. Without that it would be a blank.\n\nThat puts it next to the only other statue here. The Statue of Liberty is in this collection as a figure in her own right, filed good with no role, and she is a statue of an idea. This one is a statue of a person nobody has named. Between them they are the whole of this world's sculpture.\n\nIt is filed good with no role, which drops it to Civilians. A statue is not a combatant and cannot be, so the rung is as honest as the ladder can be about it - but if it stands somewhere that matters, say where and it moves.\n\nWho it is of is the open question, and it is a good one. Eight hundred and sixty-five figures, a great betrayal, a war, kings, gods and a man left for dead over a command board, and somebody in this world thought one of them was worth carving."
+  },
+
+  {
+    id: "the-mini-barbarian",
+    name: "The Mini Barbarian",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Barbarian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A barbarian, snarling, at a quarter scale.",
+    provenance:
+      "One yellow microfigure, a single solid piece. The face is printed " +
+      "angry: two hard eyes under a heavy brow, brown hair combed back into " +
+      "sideburns down both cheeks, and the mouth pulled open on a set of bared " +
+      "grey teeth.\n\n" +
+      "The body is bare yellow with two brown leather straps crossed over the " +
+      "chest and a white gem set in a diamond mount where they meet. A wide " +
+      "brown belt sits at the waist with a round stud at the buckle, and the " +
+      "hem below it is printed as ragged fur. Nothing on the legs.",
+    tags: ["barbarian", "warrior", "microfigure", "yellow", "snarl", "furs",
+           "gem", "bare-chested"],
+    images: [
+      { src: "images/the-mini-barbarian-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-28",
+    notes: "Placeholder name, taken from your word for him.\n\nFiled with the Warriors rather than the Soldiers, which is the rung this catalogue keeps for people who fight with their hands and with blades: a bronze blade does not beat a minigun, however well trained the man holding it. He carries no weapon in the photograph at all, so that placement is off the straps, the furs and the snarl rather than off anything he is holding.\n\nGood side, and that is the standing rule for somebody with no story rather than a reading of his face. He is snarling, he is stripped to the waist and he is armed with nothing, and none of that says which way he would swing.\n\nThe gem is the part that does not fit. Everything else about him is leather, fur and bare skin, and then there is a cut white stone mounted in a diamond at the centre of his chest. Barbarians in this collection do not have jewellery because until now this collection did not have a barbarian."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

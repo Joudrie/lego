@@ -260,6 +260,7 @@ window.ORDER = {
        "the-velociraptor", "the-alligators",
        "the-duck-god", "the-devil-duck",
        "robotgator", "the-baby-apes", "kitty", "the-white-cat",
+       "the-air-duck-god",
        "the-genius-gorilla", "the-wampa", "the-yeti", "the-anglerfish",
        "the-evil-bug", "the-brain-parasites",
     ],
@@ -529,6 +530,7 @@ window.ORDER = {
 
     // 5 - soldiers (second pass)
     "Cavalry": 6, "Clubman": 6, "Astronaut Soldier": 5, "Beast": 5, "Elf": 6,
+    "Barbarian": 6,
 
     // Third pass - corrections. A title only counts for as much as the force
     // behind it: leading a dive team or a pirate crew is not commanding an army.
