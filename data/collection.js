@@ -141,11 +141,10 @@ window.COLLECTION = [
       "wasn't over greater power — it was just teenage growing-up ego. " +
       "Afterwards they decided to meditate and grow as people over the thirty " +
       "years they've been alive, which is forever in a Lego lifespan.\n\n" +
-      "They carry orange lightsabers. Nothing else in this collection does.\n\n" +
       "Chill, ultimately. If you ever meet them you can just hang out. It's cool.",
     provenance:
       "Not a kitbash. They come as a matched pair, as-is, from the same set.",
-    tags: ["twin", "archangel", "jetpack", "status-quo", "pair", "orange-blade"],
+    tags: ["twin", "archangel", "jetpack", "status-quo", "pair"],
     images: [
       { src: "images/the-twins-01.jpg", caption: "The figures" },
       { src: "images/the-twins-02.jpg", caption: "Concept art" }
@@ -201,9 +200,9 @@ window.COLLECTION = [
     ],
     rating: 5,
     background:
-      "The second in command, and he truly holds that status. He carries one " +
-      "neon green lightsaber, he can use the Force, and he's so agile that when " +
-      "he bursts around he leaves a trail of neon green behind him.\n\n" +
+      "The second in command, and he truly holds that status. He dual-wields " +
+      "green lightsabers, he can use the Force, and he's so agile that when he " +
+      "bursts around he leaves a trail of neon green behind him.\n\n" +
       "The most badass guy ever. Skilled in hand-to-hand combat and proficient " +
       "with firearms. A strong silent type. He's also a mortal.\n\n" +
       "Super loyal to the creator — but more than that, they're best friends. " +
