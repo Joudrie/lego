@@ -3,6 +3,7 @@
    their tile instead of filling it. */
 window.WIDE = [
   "images/bravo-team-01.jpg",
+  "images/scenes/reznod-against-the-purple-shadow.jpg",
   "images/scenes/the-verdauf-brothers-reunite.jpg",
   "images/the-arctic-explorers-01.jpg",
   "images/the-battle-droids-02.jpg",

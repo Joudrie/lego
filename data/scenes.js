@@ -65,4 +65,86 @@ window.SCENES = [
     figures: ["the-green-captain", "the-younger-brother"],
   },
 
+  {
+    src: "images/scenes/the-second-against-the-twin.jpg",
+    title: "The Second against one of the Twins",
+    text:
+      "A blitz, caught at the instant it is stopped. The Second comes in low " +
+      "and almost horizontal with one neon green blade out ahead of him, a " +
+      "boot clipping the standing water, and the green trail of his own path " +
+      "still hanging in the air behind him. One of the Twins is planted and " +
+      "turning into it, catching the green on an orange blade with a second " +
+      "held clear.\n\n" +
+      "Both of these men are on the good deck, both are Demigods, and both " +
+      "are in the First Circle. They are on the same side.\n\n" +
+      "That is not without precedent here - the Twins' own card says the two " +
+      "of them once fought each other, and that it was not about power, it " +
+      "was teenage ego, and that they meditated for thirty years afterwards. " +
+      "Whether this is that kind of fight or a real one is unwritten. So is " +
+      "which Twin this is, though the blue one is the alpha of the pair.",
+    figures: ["the-second", "the-twins"],
+  },
+
+  {
+    src: "images/scenes/the-second-against-the-red-baron.jpg",
+    title: "The Second against the Red Baron",
+    text:
+      "The Second in the air, coming down out of a leap with the green blade " +
+      "overhead. The Red Baron braced under him in the water, red blade up to " +
+      "take it, the spikes on both shoulders raking out and the belt of white " +
+      "crosses catching the light.\n\n" +
+      "This one is the war as the catalogue has it: the second in command of " +
+      "the First Circle against a professional assassin who can use shadows " +
+      "and who enjoys taking skulls. Good against enemy, Demigod against " +
+      "Champion.\n\n" +
+      "Nothing anywhere says these two have ever met. The picture is the " +
+      "first record of it.",
+    figures: ["the-second", "the-red-baron"],
+  },
+
+  {
+    src: "images/scenes/reznod-against-the-purple-shadow.jpg",
+    title: "Reznod against the Purple Shadow",
+    text:
+      "Reznod driven back on one side of the frame, the Purple Shadow coming " +
+      "across him on the other, blades crossed between them in a burst of " +
+      "sparks. A wet floor under both of them and a hall going back into the " +
+      "dark.\n\n" +
+      "Both of them are on the enemy deck. Reznod stands on Quinn's own rung, " +
+      "at the top of the villain side; the Purple Shadow is the Sith who " +
+      "reached the shadow people through the dark arts and opened the portal " +
+      "that let Quinn get to them in the first place. He is the reason the " +
+      "shadow dimension is in this world at all.\n\n" +
+      "So this is two of the enemy's own fighting each other, and it is the " +
+      "most interesting unwritten thing on either card. Nothing says what it " +
+      "is over.",
+    figures: ["reznod", "the-purple-shadow"],
+  },
+
+  {
+    src: "images/scenes/nine-in-the-ruined-city.jpg",
+    title: "Nine, in the ruined city",
+    text:
+      "Nine of them standing together on broken ground with a city burning " +
+      "behind - a whole block gutted and smoking, fires still going in the " +
+      "rubble at their feet. Nobody is fighting. They are looking up at " +
+      "something out of frame.\n\n" +
+      "Only one man in it is identified. The Second is at the front right in " +
+      "the black armour, the sigils across the chest, the bare silver " +
+      "machine arm and the green fingertips.\n\n" +
+      "The other eight are not named anywhere yet, and this card is not going " +
+      "to guess at eight people. What is in the frame: a bearded man in a " +
+      "knit cap with a gold-worked waistcoat and two blue-lit rods standing " +
+      "off his shoulders; a blond man in tan with one gold pauldron and a " +
+      "cream scarf; a smiling man in blue and white checkered armour and a " +
+      "matching helmet; a red-robed figure with a high white collar holding a " +
+      "blue lightsaber; a dark-bearded man in navy with a globe on the chest " +
+      "and a curved sabre; a pilot in an orange flight suit with the goggles " +
+      "pushed up; a stubbled man in green and grey camouflage with a rifle " +
+      "across him; and a black helmet chequered black and white behind the " +
+      "Second's shoulder.\n\n" +
+      "Say who any of them are and they get written in.",
+    figures: ["the-second"],
+  },
+
 ];
