@@ -25668,20 +25668,31 @@ window.COLLECTION = [
       "nasal cavity cut in two, a row of teeth across the lower jaw, and dark " +
       "cracks running out from the mouth corners and down the cheeks. No skin " +
       "anywhere on the face.\n\n" +
-      "An olive-gold breastplate ribbed in segmented bands, with a dark blue " +
-      "stone set in a silver mount at the throat and silver collar bands " +
-      "sweeping out either side of it. A black armoured gauntlet, studded " +
-      "across the knuckles, on one arm; a pale arm on the other, with a " +
-      "blue-grey panel of real woven cloth hanging down that side - fabric, " +
-      "not printing, with the weave visible in it.\n\n" +
-      "A dark red cape behind him. Dark red legs and waistcloth printed with " +
-      "gold armour plates at the thighs and shins.\n\n" +
-      "A heavy black hilt, ribbed and ringed, with a translucent green blade.",
+      "The second photograph shows what the first one hid. A cowl of pale grey " +
+      "mail, woven cloth with the knit visible in it, comes over one shoulder " +
+      "and rises diagonally across the lower face - it covers the right of the " +
+      "jaw and the teeth under it, so half the skull is masked by the mail and " +
+      "half is bare bone.\n\n" +
+      "The breastplate is pale gold worked in segmented bands, with cyan and " +
+      "white linework running through it, white-silver collar plates sweeping " +
+      "out either side, and a round blue orb set in a white ring at the " +
+      "sternum. Both arms are bare white. One hand only is gloved: a black " +
+      "armoured gauntlet, studded across the knuckles, and the other hand is " +
+      "left bare.\n\n" +
+      "A deep oxblood cape of real cloth behind him, and dark red legs printed " +
+      "with pale gold armour - a shield-shaped plate at each thigh and gold " +
+      "bands across the boots, picked out in white.\n\n" +
+      "The weapon is not a hilt, it is a staff. A long run of black segments - " +
+      "ribbed grips, boxed emitter shrouds and rings stacked end to end - " +
+      "carried diagonally across the body and reaching past it at both ends. " +
+      "One blade is lit: translucent dark green, going to lime through the " +
+      "core where the light runs into it.",
     tags: ["villain", "reznod", "skull", "hood", "lightsaber", "green-blade",
            "cape", "gold-armour", "woven-cloth", "principal", "named",
            "no-story-yet"],
     images: [
-      { src: "images/reznod-01.jpg", caption: "The figure" }
+      { src: "images/reznod-01.jpg", caption: "The figure" },
+      { src: "images/reznod-02.jpg", caption: "The staff, and the mail over his jaw" }
     ],
     acquired: "2026-09-29",
     notes: "Placed on Quinn's rung because you said so, and standing behind the four already named there - Quinn, Steel, Phalanx and the Martian Leader - rather than in front of any of them. He goes in by name rather than by a job title, because you have not given him one and this card is not going to invent a job for somebody at the top of the enemy.\n\nNo group and no lines drawn. Quinn and his circle is a set of fifteen and it would be easy to drop him in it, but same rung is not the same as same side of the room, and nothing says he answers to Quinn or works with him.\n\nThe green blade is the thing the plastic gives up on its own. Four figures in this collection carry green and every one of them is good: the Snow Jedi, who is a Jedi Master; Ahsoka; the Green Demigod; and the Second. Reznod is the first green blade on the enemy deck. That makes three colours now that mean nothing reliable here - blue was broken by Clovis and Odenkirk in the same week, yellow arrived on Nick B Carpenter with nothing to compare it to, and green breaks today.\n\nThe cloth is worth recording because almost nothing here has any. It is a woven panel hanging down one side, not a printed one, and the weave is visible in the photograph.\n\nEverything else is blank on purpose. Who he is, what he did, what he wants, who he has got under him and who he answers to - none of it is written, and a figure on this rung with an empty card is the largest hole in the collection the day it is made."
