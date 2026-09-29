@@ -25642,6 +25642,51 @@ window.COLLECTION = [
     notes: "The name is a bee, and it explains the whole figure. Nick as in nectar. B as in bee. Carpenter as in carpenter bee. The yellow and black is the joke and the design at once - you said the transparent yellow body had always put you in mind of the Bruins or a bumblebee, and then a yellow saber turned up, and then a yellow shield, and that settled it. He is a pun you built.\n\nHe has the only full name in the collection with a middle initial, and now it is the only initial anywhere here that is a word.\n\nMost of the connections in this catalogue are made of sentences. This one is made of plastic: the head on this figure is the head off the baby, the same piece, carried across twenty years. Nothing else here joins two versions of a person that way.\n\nWhat he was before is also on the card, and it is worth saying why. He had no story. He was a cone, a head and a stud, made by a child who liked the colour scheme, and he sat in the background of two decades of play without ever being given anything. You said maybe he was a magic baby, you don't know, you never filled them in - and that is recorded here as exactly what it is, a maybe you offered rather than something true about the world. It is also the only thing anybody has ever suggested about him.\n\nElite is your word, so that is the rung he is on rather than one this catalogue worked out. A new role was made for him - Force Trainer - which puts him at Elite alongside the Jedi and files him under the Force in the sections rather than among ordinary people.\n\nThe yellow blade is new. This collection has blue, green, red and purple - the Jedi's blue staff, the Snow Jedi's green, Ahsoka's green, Darth Nihilus's red, the Purple Shadow's purple, and the two blue blades that arrived this week on Clovis and Odenkirk. Yellow has never appeared, so whatever a colour means here, his does not mean it yet.\n\nA trainer also lands next to the one training lineage on the shelf. The Snow Jedi is a Jedi Master who was formed out of ancient pieces and simply knows things without having learned them, and his card says he trained two Padawans and one of them is dead - the Beowulf Jedi and the Second Padawan are both catalogued under The Snow Jedi's Line. A promising teacher arriving into a world with exactly one teacher in it is worth a line between them. Nothing says there is one.\n\nThe face is worth recording because of what it is not. This is a collection of painted expressions - scars, beards, snarls, goggles, a man with an eye in his chest - and the newest Force user in it has the oldest face Lego makes."
   },
 
+  {
+    id: "reznod",
+    name: "Reznod",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Reznod. Evil, and one of the four or five people who actually run the " +
+      "enemy - you put him on Quinn's rung, which is the top of the villain " +
+      "deck and the highest anybody gets who is not a god.\n\n" +
+      "His blade is green, and he is the first enemy in this world to carry " +
+      "one.\n\n" +
+      "Nothing else about him is written down yet. This card is a place for it.",
+    provenance:
+      "A black hood up over the crown and down both sides, and inside it a " +
+      "skull. Pale grey-white, hollow black sockets with no eyes in them, the " +
+      "nasal cavity cut in two, a row of teeth across the lower jaw, and dark " +
+      "cracks running out from the mouth corners and down the cheeks. No skin " +
+      "anywhere on the face.\n\n" +
+      "An olive-gold breastplate ribbed in segmented bands, with a dark blue " +
+      "stone set in a silver mount at the throat and silver collar bands " +
+      "sweeping out either side of it. A black armoured gauntlet, studded " +
+      "across the knuckles, on one arm; a pale arm on the other, with a " +
+      "blue-grey panel of real woven cloth hanging down that side - fabric, " +
+      "not printing, with the weave visible in it.\n\n" +
+      "A dark red cape behind him. Dark red legs and waistcloth printed with " +
+      "gold armour plates at the thighs and shins.\n\n" +
+      "A heavy black hilt, ribbed and ringed, with a translucent green blade.",
+    tags: ["villain", "reznod", "skull", "hood", "lightsaber", "green-blade",
+           "cape", "gold-armour", "woven-cloth", "principal", "named",
+           "no-story-yet"],
+    images: [
+      { src: "images/reznod-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-29",
+    notes: "Placed on Quinn's rung because you said so, and standing behind the four already named there - Quinn, Steel, Phalanx and the Martian Leader - rather than in front of any of them. He goes in by name rather than by a job title, because you have not given him one and this card is not going to invent a job for somebody at the top of the enemy.\n\nNo group and no lines drawn. Quinn and his circle is a set of fifteen and it would be easy to drop him in it, but same rung is not the same as same side of the room, and nothing says he answers to Quinn or works with him.\n\nThe green blade is the thing the plastic gives up on its own. Four figures in this collection carry green and every one of them is good: the Snow Jedi, who is a Jedi Master; Ahsoka; the Green Demigod; and the Second. Reznod is the first green blade on the enemy deck. That makes three colours now that mean nothing reliable here - blue was broken by Clovis and Odenkirk in the same week, yellow arrived on Nick B Carpenter with nothing to compare it to, and green breaks today.\n\nThe cloth is worth recording because almost nothing here has any. It is a woven panel hanging down one side, not a printed one, and the weave is visible in the photograph.\n\nEverything else is blank on purpose. Who he is, what he did, what he wants, who he has got under him and who he answers to - none of it is written, and a figure on this rung with an empty card is the largest hole in the collection the day it is made."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

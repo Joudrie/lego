@@ -747,6 +747,11 @@ window.ORDER = {
     // was already there.
     "clovis": [3, 24],
 
+    // You put him on Quinn's rung. He stands behind the four already named
+    // there rather than in front of any of them, and he goes in by name
+    // because he has no job title yet.
+    "reznod": [2, 24],
+
     // --- Bravo Team, kept together on one rung. The job titles would have
     // scattered them - Explorer and Apprentice both read as civilian trades -
     // and all four went in at Civilians, which was wrong. They hold rank, they
