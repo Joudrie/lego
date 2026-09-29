@@ -1778,6 +1778,30 @@ window.LORE = [
       "that sentence reaches them too, and it would undo three of the best " +
       "stories on that side of the shelf. So it has not been applied to them. " +
       "Say the word and it is."
+  },
+
+  {
+    title: "Animals, and which side they are on",
+    text:
+      "The war has two sides and the animals were never asked.\n\n" +
+      "A horse, a crab, a bear or a shark arrives with no allegiance at all, " +
+      "and this catalogue files it on the good deck. That is not a claim that " +
+      "it is friendly. It means nobody has said, the deck has no third option, " +
+      "and an unallocated animal has to stand somewhere. Good, on an animal " +
+      "card, reads as unallocated.\n\n" +
+      "Four of them sit with the enemy instead, and each one is a filing " +
+      "decision made on something rather than on nothing. The Devil Duck is a " +
+      "devil because he was named one. The Skeleton Horses went over because " +
+      "every skeleton in this collection is over there. The Squid went with " +
+      "the Squid Warriors, who are the same dark red creature and whose card " +
+      "calls them evil squids. The six Scorpions went because their stings are " +
+      "up, which is the only threatening pose any animal here has, and it is " +
+      "moulded in so they cannot stand any other way.\n\n" +
+      "Everything else in the animals section is unallocated and the cards no " +
+      "longer ask about it. They record what the plastic is and what it stands " +
+      "next to, and they stop there. If an animal turns out to belong to " +
+      "somebody, or to a side, it is one line to write - but the section is " +
+      "scenery until then, and it was always meant to be."
   }
 
 ];
