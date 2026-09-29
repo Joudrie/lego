@@ -122,27 +122,39 @@ window.SCENES = [
   },
 
   {
-    src: "images/scenes/nine-in-the-ruined-city.jpg",
-    title: "Nine, in the ruined city",
+    src: "images/scenes/eight-in-the-ruined-city.jpg",
+    title: "Eight, in the ruined city",
     text:
-      "Nine of them standing together on broken ground with a city burning " +
+      "Eight of them standing together on broken ground with a city burning " +
       "behind - a whole block gutted and smoking, fires still going in the " +
       "rubble at their feet. Nobody is fighting. They are looking up at " +
       "something out of frame.\n\n" +
       "Only one man in it is identified. The Second is at the front right in " +
-      "the black armour, the sigils across the chest, the bare silver " +
-      "machine arm and the green fingertips.\n\n" +
-      "The other eight are not named anywhere yet, and this card is not going " +
-      "to guess at eight people. What is in the frame: a bearded man in a " +
-      "knit cap with a gold-worked waistcoat and two blue-lit rods standing " +
-      "off his shoulders; a blond man in tan with one gold pauldron and a " +
-      "cream scarf; a smiling man in blue and white checkered armour and a " +
-      "matching helmet; a red-robed figure with a high white collar holding a " +
-      "blue lightsaber; a dark-bearded man in navy with a globe on the chest " +
-      "and a curved sabre; a pilot in an orange flight suit with the goggles " +
-      "pushed up; a stubbled man in green and grey camouflage with a rifle " +
-      "across him; and a black helmet chequered black and white behind the " +
-      "Second's shoulder.\n\n" +
+      "the black armour - white sigils across the chest, a black helmet with " +
+      "a broad silver stripe over the crown and a dark visor, the bare silver " +
+      "machine arm, and green light at the fingertips.\n\n" +
+      "The other seven are not named anywhere yet, and this card is not going " +
+      "to guess at seven people. Left to right, what is actually in the " +
+      "frame:\n\n" +
+      "A dark-bearded man in navy with a globe printed in a white ring on the " +
+      "chest, brass cylinders on his belt, holding a curved sabre with a gold " +
+      "hilt.\n\n" +
+      "A pilot in an orange and white flight suit, helmet on with the goggles " +
+      "pushed up over it, ear cups, tattoos down one arm.\n\n" +
+      "Behind them, a bearded man in a grey knit cap and a purple shirt under " +
+      "a dark waistcoat embroidered all over in gold scrollwork, carrying a " +
+      "rig across his shoulders that ends in two dark cylinders lit blue, " +
+      "with a small blue lamp at his chest.\n\n" +
+      "At the front, a stubbled man with dark curls in green and cream plate " +
+      "with a target ring worked into the breastplate, a long rifle held " +
+      "across him.\n\n" +
+      "Behind him, a man with pale blond hair and a cream scarf in a quilted " +
+      "tan tunic, with a segmented gold pauldron and a full gold arm down one " +
+      "side.\n\n" +
+      "A smiling man in blue and white chequered armour under a blue helmet " +
+      "with vents at the sides.\n\n" +
+      "And at the right edge, auburn hair over a white high-collared shirt and " +
+      "a deep red patterned robe, holding a blue lightsaber lit.\n\n" +
       "Say who any of them are and they get written in.",
     figures: ["the-second"],
   },
