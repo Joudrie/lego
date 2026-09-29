@@ -25679,7 +25679,8 @@ window.COLLECTION = [
       "out either side, and a round blue orb set in a white ring at the " +
       "sternum. A panel of grey woven cloth, the knit visible in it, lies " +
       "across the chest and over the shoulders.\n\n" +
-      "A blue and black pauldron over the left shoulder. The deep oxblood " +
+      "A blue and black pauldron over the left shoulder - cloth, not plate. " +
+      "The deep oxblood " +
       "cape is hung off-centre: it comes forward over the right shoulder as " +
       "well as falling behind him.\n\n" +
       "Both arms are bare and bone white. One hand only is gloved - a black " +
