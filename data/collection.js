@@ -25704,6 +25704,280 @@ window.COLLECTION = [
     notes: "Placed on Quinn's rung because you said so, and standing behind the four already named there - Quinn, Steel, Phalanx and the Martian Leader - rather than in front of any of them. He goes in by name rather than by a job title, because you have not given him one and this card is not going to invent a job for somebody at the top of the enemy.\n\nNo group and no lines drawn. Quinn and his circle is a set of fifteen and it would be easy to drop him in it, but same rung is not the same as same side of the room, and nothing says he answers to Quinn or works with him.\n\nCorrected off a third photograph and off you telling me what I had got wrong. The first version of this card said the weapon was a double staff - it is one blade, and he carries a blaster in the other hand. It also said a cowl of mail came up over his jaw. It does not; the grey weave sits on the chest and shoulders and the lower face is part of the mask. Both of those were read off a bad angle and stated as fact, which they should not have been.\n\nThe species is the new thing and it is the largest. What shows of him is not skin. The arms are bone white the whole way down, hard and pale, and so is the head under the mask. He is not human, and nothing says what he is.\n\nThe concept art came after four passes and it is the first picture of him as a person rather than as plastic. It is also the only place the species is visible: the photographs show a pale arm and nothing more, and the painting shows what that pale is - hard, carved, not alive.\n\nThe green blade is the thing the plastic gives up on its own. Four figures in this collection carry green and every one of them is good: the Snow Jedi, who is a Jedi Master; Ahsoka; the Green Demigod; and the Second. Reznod is the first green blade on the enemy deck. That makes three colours now that mean nothing reliable here - blue was broken by Clovis and Odenkirk in the same week, yellow arrived on Nick B Carpenter with nothing to compare it to, and green breaks today.\n\nThe cloth is worth recording because almost nothing here has any. It is a woven panel hanging down one side, not a printed one, and the weave is visible in the photograph.\n\nEverything else is blank on purpose. Who he is, what he did, what he wants, who he has got under him and who he answers to - none of it is written, and a figure on this rung with an empty card is the largest hole in the collection the day it is made."
   },
 
+  /* The friend group. Five figures brought in together, and the last thing
+     said about them was that they are the last thing about them: they hang
+     around with each other. A hospital driver, two brothers who hold the
+     roads between worlds, an adventurer and a native in a mask. Nothing else
+     in the collection is filed by who somebody drinks with. */
+  {
+    id: "the-hospital-driver",
+    name: "The Hospital Driver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Hospital Driver",
+    group: "",
+    location: "Lego City",
+    relations: [
+      { to: "the-brother-with-the-hilt", label: "Friend" },
+      { to: "the-brother-in-blue", label: "Friend" },
+      { to: "the-white-haired-adventurer", label: "Friend" },
+      { to: "the-native-in-the-skeleton-mask", label: "Friend" }
+    ],
+    rating: 0,
+    background:
+      "He drives for the hospital.\n\n" +
+      "That is the job, and it is the whole of it. He is not a doctor and he " +
+      "is not a paramedic — nothing says he treats anybody. He is the man " +
+      "with the vehicle, which in a city this size is its own trade, and the " +
+      "reflective banding across his chest says what kind of hours he keeps.\n\n" +
+      "The interesting thing about him is the company. The other four he " +
+      "spends his time with are two brothers who guard the roads between " +
+      "worlds, an adventurer, and a native in a skeleton mask. He is the only " +
+      "one of the five with a street address and a shift.",
+    provenance:
+      "A red cap, round-crowned with a short brim. A yellow face with black " +
+      "brows, dark eyes with a white glint in each, and a small closed smile " +
+      "set slightly off to one side — an ordinary good mood, nothing more.\n\n" +
+      "Behind the head and sitting on the shoulders there is a white neck " +
+      "bracket: a flat white collar around the neck with a plate standing up " +
+      "behind it and studs on the back. Nothing is attached to it in the " +
+      "photograph. It is a mount, and whatever it is meant to carry is not " +
+      "here.\n\n" +
+      "The torso is red and printed as a jacket over a shirt: a white collar " +
+      "open at the throat with wide lapels, a cream panel showing beneath it, " +
+      "and the red jacket over the top with a pocket flap on each side. Two " +
+      "broad silver-grey bands run straight across the front, one at the " +
+      "chest and one at the waist, the reflective kind worn by people who " +
+      "work near moving traffic in the dark.\n\n" +
+      "Red arms, yellow hands, red legs, and no printing at all below the " +
+      "waist.",
+    tags: ["hospital", "driver", "ambulance", "reflective-bands",
+           "neck-bracket", "red", "friend-group", "worker", "lego-city"],
+    images: [
+      { src: "images/the-hospital-driver-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-29",
+    notes: "Filed with the working people, next to the other drivers. The rung runs down to anybody whose job can kill them and is not a fight, and a man driving a hospital vehicle through a city at night is squarely in it.\n\nThe white neck bracket is the one thing on him that is not explained. It is a mount with nothing mounted — air tanks, a lamp and a stretcher handle all fit it — and it is left described rather than guessed at.\n\nHe is called a hospital driver and not a paramedic on purpose. The jacket would carry either reading and only one of them was said out loud."
+  },
+
+  {
+    id: "the-brother-with-the-hilt",
+    name: "The Brother with the Hilt",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Trail Warden",
+    group: "The Trail Wardens",
+    location: "",
+    relations: [
+      { to: "the-brother-in-blue", label: "His brother" },
+      { to: "the-hospital-driver", label: "Friend" },
+      { to: "the-white-haired-adventurer", label: "Friend" },
+      { to: "the-native-in-the-skeleton-mask", label: "Friend" },
+      { to: "the-in-betweener", label: "Shares the between with him" },
+      { to: "king-arthur", label: "Hauls into his realm" }
+    ],
+    rating: 0,
+    background:
+      "He and his brother protect the trails between the worlds, and they " +
+      "move goods along them into the kingdom.\n\n" +
+      "That is a larger sentence than it looks, because until now the space " +
+      "between worlds had two boats in it and no roads. The trickster crosses " +
+      "it by water and collects the abandoned. The In-Betweener does not " +
+      "cross at all — he lives out there and stays. Neither of them is a route " +
+      "anybody else can use.\n\n" +
+      "These two are the route. If there are trails, there is traffic; if the " +
+      "trails need protecting, there is something on them worth being " +
+      "protected from. The between stops being a gap somebody lives in and " +
+      "becomes a place with roads and freight and men standing over both.\n\n" +
+      "He is the armed one.",
+    provenance:
+      "A red cap, flat-topped with a stiff brim — the shape of a uniform cap " +
+      "rather than a working one. The face under it is the oldest kind here: " +
+      "two dots, two dots for a nose that isn't drawn, and a plain smile, all " +
+      "of it scuffed. The paint has worn off one eye almost completely and " +
+      "there are scratches across the cheek and jaw. This figure has been " +
+      "handled for a long time.\n\n" +
+      "The torso is red, printed with a bib of grey scale mail: overlapping " +
+      "scales in rows, edged in black, covering the chest and shoulders and " +
+      "stopping in a straight line at the waist, with a stud marked at each " +
+      "shoulder where it is fastened. The red of the torso shows through the " +
+      "worn places in the scales. Below the mail the waist is dark. Red arms, " +
+      "yellow hands, red legs, no printing on them.\n\n" +
+      "In his left hand, held out level, a chrome lightsaber hilt: silver, " +
+      "banded and ribbed along the grip, flaring at the emitter, and hollow " +
+      "at the open end. There is no blade in it.",
+    tags: ["trails", "between-worlds", "brother", "sibling", "escort",
+           "scale-mail", "lightsaber-hilt", "unlit", "chrome", "red",
+           "friend-group", "worn"],
+    images: [
+      { src: "images/the-brother-with-the-hilt-01.jpg", caption: "The figure and the hilt" }
+    ],
+    acquired: "2026-09-29",
+    notes: "Both brothers carry the same job title and the same rung — soldiers, which is where the guards sit. They are not an army and they are not police; they are two men holding a road, and a road guard has always sat there.\n\nThe hilt is unlit, and that is rare. Fifteen figures here have a lightsaber somewhere in their story and only one other is holding a hilt with nothing coming out of it: the first of the three Mace Windus. So he is the second, and the only one on the custom side.\n\nThe better detail is that he is wearing both ends of his own run. The mail is the kingdom he delivers to — the realm where guns do not work and everybody fell back on medieval tactics. The hilt is from somewhere that does not have that problem. He is a man in chain mail carrying a weapon his destination could not build, which is exactly what a courier between worlds would end up looking like, and nobody designed it that way.\n\nThe wear is worth recording on its own. He is one of the most handled figures in the collection — an eye rubbed off, the scales gone through to red — and he was catalogued the same week as figures that came out of the box last year."
+  },
+
+  {
+    id: "the-brother-in-blue",
+    name: "The Brother in Blue",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Trail Warden",
+    group: "The Trail Wardens",
+    location: "",
+    relations: [
+      { to: "the-brother-with-the-hilt", label: "His brother" },
+      { to: "the-hospital-driver", label: "Friend" },
+      { to: "the-white-haired-adventurer", label: "Friend" },
+      { to: "the-native-in-the-skeleton-mask", label: "Friend" }
+    ],
+    rating: 0,
+    background:
+      "The other brother. Same trails, same cargo, same kingdom at the end of " +
+      "it.\n\n" +
+      "He carries nothing. Between the two of them there is one weapon and " +
+      "his brother is holding it, which either means he is the one who walks " +
+      "with the goods while the other walks ahead of them, or it means " +
+      "nobody has handed him anything yet. Nothing says which.",
+    provenance:
+      "A white helmet — the old space pattern, smooth-domed, with the front " +
+      "cut open in a wide rectangle and no visor clipped into it. Through the " +
+      "opening, the plain face: two dots and a curve, and not one other mark " +
+      "on it.\n\n" +
+      "A blue torso and blue arms with no printing anywhere, front or back. " +
+      "Yellow hands. Black legs, also unprinted.\n\n" +
+      "He is the plainest figure of the five and one of the plainest in the " +
+      "collection: four colours, one moulded part, and nothing drawn on him " +
+      "at all.",
+    tags: ["trails", "between-worlds", "brother", "sibling", "escort",
+           "blue", "space-helmet", "unprinted", "plain", "friend-group",
+           "unarmed"],
+    images: [
+      { src: "images/the-brother-in-blue-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-29",
+    notes: "The helmet is the only thing on him that came from somewhere. It is an old space helmet, worn open with no visor, on a man whose job is the road — which is either salvage or it is the sensible thing to wear where he works. It is the same reading as his brother's mail: kit picked up at one end of a route and worn at the other.\n\nHe sits on the same rung as his brother because they do the same job, not because he is armed. The catalogue ranks the office, and the office is holding a trail. Where two people share a rung the one who was written down first stands in front, so the armed brother leads and this one stands behind him, which is the only claim being made about the difference between them.\n\nThat he is completely unprinted is the point of the card. A man with nothing drawn on him is doing one of the more dangerous jobs anybody here has got."
+  },
+
+  {
+    id: "the-white-haired-adventurer",
+    name: "The White-Haired Adventurer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-hospital-driver", label: "Friend" },
+      { to: "the-brother-with-the-hilt", label: "Friend" },
+      { to: "the-brother-in-blue", label: "Friend" },
+      { to: "the-native-in-the-skeleton-mask", label: "Friend" }
+    ],
+    rating: 0,
+    background:
+      "An adventurer, and an old one — the hair is white and the face is set " +
+      "in a permanent bad temper.\n\n" +
+      "He is armoured where it counts and carrying an empty holster, which " +
+      "is the profile of somebody who has been doing this long enough to " +
+      "decide what is worth the weight. Nothing further has been said about " +
+      "him yet.",
+    provenance:
+      "White hair, moulded, swept back off the forehead and cut square at the " +
+      "back. A yellow face under it: heavy black brows drawn hard down " +
+      "towards the nose, eyes with a white glint, a flat frowning mouth and a " +
+      "dark mark on the chin below it. There are red scuffs across the " +
+      "forehead and the cheek — paint damage, not printing.\n\n" +
+      "Over both shoulders, a black shoulder piece: moulded plastic, glossy, " +
+      "flaring out and down over the tops of the arms and hanging behind him. " +
+      "Armour, not cloth.\n\n" +
+      "The torso is printed in two halves. The upper is a black vest with grey " +
+      "linework on it — a concentric grey disc set on each side of the chest, " +
+      "a grey yoke running between them with a tab at the sternum, a small " +
+      "ringed circle below the right disc, and across the lower chest a grey " +
+      "and black device panel with four red lights in a row and a round dial " +
+      "at one end of it. The lower half is tan, shaded orange, with a belt " +
+      "and a strap curving across it and a pale grey holster on the right " +
+      "hip, ribbed, with a black clasp over the top. The holster is empty.\n\n" +
+      "Both arms are tan. Yellow hands. Light grey legs, unprinted.",
+    tags: ["adventurer", "white-hair", "shoulder-armour", "holster",
+           "tech-vest", "orange", "friend-group", "no-story-yet"],
+    images: [
+      { src: "images/the-white-haired-adventurer-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-29",
+    notes: "Filed as an adventurer because that is the word used for him, and the adventurers sit with the soldiers: they are not an army but every one of them is armed and every one of them goes where the fighting is.\n\nHe is not in the Adventure Crew. That is a named outfit of nine with an aviator and a rifleman in it, and nothing connects him to it. His company is the other four on this page.\n\nThe torso is the only thing on him doing any work. It is high-technology printing — a lit console on the chest — worn under armour that is plainly not, and over a holster with nothing in it. Three different centuries on one body, and no story yet to say how they got there."
+  },
+
+  {
+    id: "the-native-in-the-skeleton-mask",
+    name: "The Native in the Skeleton Mask",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-hospital-driver", label: "Friend" },
+      { to: "the-brother-with-the-hilt", label: "Friend" },
+      { to: "the-brother-in-blue", label: "Friend" },
+      { to: "the-white-haired-adventurer", label: "Friend" },
+      { to: "the-minecraft-person", label: "Wears his kind of head" }
+    ],
+    rating: 0,
+    background:
+      "A native in a skeleton mask.\n\n" +
+      "The mask is the whole of what is strange about him, and it is strange " +
+      "in the way this world cares about. It is not painted on and it is not " +
+      "a face: it is a cube, out of the block world, pixelled — the same " +
+      "pattern of person as the Minecraft man, who is the clearest visitor " +
+      "here because the difference between him and everybody else is " +
+      "physical rather than a story.\n\n" +
+      "This one is only half that. The head is made to the block world's " +
+      "pattern and everything under it is made to ours: an ordinary " +
+      "minifigure body in ceremonial dress. So either a man of this world is " +
+      "wearing something he brought back from another one, or somebody from " +
+      "the block world is standing here in our body. Sigrid III is the only " +
+      "other figure built out of two worlds at once, and nobody has said what " +
+      "it means about him either.\n\n" +
+      "He runs with a hospital driver, two men who hold the roads between " +
+      "worlds, and an adventurer. Of everybody he could have fallen in with, " +
+      "he has fallen in with the two people whose job is the crossing.",
+    provenance:
+      "A white cube for a head, square-cornered, with a pixel face: two black " +
+      "rectangles for eyes and a black bar for a mouth, broken in the middle " +
+      "by a single grey square. There is no neck showing — the cube sits " +
+      "straight down onto a white collar at the shoulders.\n\n" +
+      "The torso is yellow, and so are the arms and the hands. Around the " +
+      "neck a printed collar: a cream ring at the throat and, radiating out " +
+      "and down across the chest, a fan of long pointed feathers picked out " +
+      "in red, green, black and cream. Across the waist a second band — black " +
+      "outline, filled green and red, with a row of ten white beads along it " +
+      "and a cream crescent rising out of the middle of it at the front.\n\n" +
+      "Tan legs, unprinted.",
+    tags: ["native", "mask", "skeleton", "minecraft", "cube-head", "pixel",
+           "feathers", "beads", "ceremonial", "friend-group", "two-worlds",
+           "no-story-yet"],
+    images: [
+      { src: "images/the-native-in-the-skeleton-mask-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-29",
+    notes: "He stands with the civilians, and that is a placeholder rather than a judgement. Nothing has been said about what he does, and the catalogue drops anybody with no job and no rank to the bottom of the good side by default. One sentence about his trade moves him.\n\nThe head is what earns the card. It is a Minecraft skeleton head, which is a real part out of a real Lego theme, and calling it a mask rather than a face was your word for it — which settles something the plastic could not. If it is a mask there is a face under it, and the face is a minifigure's.\n\nThe feathers and the beads are ceremonial dress and not armour. He is carrying nothing.\n\nThe open question is what he is a native of. In a world where every other collection is a different world and the man beside him guards the roads between them, the word has more than one answer, and none of them has been given."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

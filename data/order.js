@@ -128,6 +128,17 @@ window.ORDER = {
     // Family, not the household - the staff, the guards and the orphans are in
     // The Royal Household instead. The impersonator is a stuntman doing an
     // Elvis act and the Pretender is a pretender; neither is a relation.
+    // Five figures who are filed together for one reason: they hang around
+    // with each other. No unit, no shared trade, no side of a war. A hospital
+    // driver, two brothers who hold the roads between worlds, an adventurer
+    // and a native in a mask - and the only thing said about the five of them
+    // as a five is that they are friends. It is the one section here built out
+    // of company rather than out of work.
+    "The friend group": [
+      "the-brother-with-the-hilt", "the-brother-in-blue",
+      "the-white-haired-adventurer", "the-native-in-the-skeleton-mask",
+      "the-hospital-driver",
+    ],
     "The Royal Family": [
       "the-prince", "the-space-princess", "the-royal-sons", "the-royal-daughter",
       "the-outcast-prince", "kaz", "the-princes-cousin",
@@ -362,7 +373,7 @@ window.ORDER = {
     "the-transport-director", "the-escapees", "the-second-boxer",
     "the-financier-in-the-green-tie", "the-evil-financier",
     "the-financier-in-the-cravat", "the-tv-camera-woman", "the-pa",
-    "the-neutral-skeletons",
+    "the-neutral-skeletons", "the-hospital-driver",
   ],
 
   /* --------------------------------------------------------- what they ARE
@@ -431,6 +442,9 @@ window.ORDER = {
     "Fighter Pilot": [5, 5, 80], "Pilot": [5, 5, 82], "Pilot Officer": [5, 5, 82],
     "Cargo Pilot": [5, 5, 84], "Test Pilot": [5, 5, 86],
     "Scout": 5, "Guard": 5, "Prince's Guard": 5,
+    // Two brothers holding the roads between worlds. Not an army and not
+    // police - men standing over a route, which is what a guard is.
+    "Trail Warden": 5,
     "Droid": 5, "Killer Bot": 5, "Defense Bot": 5, "Robot": 5,
     "Machine Gunner": 5, "Artillery": 5, "Defense Gunner": 5, "Medic": 5,
     "Armorer": 5, "Technician Sergeant": 5, "Sergeant": [5, 1],
@@ -500,6 +514,7 @@ window.ORDER = {
     "Site Planner": [10, 5, 34],
     "Racing Driver": [10, 5, 36], "Stunt Driver": [10, 5, 36],
     "Stuntman": [10, 5, 36], "Stunt Double": [10, 5, 36],
+    "Hospital Driver": [10, 5, 36],
     "Chef": [10, 5, 36], "Gas Attendant": [10, 5, 36],
 
     // 40 - desks, shops, stages

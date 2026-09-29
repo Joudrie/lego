@@ -119,6 +119,29 @@ window.LORE = [
   },
 
   {
+    title: "The trails, and who holds them",
+    text:
+      "The between has roads in it.\n\n" +
+      "Until now everything that moved between worlds moved by water. The " +
+      "trickster crosses in his boat and collects the abandoned. The " +
+      "In-Betweener has a boat and does not cross at all — he lives out there. " +
+      "Neither of them is a route: one is a rescue and the other is a " +
+      "resident.\n\n" +
+      "Two brothers hold trails through it, and they run goods along those " +
+      "trails into the kingdom. That changes the shape of the place. A trail " +
+      "means the crossing can be made on foot and made again, by people who " +
+      "are not gods and do not own a boat. Freight means somebody at this end " +
+      "is waiting on a delivery. And protecting a trail means there is " +
+      "something out there to protect it from, which is the first thing " +
+      "anybody has said about the between being dangerous.\n\n" +
+      "It also gives the medieval realm a supply line. The place where guns " +
+      "do not work does not have to make everything it uses, because two men " +
+      "are walking it in from somewhere that does.\n\n" +
+      "What is on the trails, who the goods are for, and whether these are the " +
+      "only two roads or the only two wardens — none of that is settled."
+  },
+
+  {
     title: "People are made of pieces",
     text:
       "It is known, in-universe, that people can be made out of different " +
