@@ -25661,32 +25661,36 @@ window.COLLECTION = [
       "deck and the highest anybody gets who is not a god.\n\n" +
       "His blade is green, and he is the first enemy in this world to carry " +
       "one.\n\n" +
-      "Nothing else about him is written down yet. This card is a place for it.",
+      "He is not human. What shows of him is not skin - the arms are bone " +
+      "white the whole way down, hard and pale like marble, and the face " +
+      "behind the mask is the same. He is a different species, and nothing " +
+      "yet says which.\n\n" +
+      "Nothing else about him is written down. This card is a place for it.",
     provenance:
       "A black hood up over the crown and down both sides, and inside it a " +
-      "skull. Pale grey-white, hollow black sockets with no eyes in them, the " +
-      "nasal cavity cut in two, a row of teeth across the lower jaw, and dark " +
-      "cracks running out from the mouth corners and down the cheeks. No skin " +
-      "anywhere on the face.\n\n" +
-      "The second photograph shows what the first one hid. A cowl of pale grey " +
-      "mail, woven cloth with the knit visible in it, comes over one shoulder " +
-      "and rises diagonally across the lower face - it covers the right of the " +
-      "jaw and the teeth under it, so half the skull is masked by the mail and " +
-      "half is bare bone.\n\n" +
+      "mask. It reads as a skull at a glance and it is not one: it is plated, " +
+      "built in pieces, pale grey-white with two round black eye holes cut " +
+      "through it, a dark nasal cut between them and short black slashes below " +
+      "the mouth. Where the plates meet they catch the light along a hard " +
+      "metallic edge - silver, reflective, deliberate. Under it the head is " +
+      "the same bone white as his arms.\n\n" +
       "The breastplate is pale gold worked in segmented bands, with cyan and " +
       "white linework running through it, white-silver collar plates sweeping " +
       "out either side, and a round blue orb set in a white ring at the " +
-      "sternum. Both arms are bare white. One hand only is gloved: a black " +
-      "armoured gauntlet, studded across the knuckles, and the other hand is " +
-      "left bare.\n\n" +
-      "A deep oxblood cape of real cloth behind him, and dark red legs printed " +
-      "with pale gold armour - a shield-shaped plate at each thigh and gold " +
-      "bands across the boots, picked out in white.\n\n" +
-      "The weapon is not a hilt, it is a staff. A long run of black segments - " +
-      "ribbed grips, boxed emitter shrouds and rings stacked end to end - " +
-      "carried diagonally across the body and reaching past it at both ends. " +
-      "One blade is lit: translucent dark green, going to lime through the " +
-      "core where the light runs into it.",
+      "sternum. A panel of grey woven cloth, the knit visible in it, lies " +
+      "across the chest and over the shoulders.\n\n" +
+      "A blue and black pauldron over the left shoulder. The deep oxblood " +
+      "cape is hung off-centre: it comes forward over the right shoulder as " +
+      "well as falling behind him.\n\n" +
+      "Both arms are bare and bone white. One hand only is gloved - a black " +
+      "armoured gauntlet, studded across the knuckles - and the other is left " +
+      "bare.\n\n" +
+      "Dark red legs printed with pale gold armour: a shield-shaped plate at " +
+      "each thigh and gold bands across the boots, picked out in white.\n\n" +
+      "He carries two weapons. A black blaster in one hand, and in the other a " +
+      "lightsaber - a single blade, not a staff - on a long black hilt of " +
+      "ribbed grips and boxed shrouds. The blade is translucent dark green, " +
+      "going to lime through the core where the light runs into it.",
     tags: ["villain", "reznod", "skull", "hood", "lightsaber", "green-blade",
            "cape", "gold-armour", "woven-cloth", "principal", "named",
            "no-story-yet"],
@@ -25695,7 +25699,7 @@ window.COLLECTION = [
       { src: "images/reznod-02.jpg", caption: "The staff, and the mail over his jaw" }
     ],
     acquired: "2026-09-29",
-    notes: "Placed on Quinn's rung because you said so, and standing behind the four already named there - Quinn, Steel, Phalanx and the Martian Leader - rather than in front of any of them. He goes in by name rather than by a job title, because you have not given him one and this card is not going to invent a job for somebody at the top of the enemy.\n\nNo group and no lines drawn. Quinn and his circle is a set of fifteen and it would be easy to drop him in it, but same rung is not the same as same side of the room, and nothing says he answers to Quinn or works with him.\n\nThe green blade is the thing the plastic gives up on its own. Four figures in this collection carry green and every one of them is good: the Snow Jedi, who is a Jedi Master; Ahsoka; the Green Demigod; and the Second. Reznod is the first green blade on the enemy deck. That makes three colours now that mean nothing reliable here - blue was broken by Clovis and Odenkirk in the same week, yellow arrived on Nick B Carpenter with nothing to compare it to, and green breaks today.\n\nThe cloth is worth recording because almost nothing here has any. It is a woven panel hanging down one side, not a printed one, and the weave is visible in the photograph.\n\nEverything else is blank on purpose. Who he is, what he did, what he wants, who he has got under him and who he answers to - none of it is written, and a figure on this rung with an empty card is the largest hole in the collection the day it is made."
+    notes: "Placed on Quinn's rung because you said so, and standing behind the four already named there - Quinn, Steel, Phalanx and the Martian Leader - rather than in front of any of them. He goes in by name rather than by a job title, because you have not given him one and this card is not going to invent a job for somebody at the top of the enemy.\n\nNo group and no lines drawn. Quinn and his circle is a set of fifteen and it would be easy to drop him in it, but same rung is not the same as same side of the room, and nothing says he answers to Quinn or works with him.\n\nCorrected off a third photograph and off you telling me what I had got wrong. The first version of this card said the weapon was a double staff - it is one blade, and he carries a blaster in the other hand. It also said a cowl of mail came up over his jaw. It does not; the grey weave sits on the chest and shoulders and the lower face is part of the mask. Both of those were read off a bad angle and stated as fact, which they should not have been.\n\nThe species is the new thing and it is the largest. What shows of him is not skin. The arms are bone white the whole way down, hard and pale, and so is the head under the mask. He is not human, and nothing says what he is.\n\nThe green blade is the thing the plastic gives up on its own. Four figures in this collection carry green and every one of them is good: the Snow Jedi, who is a Jedi Master; Ahsoka; the Green Demigod; and the Second. Reznod is the first green blade on the enemy deck. That makes three colours now that mean nothing reliable here - blue was broken by Clovis and Odenkirk in the same week, yellow arrived on Nick B Carpenter with nothing to compare it to, and green breaks today.\n\nThe cloth is worth recording because almost nothing here has any. It is a woven panel hanging down one side, not a printed one, and the weave is visible in the photograph.\n\nEverything else is blank on purpose. Who he is, what he did, what he wants, who he has got under him and who he answers to - none of it is written, and a figure on this rung with an empty card is the largest hole in the collection the day it is made."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
