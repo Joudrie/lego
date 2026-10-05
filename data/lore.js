@@ -1825,6 +1825,30 @@ window.LORE = [
       "next to, and they stop there. If an animal turns out to belong to " +
       "somebody, or to a side, it is one line to write - but the section is " +
       "scenery until then, and it was always meant to be."
-  }
+  },
+
+
+  {
+    title: "The September 2026 squad",
+    text:
+      "A cohort rather than a unit, and your name for it.\n\n" +
+      "Everybody in it was bought or built in 2026. That is the only thing " +
+      "the members have in common: there are police in it and prisoners, " +
+      "construction workers and a mummy, two green rangers, a sponge, a " +
+      "werewolf, a king with a sugar skull and a man wearing nothing but a " +
+      "top hat. Eighty-four of them are on the good deck and twenty-four are " +
+      "not, and the group photographs have both sides standing in the same " +
+      "row.\n\n" +
+      "The catalogue can say exactly who is in it, because it has been " +
+      "writing an arrival date on every card since the twenty-third of " +
+      "September. A hundred and eight cards carry one. That is the squad, and " +
+      "it is the first group here whose membership is decided by a date " +
+      "rather than by a side, a job or a people.\n\n" +
+      "Nick B Carpenter is the case that makes the name mean something. He " +
+      "was not bought this year. He was a transparent cone with a head on it " +
+      "for twenty years, standing in the background of everything with no " +
+      "story attached, and in September the head came off the cone and onto a " +
+      "body. Everybody else arrived in 2026. He became a person in it."
+  },
 
 ];

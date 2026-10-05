@@ -13,6 +13,105 @@
 
 window.SCENES = [
 
+  /* Five frames of one crowd, sent together. The squad is a cohort rather
+     than a unit: everybody in it was bought or built in 2026. */
+  {
+    src: "images/scenes/september-2026-squad-01.jpg",
+    title: "The September 2026 squad",
+    text:
+      "Every figure on this baseplate arrived this year. That is the only " +
+      "thing they have in common and it is the whole of what the name means — " +
+      "not a unit, not a side, not a people. A year's intake, stood up " +
+      "together on green.\n\n" +
+      "There are police in it and prisoners, construction workers and a " +
+      "mummy, two green rangers, a sponge, a werewolf, a king with a sugar " +
+      "skull and a man wearing nothing but a top hat. Four of them are on the " +
+      "enemy deck and standing in the same row as the people they fight.\n\n" +
+      "The catalogue records a 2026 arrival date on a hundred and eight " +
+      "cards. Not all of them are in the frame.",
+    figures: [
+      "nick-b-carpenter", "the-skull-king", "the-skull-trickster", "reznod",
+      "the-second-werewolf", "the-one-armed-mummy", "the-crab-alien",
+      "spongebob", "the-native-in-the-skeleton-mask",
+    ],
+  },
+
+  {
+    src: "images/scenes/september-2026-squad-02.jpg",
+    title: "The squad, from the left",
+    text:
+      "The working end of it. Red hard hats at the back, the hospital driver " +
+      "in his reflective bands holding his card up, the biplane man in his " +
+      "leather flying cap, and Texalm in the ski goggles and the stitched " +
+      "coat.\n\n" +
+      "Down at the front, a sponge having the worst moment of his life, and " +
+      "at the right edge a man in a brown jacket with a translucent yellow " +
+      "shield nearly as tall as he is.",
+    figures: [
+      "spongebob", "the-hospital-driver", "jay-cortes", "texalm",
+      "the-natives-son", "the-native-in-the-skeleton-mask",
+      "the-white-haired-adventurer", "connor", "nick-b-carpenter",
+    ],
+  },
+
+  {
+    src: "images/scenes/september-2026-squad-03.jpg",
+    title: "The squad, through the middle",
+    text:
+      "Nick B Carpenter in the front rank with the yellow blade and the " +
+      "yellow shield, and this is the frame that earns the whole name.\n\n" +
+      "For twenty years he was a transparent cone with a head on it, standing " +
+      "in the background of everything with no story attached. The head came " +
+      "off the cone and onto a body in September, and here he is in the " +
+      "middle of a crowd with both hands full. Everybody else here was bought " +
+      "or built this year. He is the only one who was already here and only " +
+      "became a person this year.",
+    figures: [
+      "nick-b-carpenter", "the-native-in-the-skeleton-mask",
+      "the-white-haired-adventurer", "the-natives-son",
+      "the-brother-with-the-hilt", "the-brother-in-blue", "the-blue-lady",
+    ],
+  },
+
+  {
+    src: "images/scenes/september-2026-squad-04.jpg",
+    title: "The squad, towards the right",
+    text:
+      "Where the line turns. The brother in blue is stood in the open with " +
+      "nothing printed on him at all, and two steps to his right the deck " +
+      "changes: the Skull Trickster in his top hat, and beside him the Skull " +
+      "King in the chrome crown.\n\n" +
+      "Nobody has said whether those two have met, and this photograph does " +
+      "not say it either. They are standing next to each other because that " +
+      "is where they fitted on the plate.",
+    figures: [
+      "the-brother-in-blue", "the-skull-trickster", "the-skull-king",
+      "the-second-werewolf", "the-officer-in-the-visor", "laura",
+      "the-brother-with-the-hilt", "the-native-in-the-skeleton-mask",
+    ],
+  },
+
+  {
+    src: "images/scenes/september-2026-squad-05.jpg",
+    title: "The squad, the far end",
+    text:
+      "This is where the year's villains ended up, and they are standing " +
+      "shoulder to shoulder.\n\n" +
+      "The Skull Trickster in the top hat and the Skull King in the crown. " +
+      "Reznod in front with the green blade lit and the blaster still in the " +
+      "other hand. The Snow Operator with a hairpiece sitting on top of a " +
+      "sealed hood, and the Yellow Operator in the grey breathing rig. The " +
+      "Masked Mercenary with only his eyes showing. The Crab Alien in his " +
+      "dead trooper's armour, and the One-Armed Mummy at the end of the row " +
+      "with one red eye lit through the wrappings.\n\n" +
+      "Four of the five frames are a year's shopping. This one is a line-up.",
+    figures: [
+      "the-skull-trickster", "the-skull-king", "reznod", "the-snow-operator",
+      "the-yellow-operator", "the-masked-mercenary", "the-crab-alien",
+      "the-one-armed-mummy", "the-second-werewolf", "the-banker",
+    ],
+  },
+
   {
     src: "images/scenes/the-arms-dealers-meeting.jpg",
     title: "The arms dealers, in company",

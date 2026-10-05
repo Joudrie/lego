@@ -128,6 +128,54 @@ window.ORDER = {
     // Family, not the household - the staff, the guards and the orphans are in
     // The Royal Household instead. The impersonator is a stuntman doing an
     // Elvis act and the Pretender is a pretender; neither is a relation.
+    /* A cohort, not a unit. Everybody here was bought or built in 2026 and
+       the membership is read straight off the acquired field - every card
+       carrying a 2026 date is in, and nothing else decides it. They share no
+       side, no job and no world: there are police in it and prisoners,
+       construction workers and a mummy, a sponge and a king. The name is
+       yours and the group photographs are in the lore shots.
+
+       Nick B Carpenter is the one exception worth knowing about. He was a
+       cone and a head for twenty years; what happened in 2026 is that he
+       became a whole figure. */
+    "The September 2026 squad": [
+      "pringles", "the-night-watch-apprentice", "the-old-apprentice",
+      "the-bravo-pilot", "the-cloaked-alien", "the-evil-ninja",
+      "general-grievous", "the-halo-brute", "the-green-spartan",
+      "the-green-faced-axeman", "the-hogwarts-student", "ig-88",
+      "the-geonosis-clone-trooper", "clovis", "the-companion-robot",
+      "the-shock-trooper-without-shoulder-pads", "odenkirk",
+      "the-swat-commissioner", "the-lion-warhorse",
+      "the-horse-in-blue-armour", "the-horse-in-the-blue-saddle",
+      "the-brown-horse", "the-god-horse", "the-camel", "the-bear",
+      "the-tauntauns", "the-skeleton-horses",
+      "the-german-shepherd-and-the-parrot", "the-dogs", "the-puppy",
+      "the-sharks", "the-megalodon", "the-duck-god", "the-devil-duck",
+      "the-velociraptor", "the-alligators", "the-squid", "robotgator",
+      "the-baby-apes", "kitty", "the-white-cat", "the-mini-beasts",
+      "the-air-duck-god", "the-hogwarts-microfigures",
+      "the-mini-sand-people", "the-mini-statue", "the-mini-barbarian",
+      "the-frogs", "the-spiders", "the-rats", "the-crabs", "the-jellyfish",
+      "the-baby-dragon", "the-baby-dinos", "the-snakes", "the-owl",
+      "the-second-parrot", "the-hedgehog", "the-baby-bird",
+      "the-friendly-alien-sucker", "the-scorpions", "the-gold-scorpions",
+      "the-ants", "the-fish", "nick-b-carpenter", "reznod",
+      "the-hospital-driver", "the-brother-with-the-hilt",
+      "the-brother-in-blue", "the-white-haired-adventurer",
+      "the-native-in-the-skeleton-mask", "the-natives-son", "brian",
+      "jay-cortes", "texalm", "cyan-0", "smitty", "santi", "the-blue-lady",
+      "the-detective-agent", "the-atv-agent", "boyd", "arthur", "connor",
+      "laura", "gregory", "the-officer-in-the-visor", "the-nurse",
+      "the-biker", "the-second-construction-chief",
+      "the-worker-in-the-white-helmet", "the-worker-in-the-wire-glasses",
+      "the-worker-in-the-red-helmet", "the-friendly-gator", "the-skull-king",
+      "the-skull-trickster", "the-masked-mercenary", "jack-timbers",
+      "the-yellow-operator", "the-snow-operator", "the-crab-alien",
+      "the-mercenary-in-stolen-armour", "the-snarling-astronaut",
+      "the-banker", "the-second-werewolf", "the-one-armed-mummy",
+      "the-prisoner", "the-naked-man",
+    ],
+
     // Five figures who are filed together for one reason: they hang around
     // with each other. No unit, no shared trade, no side of a war. A hospital
     // driver, two brothers who hold the roads between worlds, an adventurer
