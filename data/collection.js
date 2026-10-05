@@ -26449,6 +26449,219 @@ window.COLLECTION = [
     notes: "New title, filed at the Agents' rung with the rest of them.\n\nThe identity card is the fourth in the collection and the second clipped at a hip. A militiaman out of armour wears one in exactly that place, over denim with a work harness; the Pimp has photo identification clipped to a lab coat; the PA carries a laminated pass on an orange lanyard. Four people in nearly nine hundred who have to prove they are allowed in, and three of them are out of uniform when they do it. The portrait on hers is too small to be a face and the four lines are ruled rather than written.\n\nThe safety glasses go with the vehicle. Goggles are everywhere in this collection - twenty-five cards mention a pair, on pilots, miners, divers and assassins - but almost all of them are a moulded piece or a strap over the brow. Hers are printed onto the face as glasses, sitting on the eyes, which is how somebody who actually wears them would be drawn.\n\nShe carries the same crosshair badge as the detective agent and not the orbiting globe the first agent wears, which is the open thing on both their cards."
   },
 
+  {
+    id: "boyd",
+    name: "Boyd",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assistant",
+    group: "Classic Space",
+    location: "",
+    relations: [
+      { to: "the-blue-lady", label: "Same badge, same blue" },
+      { to: "the-blue-spaceman", label: "Same badge" }
+    ],
+    rating: 0,
+    background:
+      "An assistant, in the oldest badge in the collection.\n\n" +
+      "He is the second person inside a week to turn up wearing the planet " +
+      "and the rocket without a helmet on. The Blue Lady came in with a " +
+      "knitted hat and a headset; this one has a blue cap and a grin.\n\n" +
+      "Assistant to whom is not said.",
+    provenance:
+      "A plain blue cap, round-crowned and brimless. Under it a yellow face: " +
+      "two dark eyes with a smile crease either side, a cleft drawn under the " +
+      "mouth, and an open grin with a white band of teeth.\n\n" +
+      "The torso is blue and carries the classic Lego Space badge at the left " +
+      "breast — a yellow planet held in a thin white ring, with the rocket " +
+      "running up and away from it to the right, nose in red. It is rubbed " +
+      "right across: the ring is broken in two places, there are scratches " +
+      "cut through the planet, and the rocket's body has nearly gone.\n\n" +
+      "Blue arms and blue hands — not yellow ones. Blue legs, no printing on " +
+      "them. He is blue from the cap to the boots except for the face.",
+    tags: ["classic-space", "space-badge", "planet-and-rocket", "assistant",
+           "blue", "blue-hands", "named", "worn", "no-helmet"],
+    images: [
+      { src: "images/boyd-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed with the civilians at the desk end of the rung, which is where an assistant goes, and standing with Classic Space because of the badge. Those two things disagree and the catalogue follows the job: the spacemen are on the working people's rung for rugged work, and nothing says he does any. The badge puts him with them; the title does not.\n\nThat makes six in Classic Space, and two of the six without a helmet. Both of those arrived this week.\n\nThe badge is the worst-worn of the six. None of the four spacemen's cards says anything about wear and the Blue Lady's badge photographed sharp; his is scratched through in three places and the rocket has nearly rubbed away. Whatever he has been doing, he has been doing it a long time.\n\nBlue hands, and that is written down rather than compared. None of the four spacemen's cards records what colour their hands are, so there is nothing in the file to measure him against; what can be said is that he is a single colour from the cap to the boots and the face is the only part of him that is not.\n\nAssistant to whom is the open question and it is a short one to answer."
+  },
+
+  {
+    id: "arthur",
+    name: "Arthur",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chief of Police",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [
+      { to: "the-commissioner", label: "Answers to him" },
+      { to: "gregory", label: "Same uniform, one rank down" },
+      { to: "laura", label: "Under his command" }
+    ],
+    rating: 0,
+    background:
+      "The chief of police.\n\n" +
+      "There is already a man in charge of all the police in Lego City and he " +
+      "is the Commissioner, who is above a colonel and was lifted onto the " +
+      "champions' rung by name because of it. Arthur holds the same title and " +
+      "is placed by it rather than past it, which puts him at the top of the " +
+      "police proper with the Commissioner still above him.",
+    provenance:
+      "A black cap, domed with a short stiff brim. The head under it is light " +
+      "flesh-tone rather than yellow, with a close ginger beard stippled right " +
+      "across the jaw and up the cheeks, a ginger moustache over a small dark " +
+      "mouth, and brows to match.\n\n" +
+      "The torso is a black uniform jacket printed open over a grey shirt and " +
+      "a dark blue tie: notched lapels with a gold pin at each point, three " +
+      "gold buttons down the front, a flapped breast pocket on one side and on " +
+      "the other a gold eight-sided shield badge with a ring of small circles " +
+      "worked into it.\n\n" +
+      "Black arms and flesh-tone hands. White legs, unprinted.",
+    tags: ["police", "chief", "lego-city-law", "named", "flesh-tone", "beard",
+           "gold-badge", "uniform"],
+    images: [
+      { src: "images/arthur-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "He does not displace anybody. The Commissioner was lifted off the police rung by name long before this, on the strength of being above a colonel, so the top of the police proper was standing empty and this is the man who fills it.\n\nSecond Arthur in the collection and no relation to the first. King Arthur is the timeless supreme ruler of the realm where guns do not work, and goes out to fight the big monsters himself. This one runs a city police force. The catalogue keeps them apart by their titles and nothing else, because nothing else has been said.\n\nHe and Gregory wear the identical torso - the same jacket, tie, lapel pins, pocket and gold shield - and nothing else about them matches. One is flesh-toned with a ginger beard, the other is yellow and rubbed half away. Two men in the same uniform, one rank apart.\n\nThe beard is worth a line. Flesh-toned heads are common enough here, but a stippled ginger beard drawn over the whole lower face is not something any other officer has."
+  },
+
+  {
+    id: "connor",
+    name: "Connor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-knock-off-captain", label: "The question his body raises" }
+    ],
+    rating: 0,
+    background:
+      "A Patriots fan.\n\n" +
+      "No job, no unit, no side of anything. There are twelve athletes in " +
+      "this collection — boxers, runners, a sumo wrestler, two soccer " +
+      "players — and every one of them plays. He is the first person here " +
+      "who only watches.",
+    provenance:
+      "A black cap, domed with a short brim, the same part the two officers " +
+      "wear. Under it a light flesh-tone head: heavy black brows set at an " +
+      "angle, dark eyes, and a short line of a mouth pulled to one side.\n\n" +
+      "The torso is navy and printed as a polo shirt — a white V at the " +
+      "throat, navy collar points folded over it, a placket seam running down " +
+      "from the collar with a single button, and on the left breast a small " +
+      "team crest in red, white and navy.\n\n" +
+      "The arms are the strange part. Each one is navy at the shoulder down to " +
+      "a hard colour break at the elbow, and bare below it — one forearm reads " +
+      "pale, the other brown — and both end in wide flat black hands. Cream " +
+      "legs below, reading as one block rather than two.",
+    tags: ["civilian", "patriots", "team-crest", "polo", "named",
+           "flesh-tone", "two-part-arms", "black-hands", "odd-mould"],
+    images: [
+      { src: "images/connor-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed as a plain civilian, which is the bottom of the good side, and he is one of very few here who actually belong there. Almost everybody in this collection does something.\n\nThe body is the open question and it is left open. His arms are built in two pieces - a sleeve and then a bare forearm - and no minifigure here is made that way; a Lego arm is one moulding from shoulder to wrist. The hands are wider and flatter than the ones on the officers photographed beside him on the same baseplate. The legs read as a single block. Against that, the cap, the head and the torso silhouette line up with theirs exactly.\n\nThe catalogue has somewhere for this if it is what it looks like. The Knock-offs are sixteen figures now, and the Knock-off Captain's card ends with the plainest line in the file: not a Lego mould. Connor is not being put in there on a dark photograph and a hunch. One word from you settles it either way.\n\nThe crest is a real team's, and no other card in the collection records one. Nine hundred figures and he is the only one wearing somebody else's colours."
+  },
+
+  {
+    id: "laura",
+    name: "Laura",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Police",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [
+      { to: "arthur", label: "Her chief" },
+      { to: "the-blue-lady", label: "The other printed headset this week" }
+    ],
+    rating: 0,
+    background:
+      "A police officer of Lego City.\n\n" +
+      "She works with a radio on. That is the one thing her kit says about the " +
+      "job that the uniform does not: the headset is printed onto her face, " +
+      "which means somebody is always on the other end of it.",
+    provenance:
+      "Black hair, moulded, swept back off the forehead and gathered into a " +
+      "knot high at the crown. A yellow face: arched dark brows, lashed eyes " +
+      "with a white glint in each, and dark red lips parted in a smile.\n\n" +
+      "A headset printed on the left side — a thin black band down from the " +
+      "ear and forward to a black microphone standing in front of her mouth.\n\n" +
+      "The torso is a black vest worn over a white shirt: the shirt showing " +
+      "white at the collar and down the centre, and on the vest two large " +
+      "patch pockets outlined in white, a gold star in a shield at one breast " +
+      "and a small red and white patch at the other.\n\n" +
+      "White arms, yellow hands, white legs with a grey seam printed down the " +
+      "front.",
+    tags: ["police", "lego-city-law", "named", "headset", "vest", "star-badge",
+           "woman", "radio"],
+    images: [
+      { src: "images/laura-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed as police, on the beat, under Arthur.\n\nSixth headset in the collection and the first on the law. The other five are a pilot in glasses, the young Obi-Wan, one of the two militiamen photographed out of armour, the Blue Space Captain and the Blue Lady - aircrew, a Jedi, and two people caught off duty. Hers is the first that is plainly a radio on a shift.\n\nShe is the first woman in Lego City Law. Eleven officers were in that group before her - the Commissioner, the Watch Commander, the Nightwatch Captain, a constable, a sheriff, a sergeant, a highway patrolman, animal control and two more in uniform - and not one of them is written as a woman.\n\nThe law as a whole is not all male and never was. The Space Police have two women in it and a marshal's love, and the SWAT team has both its commissioner and its officers. It is the city force itself that has been."
+  },
+
+  {
+    id: "gregory",
+    name: "Gregory",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Police Commander",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [
+      { to: "arthur", label: "Same uniform, one rank up" },
+      { to: "the-watch-commander", label: "The other police commander" }
+    ],
+    rating: 0,
+    background:
+      "An old commander of the police.\n\n" +
+      "Old is the word used and the figure wears it either way. He could be an " +
+      "old man in the job, or he could be an old commander — one from before, " +
+      "still about. The plastic does not choose: it is simply the most worn " +
+      "face in the batch, grinning.",
+    provenance:
+      "The same black domed cap Arthur wears. Under it a yellow face, and the " +
+      "paint has come off it in patches — the whole left cheek and the jaw " +
+      "have rubbed back to bare plastic, and a pale band runs across the " +
+      "forehead. What survives is two dark eyes and a wide open grin with the " +
+      "teeth showing.\n\n" +
+      "The torso is the identical uniform jacket to Arthur's: black, printed " +
+      "open over a grey shirt and a blue tie, notched lapels with a gold pin " +
+      "at each point, three gold buttons, a flapped breast pocket, and the " +
+      "gold eight-sided shield badge with its ring of circles. The badge is " +
+      "cracked across on this one.\n\n" +
+      "Black arms, yellow hands, white legs.",
+    tags: ["police", "commander", "lego-city-law", "named", "worn",
+           "rubbed-paint", "gold-badge", "uniform", "grin"],
+    images: [
+      { src: "images/gregory-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New title. The police rung already holds the Watch Commander, who runs the domestic forces, and the Watch Command, and a commissioner over the SWAT team; a plain police commander had no line in the ladder until now. He goes in under the chiefs and level with the commissioner, because a chief runs the force and a commander runs a part of it.\n\nThe wear is the card. He has lost more paint than anybody else photographed this week - a whole cheek, the jaw and a band across the brow, all back to bare yellow plastic - and the gold badge on his chest is cracked through. If you want a figure who has been in the job a long time, this is what one looks like.\n\nHe and Arthur are the same torso and the same cap. The catalogue has plenty of repeated uniforms, but almost always on soldiers in a line; two named officers in the identical jacket, one chief and one commander, is a first for the law.\n\nWhether old means his age or his era is left as you said it."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

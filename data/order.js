@@ -485,6 +485,9 @@ window.ORDER = {
     // commands and above the detectives; she sits one place under Chief of
     // Police only because that seat was already taken.
     "Police Commissioner": [7, 0, 6],
+    // A chief runs the force; a commander runs a part of it. So the plain
+    // police commander goes in under the chiefs and beside the commissioner.
+    "Police Commander": [7, 0, 6],
     "SWAT": [7, 0, 10],
     "Detective": [7, 5, 20], "Sheriff": [7, 1, 20], "Police": [7, 5, 22],
     "Space Police": [7, 5, 24],
