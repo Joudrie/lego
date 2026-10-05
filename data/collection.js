@@ -5617,7 +5617,7 @@ window.COLLECTION = [
   {
     id: "spongebob",
     name: "SpongeBob",
-    variant: "Three outfits",
+    variant: "Four figures",
     faction: "good",
     origin: "branded",
     theme: "SpongeBob SquarePants",
@@ -5636,10 +5636,11 @@ window.COLLECTION = [
     images: [
       { src: "images/spongebob-01.jpg", caption: "Brown trousers" },
       { src: "images/spongebob-02.jpg", caption: "In the air helmet" },
-      { src: "images/spongebob-03.jpg", caption: "Yellow trousers" }
+      { src: "images/spongebob-03.jpg", caption: "Yellow trousers" },
+      { src: "images/spongebob-04.jpg", caption: "Tan trousers, and the only one not smiling" }
     ],
     acquired: "",
-    notes: "Three photos, one sponge. The air helmet is an outfit and the trousers change colour; none of it is another character. Fifth branded figure, and the first branded theme with three of its own people in it. Linked to the other two on your say-so - the only branded figures here who know each other."
+    notes: "Four photos, one sponge. The air helmet is an outfit and the trousers change colour; none of it is another character, which is why they all live on this card. Fifth branded figure, and the first branded theme with three of its own people in it. Linked to the other two on your say-so - the only branded figures here who know each other.\n\nThe fourth is the one worth looking at. Three of them are grinning the same grin; this one is a different printed face entirely - eyes gone wide and round, brows up, the mouth pulled open on bared teeth and a red tongue. It is not a smile and it is not a frown. It is a sponge having a bad moment, and it is the only expression he has here that is not the standard one."
   },
 
 
@@ -26879,6 +26880,185 @@ window.COLLECTION = [
     ],
     acquired: "2026-10-05",
     notes: "Tenth on the Construction Crew. No other member's card records any printing below the waist - most of them do not describe the legs at all, and the two that do just give a colour - so this is the only one in the file carrying a belt, a chain, a spanner and a tag down the thighs.\n\nThe helmet is not safety equipment for the job he is doing. It is a vented sports shell - the same part the Biker has on - worn on a building site where nine other men are in moulded hard hats. Recorded, not explained.\n\nHe and the Second Construction Chief are the only two of the ten in blue jackets, and they arrived together.\n\nName is purely descriptive, in the pattern of the Worker in Shades and the Worker in Silver Shades."
+  },
+
+  {
+    id: "the-worker-in-the-wire-glasses",
+    name: "The Worker in the Wire Glasses",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [
+      { to: "the-worker-in-the-red-helmet", label: "Same jacket, same day" },
+      { to: "the-second-construction-chief", label: "Same jacket" }
+    ],
+    rating: 0,
+    background:
+      "A construction worker, in glasses and a hard hat.\n\n" +
+      "He is the eleventh on the crew and the fourth to turn up in the blue " +
+      "work jacket, which a week ago nobody on the site wore at all.",
+    provenance:
+      "A red hard hat, the ribbed moulded kind. Under it a yellow face wearing " +
+      "fine oval glasses — a thin dark rim round each lens and a bridge " +
+      "between them, drawn light enough that the eyes read straight through " +
+      "them — brown brows above, and an open smile with a band of white teeth " +
+      "showing.\n\n" +
+      "The torso is the blue work jacket the crew's newcomers all wear: a dark " +
+      "collar open over a grey shirt, a pale zip down the centre, two orange " +
+      "bands across it with black-outlined pockets at the chest, and a small " +
+      "red tool standing in the left breast pocket.\n\n" +
+      "Blue arms, yellow hands. Light grey legs, no printing on them.",
+    tags: ["construction", "worker", "hard-hat", "blue-jacket", "glasses",
+           "grey-legs", "lego-city"],
+    images: [
+      { src: "images/the-worker-in-the-wire-glasses-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Name is purely descriptive, in the pattern of the Worker in Shades and the Worker in Silver Shades. Three of the twelve are now named for what is on their eyes, and a fourth - the Winking Worker - is named for what one of his does.\n\nThe glasses are the first pair on the crew that are not sunglasses. The Worker in Shades and the Worker in Silver Shades wear black and mirrored lenses, and the Worker in the White Helmet has round orange-rimmed ones; these are fine wire frames you can see straight through, which is a man who needs them rather than a man wearing them.\n\nThe blue jacket has gone from nothing to four in a week. Of the other eight, five cards say orange, the Site Planner is in white, one leaves the vest colour unwritten, and the Chief photographs orange from the hat to the boots. The crew's colours are changing and nothing has been said about why."
+  },
+
+  {
+    id: "the-worker-in-the-red-helmet",
+    name: "The Worker in the Red Helmet",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [
+      { to: "the-worker-in-the-white-helmet", label: "Same helmet, other colour" },
+      { to: "the-biker", label: "Same helmet, same face" },
+      { to: "the-worker-in-the-wire-glasses", label: "Same jacket, same day" }
+    ],
+    rating: 0,
+    background:
+      "A construction worker in a sports helmet, which is the second one on " +
+      "this crew to wear one instead of a hard hat.\n\n" +
+      "Same shell as the Worker in the White Helmet and the same shell as the " +
+      "Biker. Three figures, one moulding, two colours, all catalogued on the " +
+      "same day.",
+    provenance:
+      "A red helmet, brimless and close to the skull, with two short vent " +
+      "slots cut into the crown — the sports shell, not the ribbed hard hat " +
+      "the rest of the crew wears.\n\n" +
+      "A yellow face under it: wide black wraparound sunglasses, and below " +
+      "them a closed smile curving up at both ends. No brows showing above the " +
+      "glasses.\n\n" +
+      "The torso is the blue work jacket again: dark collar over a grey shirt, " +
+      "pale zip, two orange bands, black-outlined chest pockets, red tool in " +
+      "the left one.\n\n" +
+      "Blue arms, yellow hands, blue legs with no printing.",
+    tags: ["construction", "worker", "red-helmet", "sports-helmet",
+           "blue-jacket", "sunglasses", "lego-city"],
+    images: [
+      { src: "images/the-worker-in-the-red-helmet-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Twelfth on the Construction Crew, and the second of the twelve not in a hard hat.\n\nThe helmet is the thing worth tracking. It is a vented sports shell and all three of its appearances here carry the same date: white on a worker, white on the Biker, red on this one.\n\nHis face and the Biker's are the same print - black wraparounds, a closed smile, no brows - which is the closest two figures here have come to being the same man in different jobs. Nothing is claimed from it; the face is a common part and the collection is full of repeats.\n\nName is purely descriptive, and set against the Worker in the White Helmet on purpose."
+  },
+
+  {
+    id: "the-friendly-gator",
+    name: "The Friendly Gator",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Alligator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-alligators", label: "The other three, and a different mould" },
+      { to: "robotgator", label: "The fourth of the old kind" }
+    ],
+    rating: 0,
+    background:
+      "A friendly one.\n\n" +
+      "There are four alligators here already — three lying flat and pointed " +
+      "the same way, and RobotGator, who is one of those with a silver part " +
+      "added. All four are filed good, but good in this collection mostly " +
+      "means nobody has said otherwise. This one has been called friendly, " +
+      "which is a different thing: it is the first alligator anybody has " +
+      "actually vouched for.",
+    provenance:
+      "A single moulded piece in bright green, and not the mould the other " +
+      "four are. Where they are dark green with spiked plates ridged up the " +
+      "back and a textured hide, this one is smooth and blocky: a plain back " +
+      "carrying a field of bare studs in two rows, a slab-sided body, and " +
+      "short stubs for legs tucked under it.\n\n" +
+      "The head is heavier than theirs and squarer at the jaw. The snout is " +
+      "cut with a hinge, so the lower jaw is a separate piece that opens, with " +
+      "a row of blunt teeth along the bite and two bored nostrils at the tip. " +
+      "A deep brow ridge stands over each eye and two triangular vents are cut " +
+      "through the skull behind them.\n\n" +
+      "No printing anywhere. The colour is flat and bright all over.",
+    tags: ["animal", "alligator", "gator", "bright-green", "hinged-jaw",
+           "studs", "friendly", "different-mould"],
+    images: [
+      { src: "images/the-friendly-gator-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Fifth alligator and the first of a second kind. The other four are one dark green mould photographed together; this is a brighter green and a different moulding altogether - studded on the back where they are spiked, hinged at the jaw where they are cast in one, and squarer in the skull. In a world where being made to a different pattern is a fact about who you are, that is worth writing down before anybody decides what it means.\n\nHe keeps the animals' rung, beside the horses and the rest.\n\nFriendly is your word and it is the whole of the story so far. The animals in this collection are filed good by default, which has always meant unallocated rather than kind; this is the first one where the word came with the figure.\n\nHe is not folded into The Alligators. That card is three identical figures in one photograph and the word identical is doing the work in it - a fifth animal of a different mould and a different green does not belong inside it."
+  },
+
+  {
+    id: "the-skull-king",
+    name: "The Skull King",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-hijacked", label: "The other one made to do harm" }
+    ],
+    rating: 0,
+    background:
+      "A king, and a good one, who was tricked into doing evil.\n\n" +
+      "That is a different injury from the one the collection already has a " +
+      "name for. The Hijacked was a robot whose body was taken while his mind " +
+      "stayed awake — he watched himself attack people and could not stop. " +
+      "Nobody took this one's body. He did it himself, on purpose, because he " +
+      "was lied to.\n\n" +
+      "Which means the harm is his and the fault is not, and no other figure " +
+      "here stands in that particular place.",
+    provenance:
+      "A chrome gold crown, a notched band with a stud standing on the crown " +
+      "of it, and hanging from it a long gold lappet down each side of the " +
+      "head. The two are not the same any more: the left has lost its plating " +
+      "and gone matte and granular, the right is still mirror-bright.\n\n" +
+      "The head under it is white and printed as a sugar skull. Two large eye " +
+      "sockets in dark maroon, each ringed in pink, with a white highlight in " +
+      "one. A small black triangle for a nose. The mouth is a line of short " +
+      "black cross-stitches running the whole width of the face from ear to " +
+      "ear, with pink lips drawn inside it at the centre and a small black bow " +
+      "below the chin. A cluster of black petal-dots sits at each temple.\n\n" +
+      "The torso is dark red, printed as a robe: gold five-petal blossoms " +
+      "scattered across the whole of it, a dark sash edged in gold crossing " +
+      "from one shoulder down to the opposite hip, and a broad gold band at " +
+      "the waist with a grey strap under it. A cream panel shows at the left " +
+      "shoulder.\n\n" +
+      "Both arms are bare cream. Both hands are black. Red legs, with a grey " +
+      "strap running down one thigh.",
+    tags: ["king", "skull", "sugar-skull", "calavera", "crown", "chrome",
+           "gold", "robe", "blossoms", "tricked", "principal"],
+    images: [
+      { src: "images/the-skull-king-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Ninth king in the collection and the sixth on the good side. He is placed by his title, which is how every other king here is placed - the role table puts a king among the principals and nothing has been said to move him off it.\n\nThe face is a first. Nearly sixty cards here mention a skull and every one of them is a death's head - a helmet, a mask, a sigil, a bared bone face on something meant to frighten you. This is the other kind entirely: a skull drawn as decoration, ringed in pink, stitched across the mouth, flowers at the temples. It is a face made to be looked at rather than fled from, and nothing else in nine hundred figures is printed like it.\n\nThe crown is chrome, which four other figures here carry somewhere on them, and it is coming off. One lappet is still mirror-bright and the other has worn back to dull grain. A gold crown going dull on a king who was tricked is the kind of thing the plastic does on its own, and it is recorded rather than made to mean anything.\n\nWhat he was tricked into, and by whom, is the open question, and it is the only one on this card - the title, the side and the injury have all been given."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

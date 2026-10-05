@@ -273,7 +273,7 @@ window.ORDER = {
        "the-sharks", "the-megalodon", "the-squid",
        "the-velociraptor", "the-alligators",
        "the-duck-god", "the-devil-duck",
-       "robotgator", "the-baby-apes", "kitty", "the-white-cat",
+       "robotgator", "the-friendly-gator", "the-baby-apes", "kitty", "the-white-cat",
        "the-air-duck-god",
        "the-rats", "the-frogs", "the-spiders", "the-jellyfish", "the-crabs",
        "the-baby-dinos", "the-baby-dragon", "the-snakes",
@@ -378,7 +378,8 @@ window.ORDER = {
     "the-financier-in-the-cravat", "the-tv-camera-woman", "the-pa",
     "the-neutral-skeletons", "the-hospital-driver", "cyan-0",
     "the-blue-lady", "the-second-construction-chief",
-    "the-worker-in-the-white-helmet",
+    "the-worker-in-the-white-helmet", "the-worker-in-the-wire-glasses",
+    "the-worker-in-the-red-helmet",
   ],
 
   /* --------------------------------------------------------- what they ARE
