@@ -27517,6 +27517,145 @@ window.COLLECTION = [
     notes: "No job title, so he takes the enemy side's default and stands with the soldiers, which is where the first werewolf stands for the same reason.\n\nThird wolf-headed figure here. The Werewolf is a man in plaid and jeans with a wolf's head; the Wolfman is a goon of the Alien Goons, and his card has an open question on it about whether he is an alien at all. This one is the only one of the three with nothing human left on him but the rags.\n\nThe tatters are the whole of the story the figure tells on its own: he had clothes, and they came apart on him.\n\nNamed on the pattern this collection uses for a repeat, and it is a placeholder like all of those."
   },
 
+  {
+    id: "the-one-armed-mummy",
+    name: "The One-Armed Mummy",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-pharaoh", label: "The other one in bandages" },
+      { to: "the-verdauf-guards", label: "The other side's missing arm" }
+    ],
+    rating: 0,
+    background:
+      "A mummy, and the arm is not a lost piece.\n\n" +
+      "The Verdauf Guards' card settled that rule for this collection a long " +
+      "time ago: a missing limb here is read as history rather than as a " +
+      "dropped part, which is how Claws, the Rebuilt and the Survivor are " +
+      "written. This one came with the word already attached — one-armed is " +
+      "what he is.\n\n" +
+      "He is also the first mummy. There is one other figure here wrapped in " +
+      "bandages and she is a pharaoh, who curses anybody who comes into her " +
+      "tomb after what is hers. Nothing says these two are of the same world " +
+      "and his dress does not say it either: hers is Egypt from the headdress " +
+      "down, and his is a desert cowl and a grey robe.",
+    provenance:
+      "A cream head wrap, moulded: wound in folds over the crown and down " +
+      "around the throat, falling in a cowl across both shoulders and leaving " +
+      "an oval open at the face.\n\n" +
+      "Through the opening, a grey head bound in bandage strips drawn in black " +
+      "line, crossing diagonally over the brow and the jaw. One eye shows " +
+      "through a gap in them and it is lit red, with a white point in the " +
+      "centre. The other side is wrapped over.\n\n" +
+      "The torso is light grey, printed as a robe: dark curling scrollwork " +
+      "worked up both sides of the chest, a V of cloth at the throat, and " +
+      "across the waist a tan band studded with small dark blocks all the way " +
+      "round.\n\n" +
+      "One arm only. It hangs on the right in dark grey, ending in a black " +
+      "hand. The left shoulder is bare where the other should be.\n\n" +
+      "Pale grey legs printed with slate blue — a long robe or wrapping drawn " +
+      "down the front of both in heavy strokes.",
+    tags: ["mummy", "bandages", "one-armed", "red-eye", "cowl", "robe",
+           "enemy", "undead", "no-story-yet"],
+    images: [
+      { src: "images/the-one-armed-mummy-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "No job title, so he takes the enemy side's default and stands with the soldiers. The ladder's note for that default names the orcs, the werewolf and the skeletons, and a mummy belongs in exactly that company.\n\nFourth figure here with an arm gone. The others are the fourth Verdauf guard, who wears a pauldron the rest of his unit does not; the Bounty Hunter Captain, who was catalogued as The Old Man with One Arm for a while before the two photographs were found to be the same man; and the Damaged Battle Droid, who has one arm whole and burned. The four of them split evenly between the decks: the guard and the droid are ours, the Bounty Hunter Captain and this one are not.\n\nThe red eye is the only lit thing on him. Whatever is doing the work in there is not a man any more.\n\nWhether he is Egypt is the open question. The two pharaohs are the whole of Egypt in this collection and one of them is wrapped the same way, but her bandages come with a nemes headdress, a scarab collar and gold cuffs, and his come with a desert cowl and scrollwork. Same technique, different country, until somebody says otherwise."
+  },
+
+  {
+    id: "the-prisoner",
+    name: "The Prisoner",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Convict",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-escapees", label: "The ones who got out" }
+    ],
+    rating: 0,
+    background:
+      "An enemy who was taken, and is still in.\n\n" +
+      "The collection already has three men in prison clothes and the thing " +
+      "about them is that they are out: the Escapees, in one shirt and one " +
+      "number, loose. This one is the other half of that. He is the first " +
+      "figure here photographed in custody rather than having escaped it.",
+    provenance:
+      "A silver-grey knitted cap with a ribbed brim, pulled down to the " +
+      "eyebrows. Under it a yellow face: heavy black brows driven down, a red " +
+      "mark across the left eye that reads as a scar or a split, a long line " +
+      "down each cheek and a flat frowning mouth under a drawn moustache. He " +
+      "looks furious and he looks beaten.\n\n" +
+      "Orange throughout — torso, arms and legs the same prison orange. The " +
+      "torso carries two short lines of pale printed text, one at each side of " +
+      "the chest, and a dark smear worn into the plastic below the left one.\n\n" +
+      "A prisoner number runs down the right leg in pale characters, and the " +
+      "photograph will not resolve it. On the left thigh, printed dark, a " +
+      "knife — a long blade with a cross guard and a bound grip — and a grey " +
+      "scuff beside each knee.\n\n" +
+      "Yellow hands. No belt, no buckle, nothing on him that was not issued.",
+    tags: ["convict", "prisoner", "orange", "beanie", "scar", "knife",
+           "prison-number", "enemy", "in-custody"],
+    images: [
+      { src: "images/the-prisoner-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed as a convict, which is the band this catalogue keeps for criminals, convicts and peasants at the bottom of the civilians. Prison does not change what a man is on the ladder; being taken does not demote anybody and it does not promote them either.\n\nThe number is the open thing. The Escapees share one between the three of them - 50380, printed on all three shirts, which that card reads as the prison's stamp rather than any one man's. This one has a number too and it cannot be read off the photograph, so whether he came out of the same prison as them is not settled. A clearer picture of the leg answers it.\n\nThe knife on his thigh is printed, not held. It is a picture of a weapon on a prison uniform, which is either the crime he is in for or something he made inside, and nothing says which.\n\nFourth figure here in prison clothes and the only one on his own."
+  },
+
+  {
+    id: "the-naked-man",
+    name: "The Naked Man in the Top Hat",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-nude-aliens", label: "The others with nothing on" },
+      { to: "the-skull-trickster", label: "The other black top hat" }
+    ],
+    rating: 0,
+    background:
+      "A naked man in a top hat. He is here for the joke and the catalogue is " +
+      "not going to pretend otherwise.\n\n" +
+      "He is the third figure in this collection with nothing on. The Nude " +
+      "Aliens are two, and the yellow one of that pair is this man's near " +
+      "twin — bare from the neck down with a face still printed on him, which " +
+      "his card settles in one line: he is not blank, he is undressed. The " +
+      "same applies here, with a hat on.",
+    provenance:
+      "A black top hat, flat-crowned with a narrow brim, dusty across the top.\n\n" +
+      "Under it a yellow face, and it is the only printed thing on the whole " +
+      "figure: round spectacles drawn in thin dark line over both eyes, a " +
+      "heavy brown moustache across the lip, and a short brown beard closing " +
+      "under the chin.\n\n" +
+      "Everything below the neck is bare yellow plastic — torso, both arms, " +
+      "both hands, hips and legs, with not a mark printed anywhere on any of " +
+      "it. There is a dark scuff worn into the left shoulder and that is all.",
+    tags: ["naked", "nude", "top-hat", "spectacles", "beard", "unprinted",
+           "comic", "yellow"],
+    images: [
+      { src: "images/the-naked-man-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "No job title and nothing said about him beyond the joke, so he takes the good side's default and stands with the civilians. That is the right place for him twice over.\n\nThird nude figure here, and the distinction the Nude Aliens' card draws applies to him exactly. He is not the Man from the Yellow Dimension, who is unprinted everywhere including his face and is a demigod for it. This one has a face, spectacles and a beard, and is simply not wearing anything.\n\nThe hat is the second black top hat recorded in the catalogue, after the Skull Trickster's, who arrived in the batch before him. The Leprechaun's is green and buckled, and the Ferryman wears a black one in his photograph although his card has never said so.\n\nA gentleman's hat, a gentleman's spectacles, a gentleman's beard, and nothing else at all. That is the whole card and it is meant to be."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
