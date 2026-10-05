@@ -4711,7 +4711,7 @@ window.COLLECTION = [
     tags: ["agent", "spy"],
     images: ["images/the-smiling-agent-01.jpg"],
     acquired: "",
-    notes: "Name is purely descriptive - he is the only agent wearing the plain old smile instead of gear on his face. No story given for him yet."
+    notes: "Name is purely descriptive - he was the only agent wearing the plain old smile instead of gear on his face. The Detective Agent broke that: her face is plain as well, and grinning wider. He is still the only man in the unit it is true of. No story given for him yet."
   },
 
 
@@ -26219,6 +26219,234 @@ window.COLLECTION = [
     ],
     acquired: "2026-10-05",
     notes: "Filed with the working people, beside the Robot Builder, the Storage Robot, the Tin Robot and the Stunt Robot. The rung is for everybody whose job can hurt them and is not a fight, and a working machine has always gone there rather than onto the soldiers' rung with the droids.\n\nThe chest argues with the job. There is a crosshair printed on it and a winged emblem beside the crosshair, and neither of those is workshop kit - they are the marks of something that was issued, to somebody, by somebody. The job he was given is tech. The plate he is wearing says he came out of somewhere with a badge. Nothing settles it, and the printing is recorded rather than explained.\n\nThe hands do not match, one pale and one dark, which is the second figure in this batch with that - the other being the barbarian.\n\nThe name is a designation rather than a name: a colour and a number, and the number is zero."
+  },
+
+  /* The first two Green Rangers with names. The other eight are described
+     rather than called anything - the wide-eyed one, the moustached one, the
+     one in the olive helm - so these two are the first in the unit anybody
+     has been introduced by name. */
+  {
+    id: "smitty",
+    name: "Smitty",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Green Rangers",
+    location: "",
+    relations: [
+      { to: "santi", label: "The other named ranger" },
+      { to: "the-fighter-pilot", label: "Same star on the buckle" }
+    ],
+    rating: 0,
+    background:
+      "A Green Ranger, and the first one with a name.\n\n" +
+      "Eight of them were already here and not one had been called anything " +
+      "— the wide-eyed one, the moustached one, the one in the olive helm, " +
+      "the hooded one who is dead. This is the unit's first name.",
+    provenance:
+      "A sand green helmet, domed, with a narrow brim running right round it " +
+      "and a raised ring where the crown meets the brim. Under it a yellow " +
+      "face: brown brows, dark eyes, and a small closed smile pulled up at one " +
+      "corner.\n\n" +
+      "The torso is sand green and printed as a field tunic — an open collar " +
+      "with a pale tab at each point, a placket of four buttons down the " +
+      "centre, and seam lines at the chest. Across the waist a dark brown " +
+      "leather belt with a pale rectangular buckle plate, and a star stamped " +
+      "in the middle of the plate.\n\n" +
+      "Yellow arms, yellow hands. Black hips, sand green legs with no printing " +
+      "on them.",
+    tags: ["green-ranger", "soldier", "named", "sand-green", "field-tunic",
+           "star-buckle", "helmet"],
+    images: [
+      { src: "images/smitty-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed as a soldier of the Green Rangers, which is where six of the other eight stand. The two pilots and the patrol captain are the exceptions and nothing says he is either.\n\nThe star on the buckle is the unit's mark. The Fighter Pilot's card has carried that line since he was written down, and these two are the second and third rangers it has been seen on - the same belt, the same plate, the same star. The only other star buckle in the collection is Wen's, and he is on the enemy side.\n\nThe name is the thing. The Green Rangers have been a unit of descriptions since the day they were catalogued, and two of them arrived today with names on them, which means somebody in there is a person rather than a face in a photograph."
+  },
+
+  {
+    id: "santi",
+    name: "Santi",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Green Rangers",
+    location: "",
+    relations: [
+      { to: "smitty", label: "The other named ranger" },
+      { to: "the-ranger-patrol-captain", label: "Fair hair under the same green brim" }
+    ],
+    rating: 0,
+    background:
+      "The other named Green Ranger, in the same uniform as Smitty and wearing " +
+      "it differently.\n\n" +
+      "He is the second ranger here whose head is not yellow — the\n" +
+      "Grinning Ranger is tanned, and this one is paler still, with a\n" +
+      "moustache on it.",
+    provenance:
+      "A sand green cap with a stiff brim, pulled down over a head of pale " +
+      "blond hair that shows at the temples and down the back of the neck. " +
+      "The head under it is light flesh-tone rather than yellow — brown brows, " +
+      "dark eyes, a dark moustache over the lip and stubble shadowing the jaw. " +
+      "There are fine scratches worn across the whole face.\n\n" +
+      "The same sand green field tunic as Smitty: collar tabs, four buttons " +
+      "down the placket, and the dark brown belt with the pale plate and the " +
+      "star stamped in it.\n\n" +
+      "Black arms, and grey hands where Smitty's are yellow. Black hips, sand " +
+      "green legs.\n\n" +
+      "In his left hand, held low and pointing out, a short grey cylinder, " +
+      "open and hollow at the far end. Nothing says what it is.",
+    tags: ["green-ranger", "soldier", "named", "sand-green", "field-tunic",
+           "star-buckle", "flesh-tone", "moustache", "stubble", "worn"],
+    images: [
+      { src: "images/santi-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Same rung and same unit as Smitty, and he stands behind him only because he was written down second.\n\nThe head is the thing worth writing down, and it is a smaller claim than it first looks. Flesh-toned heads are not rare here - dozens of cards describe a tan or flesh face, on both sides and in both halves of the collection. What is rare is one inside this unit. The Green Rangers are a yellow-faced outfit with one tanned exception, the Grinning Ranger, and Santi is the second.\n\nThe grey cylinder is left as a grey cylinder. It is short, held low, and hollow at the open end, and a blaster, a scope, a torch and a length of pipe would all photograph like that.\n\nThe face is scratched right across. This one has been played with."
+  },
+
+  {
+    id: "the-blue-lady",
+    name: "The Blue Lady",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "Classic Space",
+    location: "",
+    relations: [
+      { to: "the-blue-spaceman", label: "Same badge, same blue" },
+      { to: "the-woman-in-the-space-jacket", label: "The other woman wearing the badge" }
+    ],
+    rating: 0,
+    background:
+      "She wears the oldest badge in the collection.\n\n" +
+      "The planet and the rocket is what the Blue, Red, Yellow and Bearded " +
+      "Spacemen have on their chests, and it is one of the oldest designs here " +
+      "— but all four of them are sealed into helmets, and she is not. She has " +
+      "a knitted hat on and a headset, and you can see her face.\n\n" +
+      "That is the whole difference and it is a large one. The classic " +
+      "spacemen are suits. This is somebody on the programme with the suit " +
+      "off.",
+    provenance:
+      "A blue knitted cap, moulded with a rolled brim and a soft crown. Under " +
+      "it the face is printed with her hair as well — brown strands sweeping " +
+      "across the forehead and down past both cheeks. Heavy black lashes above " +
+      "and below each eye, thin brows, and an open mouth with red lips and the " +
+      "teeth showing.\n\n" +
+      "A headset: a dark band running from behind the right ear forward across " +
+      "the cheek to a small grey microphone sitting right at the corner of her " +
+      "mouth. All of it is printed on the head.\n\n" +
+      "The torso is blue and carries the classic Lego Space badge at the " +
+      "chest — a yellow planet with a white ring around it and a red rocket " +
+      "crossing in front. Blue arms, yellow hands, blue legs, no printing " +
+      "below the waist.",
+    tags: ["classic-space", "space-badge", "planet-and-rocket", "beanie",
+           "headset", "blue", "woman", "no-helmet"],
+    images: [
+      { src: "images/the-blue-lady-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Placeholder name, taken from your words for her.\n\nFiled with the working people and standing with Classic Space, which makes five in that group. She gets Astronaut rather than Spaceman: it is the same rung and the same standing in this catalogue, and it is the word that fits.\n\nShe is the first of the five without a helmet. Four sealed suits and one woman in a woolly hat, all wearing the same badge.\n\nThe headset is worth its own line. Four figures here have one - a pilot, Obi-Wan, the militiamen out of armour and the Blue Space Captain - and every one of them is somebody talking to somebody else while they work. Hers is printed onto the face rather than clipped on, which means it is part of who the figure is rather than kit she picked up."
+  },
+
+  {
+    id: "the-detective-agent",
+    name: "The Detective Agent",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Detective Agent",
+    group: "Lego Agents",
+    location: "",
+    relations: [
+      { to: "the-atv-agent", label: "The other new agent" },
+      { to: "the-forensic-agent", label: "The other one who works a case" },
+      { to: "the-agent", label: "Wears a different badge" }
+    ],
+    rating: 0,
+    background:
+      "A detective of the Lego Agents.\n\n" +
+      "The Agents already had somebody who reads a crime scene — the forensic " +
+      "agent, who finds the clues in it. This is the one who works out what " +
+      "they mean.\n\n" +
+      "She is kitted for the other half of the job as well. The harness over " +
+      "her shoulders is climbing gear, not office wear.",
+    provenance:
+      "Reddish-brown hair, moulded, swept back off the forehead and tucked " +
+      "behind the ears. A yellow face: thin brows, lashed eyes with a white " +
+      "glint in each, and a wide open grin with the whole row of teeth " +
+      "showing.\n\n" +
+      "Over the shoulders a moulded grey harness — two thick straps standing " +
+      "proud of the torso, glossy where the printing is matte, running down " +
+      "either side of the chest and clipped off at the bottom.\n\n" +
+      "Under the harness the torso is printed dark grey, with an olive-green " +
+      "flash either side of the centre and white-edged chevrons lower down. " +
+      "Between the straps, a white disc with crosshair lines ruled across it " +
+      "and a letter A set in the middle of it in olive green.\n\n" +
+      "Blue arms, yellow hands. Dark navy legs with no printing on them.",
+    tags: ["agent", "detective", "lego-agents", "harness", "crosshair-badge",
+           "woman", "grin"],
+    images: [
+      { src: "images/the-detective-agent-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed with the Agents at the rung the forensic agent already holds, and given a compound title the same way she was: the job in front, the service behind it.\n\nThe badge is not the one the others wear. The Agent's card says his is an orbiting globe, and that it is a genuine Agents torso, so the lore and the plastic agree. Hers is a letter A inside a crosshair. Two different marks on the same service, and nothing yet says whether that is two eras, two branches, or nothing at all.\n\nThe harness is the detail that argues with the title. A detective works a desk and a scene; a woman wearing climbing straps over her chest works buildings. Both are written down and neither is explained.\n\nShe and the ATV agent are the second and third women in the Lego Agents after the forensic agent, which makes three out of seven.\n\nShe also breaks somebody else's card. The Smiling Agent was named for being the only agent with a plain face instead of gear on it; hers is plain too, and wider. His card has been corrected rather than left standing."
+  },
+
+  {
+    id: "the-atv-agent",
+    name: "The ATV Agent",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "ATV Agent",
+    group: "Lego Agents",
+    location: "",
+    relations: [
+      { to: "the-detective-agent", label: "The other new agent" },
+      { to: "the-agent", label: "Wears a different badge" }
+    ],
+    rating: 0,
+    background:
+      "The Agents' ATV operator.\n\n" +
+      "Everybody else in the service is defined by what they find out. She is " +
+      "defined by how they get there — the first agent here whose job is a " +
+      "vehicle.",
+    provenance:
+      "Dark brown hair, moulded, swept up and back off the face in heavy " +
+      "ridges. A yellow face wearing printed safety glasses: a pale frame " +
+      "across the eyes with light blue lenses behind it, the eyes showing " +
+      "through, thin brows above and a small red mouth below.\n\n" +
+      "The torso is dark navy, printed as a fitted jacket with olive-green " +
+      "panels edged in white running down from the collar and out towards each " +
+      "hip. A lime-green collar band closes at the throat with a single stud. " +
+      "On her left breast, the same white disc as the detective wears — " +
+      "crosshair lines ruled across it, an olive letter A in the centre.\n\n" +
+      "Across the waist a white utility belt with grey keepers set along it, " +
+      "and clipped at the right hip an identity card: a white rectangle with a " +
+      "portrait on one half and four ruled lines of text on the other.\n\n" +
+      "Blue arms, yellow hands. Dark navy legs printed with the belt running " +
+      "on and more of the pale panelling down the thighs.",
+    tags: ["agent", "atv", "lego-agents", "crosshair-badge", "safety-glasses",
+           "id-card", "utility-belt", "woman", "navy"],
+    images: [
+      { src: "images/the-atv-agent-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New title, filed at the Agents' rung with the rest of them.\n\nThe identity card is the fourth in the collection and the second clipped at a hip. A militiaman out of armour wears one in exactly that place, over denim with a work harness; the Pimp has photo identification clipped to a lab coat; the PA carries a laminated pass on an orange lanyard. Four people in nearly nine hundred who have to prove they are allowed in, and three of them are out of uniform when they do it. The portrait on hers is too small to be a face and the four lines are ruled rather than written.\n\nThe safety glasses go with the vehicle. Goggles are everywhere in this collection - twenty-five cards mention a pair, on pilots, miners, divers and assassins - but almost all of them are a moulded piece or a strap over the brow. Hers are printed onto the face as glasses, sitting on the eyes, which is how somebody who actually wears them would be drawn.\n\nShe carries the same crosshair badge as the detective agent and not the orbiting globe the first agent wears, which is the open thing on both their cards."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

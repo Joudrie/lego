@@ -377,6 +377,7 @@ window.ORDER = {
     "the-financier-in-the-green-tie", "the-evil-financier",
     "the-financier-in-the-cravat", "the-tv-camera-woman", "the-pa",
     "the-neutral-skeletons", "the-hospital-driver", "cyan-0",
+    "the-blue-lady",
   ],
 
   /* --------------------------------------------------------- what they ARE
@@ -435,6 +436,9 @@ window.ORDER = {
     "Vigilante": 4, "Auror": 4, "Infiltrator": 4, "Disc Thrower": 4,
     "Brawler": 4, "Heavy": 4, "Guardian": 4, "Honor Guard": 4, "Agent": 5,
     "Royal Intelligence Agent": 5, "Smuggler": 4, "Fanatic": 4, "Shaman": 4,
+    // Compound titles, built the way the Forensic Agent's was: the job in
+    // front, the service behind it, and the service decides the rung.
+    "Detective Agent": 5, "ATV Agent": 5,
     "Vessel": 4, "Parasite": 4, "Leader, Bionics Team": [4, 0],
 
     // 5 - soldiers
