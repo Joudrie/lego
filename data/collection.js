@@ -25928,14 +25928,15 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
-    group: "",
+    group: "The Skeleton-Head Tribe",
     location: "",
     relations: [
       { to: "the-hospital-driver", label: "Friend" },
       { to: "the-brother-with-the-hilt", label: "Friend" },
       { to: "the-brother-in-blue", label: "Friend" },
       { to: "the-white-haired-adventurer", label: "Friend" },
-      { to: "the-minecraft-person", label: "Wears his kind of head" }
+      { to: "the-minecraft-person", label: "Wears his kind of head" },
+      { to: "the-natives-son", label: "His son" }
     ],
     rating: 0,
     background:
@@ -25955,7 +25956,11 @@ window.COLLECTION = [
       "it means about him either.\n\n" +
       "He runs with a hospital driver, two men who hold the roads between " +
       "worlds, and an adventurer. Of everybody he could have fallen in with, " +
-      "he has fallen in with the two people whose job is the crossing.",
+      "he has fallen in with the two people whose job is the crossing.\n\n" +
+      "He has a son, and the son is a barbarian. The son came in six days " +
+      "after he did and brought the answer to the question this card was " +
+      "left with: he is a native of the skeleton-head tribe. The mask is not " +
+      "one man's. It is what his people wear, and his son does not wear it.",
     provenance:
       "A white cube for a head, square-cornered, with a pixel face: two black " +
       "rectangles for eyes and a black bar for a mouth, broken in the middle " +
@@ -25975,7 +25980,245 @@ window.COLLECTION = [
       { src: "images/the-native-in-the-skeleton-mask-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-29",
-    notes: "He stands with the civilians, and that is a placeholder rather than a judgement. Nothing has been said about what he does, and the catalogue drops anybody with no job and no rank to the bottom of the good side by default. One sentence about his trade moves him.\n\nThe head is what earns the card. It is a Minecraft skeleton head, which is a real part out of a real Lego theme, and calling it a mask rather than a face was your word for it — which settles something the plastic could not. If it is a mask there is a face under it, and the face is a minifigure's.\n\nThe feathers and the beads are ceremonial dress and not armour. He is carrying nothing.\n\nThe open question is what he is a native of. In a world where every other collection is a different world and the man beside him guards the roads between them, the word has more than one answer, and none of them has been given."
+    notes: "He stands with the civilians, and that is a placeholder rather than a judgement. Nothing has been said about what he does, and the catalogue drops anybody with no job and no rank to the bottom of the good side by default. One sentence about his trade moves him.\n\nThe head is what earns the card. It is a Minecraft skeleton head, which is a real part out of a real Lego theme, and calling it a mask rather than a face was your word for it — which settles something the plastic could not. If it is a mask there is a face under it, and the face is a minifigure's.\n\nThe feathers and the beads are ceremonial dress and not armour. He is carrying nothing.\n\nThe open question was what he is a native of, and it has been answered: a tribe, named for the head. He now has a group, which he did not have, and one other person in it.\n\nHe still stands with the civilians. A people is not a job, and nothing has yet been said about what he does inside his own.\n\nWhat is open now is the mask. His son has an ordinary face and is not wearing one, so it is not simply what the tribe looks like from birth. Either it is given, or it is taken, or it is not for sons."
+  },
+
+  {
+    id: "the-natives-son",
+    name: "The Native's Son",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Barbarian",
+    group: "The Skeleton-Head Tribe",
+    location: "",
+    relations: [
+      { to: "the-native-in-the-skeleton-mask", label: "His father" },
+      { to: "the-mini-barbarian", label: "Dressed the same, a quarter the size" }
+    ],
+    rating: 0,
+    background:
+      "A barbarian, and a good one. His father is the native in the skeleton " +
+      "mask.\n\n" +
+      "That settles something the father's card could not. The open question " +
+      "on it was what he was a native of, and the answer is a tribe — the " +
+      "skeleton-head tribe — which means the mask is not one man's and the " +
+      "head everybody else in this world would read as foreign is what that " +
+      "people wear.\n\n" +
+      "The son does not wear it. He has an ordinary face, bared and snarling, " +
+      "and he fights.",
+    provenance:
+      "Black hair, moulded, swept forward and cut in at the ears. The face is " +
+      "a snarl: heavy black brows driven down to the bridge of the nose, eyes " +
+      "with a white glint in each, and the mouth pulled open on a set of bared " +
+      "teeth with the line of the bite drawn straight across them. A red scuff " +
+      "on the right cheek, which is paint damage and not printing.\n\n" +
+      "The torso is bare yellow, printed with the muscle of the chest and the " +
+      "belly in fine brown line. A studded brown leather baldric runs from the " +
+      "right shoulder down across the chest to the left hip, buckled through a " +
+      "ring at the top, and a pale cloth or hide wrap is knotted over the left " +
+      "shoulder above it. Below the ribs a wide dark leather girdle is " +
+      "strapped across the whole waist, riveted, with a row of four pale marks " +
+      "cut into it on one side.\n\n" +
+      "Tan legs. A segmented brown belt at the hips with a white plate at the " +
+      "buckle, a brown pouch or holster printed down the left thigh, and on " +
+      "the right thigh three white curved claws.\n\n" +
+      "The hands do not match. The left is black, the right is yellow and " +
+      "bare. He is carrying nothing.",
+    tags: ["barbarian", "tribe", "skeleton-head-tribe", "son", "bare-chest",
+           "baldric", "girdle", "claws", "snarl", "mismatched-hands"],
+    images: [
+      { src: "images/the-natives-son-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed with the Warriors, which is where the Mini Barbarian already stands and where this catalogue keeps everybody who fights with their hands and with blades. He is carrying nothing in the photograph, and the rung is read off what he is rather than off what he happens to be holding.\n\nThe tribe is new and it is the real addition. The father was catalogued six days ago with one open question on his card - what he is a native of - and this answers it. There is a people, and the skeleton head belongs to the people rather than to the one man. The name of the tribe is taken from your words for it.\n\nThe son is not wearing the mask, which is the next thing worth watching. Either it is not given until something happens, or he has not taken it, or it is not for sons.\n\nHe and the Mini Barbarian are dressed as the same idea at two scales: a bare chest, leather crossed over it, and a wide studded belt. One is a quarter of an inch tall and the other is a minifigure, and nothing connects them but the costume.\n\nThe black left hand against the bare right one is left as it is. Mismatched hands here have usually meant a prosthetic or a gauntlet, and nothing says which this is."
+  },
+
+  {
+    id: "brian",
+    name: "BRIAN",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Defense Bot",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-defense-bot", label: "The other defense bot" },
+      { to: "the-cyborg", label: "The other way round" }
+    ],
+    rating: 0,
+    background:
+      "A defense bot with human hands and a human mind.\n\n" +
+      "Both halves of that matter. The mind means there is somebody in there " +
+      "— he is not a droid running an instruction set, he is a person, and " +
+      "whatever was done to put him in that body was done to a person. The " +
+      "hands mean you can see it from outside. Everything else about him is " +
+      "machine: the shell, the collar, the visor, the webbing. The hands are " +
+      "bare.\n\n" +
+      "He is the opposite of the cyborgs. They are people with machine parts " +
+      "put into them. He is a machine with the person left in.",
+    provenance:
+      "A black helmeted head under a translucent red dome that arches over the " +
+      "crown from ear to ear and glows where the light goes through it. The " +
+      "face is printed, not moulded: a pale blue visor band across the eyes " +
+      "with dark circuitry showing inside it, and below that a rounded cream " +
+      "plate with a dark ring at its centre, which reads as a breather.\n\n" +
+      "Over the shoulders a heavy black collar, moulded and ribbed, flaring " +
+      "out wide on both sides and standing up behind the head.\n\n" +
+      "The torso is dark blue, printed with grey webbing: a canister on each " +
+      "side of the chest, a strap running down the centre to a buckle, and a " +
+      "row of pale blue-grey pouches across the waist. Dark blue arms. Dark " +
+      "blue legs, unprinted.\n\n" +
+      "And the hands are yellow.",
+    tags: ["robot", "defense-bot", "human-mind", "human-hands", "yellow-hands",
+           "red-dome", "visor", "collar", "webbing", "named", "machine-body"],
+    images: [
+      { src: "images/brian-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "The yellow hands are the whole card, and they are rare in a way worth writing down. Every other machine here whose hands are recorded has machine hands - white, grey, black, pale blue, a bronze claw, a nozzle, or a gun clamped over the forearm where the arm should end. Not one of them has a minifigure's bare yellow hand. BRIAN does, on both arms.\n\nHe is the second defense bot. The first is bronze from crown to feet with a minigun for one arm and a claw for the other, built by an old man of the former Verdauf guards, and he has no human part anywhere on him. Two figures with the same job and opposite answers to the same question.\n\nFiled with the soldiers, on the same rung as the bot he shares a title with.\n\nAdded to the rebuilt and the bionic. That set is for the figures made of two things at once, and he belongs in it from the other direction: everybody else in there is a person with machine in them.\n\nNo group. Nothing says who he defends or who built him, and the shell says nothing either - the webbing is a soldier's and the collar is nobody's in particular."
+  },
+
+  {
+    id: "jay-cortes",
+    name: "Jay Cortes",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Biplane Operator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-hospital-driver", label: "Wears the same neck bracket" }
+    ],
+    rating: 0,
+    background:
+      "A private biplane operator.\n\n" +
+      "Private is the word that places him. There are pilots here who fly for " +
+      "an army, pilots who fly cargo, a test pilot and a famous one; this one " +
+      "flies his own aircraft, and a biplane at that, which is an old machine " +
+      "to still be running.\n\n" +
+      "He is dressed for an open cockpit and loaded for a long way from help.",
+    provenance:
+      "A black leather flying cap, moulded, close to the skull with the ear " +
+      "flaps down. Under it a yellow face with a day or two of stubble drawn " +
+      "in dots across the jaw and above the lip, dark eyes and a crooked " +
+      "half-smile.\n\n" +
+      "A white neck bracket around the throat with the plate standing up " +
+      "behind it. Nothing is clipped to it.\n\n" +
+      "The torso is tan, printed as a khaki shirt: an open collar with the " +
+      "chest showing pink beneath it, a buttoned placket down the middle, and " +
+      "a flapped pocket on each side. Over the shirt a pair of grey webbing " +
+      "braces runs from the shoulders down to a waist belt, buckled through " +
+      "small white keepers at the chest, and the belt carries four dark pouches " +
+      "— two on each hip — with a round white buckle plate at the centre.\n\n" +
+      "Tan arms, yellow hands, tan legs with no printing on them.",
+    tags: ["pilot", "biplane", "private", "aviator", "flying-cap", "stubble",
+           "webbing", "neck-bracket", "named", "khaki"],
+    images: [
+      { src: "images/jay-cortes-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed at the very back of the pilots, which is the back of the soldiers' rung. The ladder already holds the pilots behind the riflemen because a pilot is not in the fight the way a man with a rifle is, and inside that it runs fighter, then line, then cargo, then test. A man flying his own biplane for himself goes behind all four of them. It is the furthest back that rung goes.\n\nHe is a named figure with a full name, which not many customs here are.\n\nHe is not in the Adventure Crew. There is an Aviator in it, and an Ace, and the Aviator's Father, and it would be easy to drop a biplane man in beside them - but nothing says he knows them, and private is the one thing that was said about him.\n\nThe white neck bracket is the same part the Hospital Driver wears, and it is empty on both of them. Two men six days apart with a mount and nothing mounted."
+  },
+
+  {
+    id: "texalm",
+    name: "Texalm",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Defense Operator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "brian", label: "The same word in both their titles" }
+    ],
+    rating: 0,
+    background:
+      "A defense operator, and a friendly one.\n\n" +
+      "Friendly is doing work there. It is not the same as good — it is the " +
+      "word you use about somebody whose side is a question worth asking, and " +
+      "the answer here is that he is on ours.\n\n" +
+      "The 2026 goes with the title and nothing says what it counts: a year, a " +
+      "model, a unit, an intake. It is recorded as given.",
+    provenance:
+      "White ski goggles pushed up onto the forehead, moulded, with a dark " +
+      "lens in a white frame. Under them a black hood that comes down around " +
+      "the whole face and leaves a square of yellow showing — two plain dot " +
+      "eyes and a small smile, and nothing else drawn on it. A black scarf " +
+      "runs out of the hood and stands straight out to one side.\n\n" +
+      "The torso is pale tan and printed as a stitched coat: a white " +
+      "triangular panel at the throat with a leaf or feather worked inside it, " +
+      "a centre seam running down from it, and brown dotted stitching tracking " +
+      "the seam and crossing the chest in two bands. Two toggle closures sit " +
+      "on the left breast, each a barrel between two loops. Lower down, an " +
+      "angled pocket flap on each side, stitched the same way.\n\n" +
+      "Black arms, yellow hands, black legs with no printing on them.",
+    tags: ["defense-operator", "friendly", "goggles", "hood", "scarf",
+           "stitched-coat", "toggles", "2026", "named", "tan"],
+    images: [
+      { src: "images/texalm-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New job title, filed with the soldiers. Defending is a soldier's rung in this catalogue, and he goes in beside BRIAN, who carries the same word in his.\n\nThat is the only link between them and it is a link in the words rather than in anything said. A defense bot and a defense operator arrived in the same batch, and nobody has said they have ever met or that there is anything for either of them to belong to.\n\nThe coat is the odd thing. It is stitched, toggled and quilted - a made garment, warm, the kind of thing somebody sewed - and it is worn with ski goggles and a face hood. Nothing else in the collection dresses like that.\n\nThe name has no title in front of it and no unit behind it. One word."
+  },
+
+  {
+    id: "cyan-0",
+    name: "CYAN-0",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Tech Bot",
+    group: "",
+    location: "",
+    relations: [
+      { to: "brian", label: "Arrived together" },
+      { to: "the-robot-builder", label: "The other machine that works" }
+    ],
+    rating: 0,
+    background:
+      "A tech bot.\n\n" +
+      "A machine that does the work on machines, which puts him with the " +
+      "mechanics and the technicians rather than with the droid armies. The " +
+      "collection has had robots that fight and robots that fetch; this is one " +
+      "that fixes.",
+    provenance:
+      "A moulded blue head, built as a helmet rather than printed as a face. " +
+      "On the left side a round silver-rimmed port, open and hollow. A pale " +
+      "grey brow bar runs across above a black slot, and on the right a single " +
+      "round orange lens. Silver chevrons are cut into the cheek below it. " +
+      "White stripes sweep back over the crown, and a ribbed blue tube runs " +
+      "down behind the right side of the head.\n\n" +
+      "The torso is a pale grey chest plate printed over blue. A blue ring " +
+      "with a crosshair inside it sits on one side of the chest and a black " +
+      "winged emblem on the other. Down the centre, a long oval panel with a " +
+      "white ring at the top of it, a dark circle inside the ring and a white " +
+      "cross inside that, a small tab off its left edge, and four dots below. " +
+      "Two dark harness straps run down from the shoulders either side of it, " +
+      "and the plate ends in a blue band at the waist.\n\n" +
+      "Blue arms. The hands are a mismatched pair: pale grey on one side, " +
+      "near-black on the other. Grey legs with a blue stripe down the front.",
+    tags: ["robot", "tech-bot", "mechanic", "blue", "orange-lens",
+           "crosshair", "winged-emblem", "mismatched-hands", "named",
+           "moulded-head"],
+    images: [
+      { src: "images/cyan-0-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed with the working people, beside the Robot Builder, the Storage Robot, the Tin Robot and the Stunt Robot. The rung is for everybody whose job can hurt them and is not a fight, and a working machine has always gone there rather than onto the soldiers' rung with the droids.\n\nThe chest argues with the job. There is a crosshair printed on it and a winged emblem beside the crosshair, and neither of those is workshop kit - they are the marks of something that was issued, to somebody, by somebody. The job he was given is tech. The plate he is wearing says he came out of somewhere with a badge. Nothing settles it, and the printing is recorded rather than explained.\n\nThe hands do not match, one pale and one dark, which is the second figure in this batch with that - the other being the barbarian.\n\nThe name is a designation rather than a name: a colour and a number, and the number is zero."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

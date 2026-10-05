@@ -163,6 +163,9 @@ window.ORDER = {
        "the-damaged-battle-droid", "the-rebuilt-stone-warriors",
        "the-modified-arms-dealer",
        "the-brainwashed-assassin", "ultron", "doc-ock",
+       // From the other direction: everybody above is a person with machine
+       // in them, and he is a machine with the person left in.
+       "brian",
     ],
     // Everybody on the top two rungs, which is what it should always have been.
     "Gods and demigods": [
@@ -302,7 +305,7 @@ window.ORDER = {
     ["^(King|Queen|Prince|Elected King|Emperor|Viceroy|Governor|Supreme Chancellor|Pharaoh|Shogun|Dictator|Crime Lord|Demon Lord|Elder|Senator|Ambassador|Pretender)$", "Crowns, thrones and titles"],
     ["Sith|Jedi|Padawan|Force", "The Force, both ends of it"],
     ["Ninja|Samurai", "Ninja and samurai"],
-    ["Knight|Swordsman|Swordmaster|Fencer|Gladiator|Cavalry|Clubman|Elf$", "Blades and armour"],
+    ["Knight|Swordsman|Swordmaster|Fencer|Gladiator|Cavalry|Clubman|Barbarian|Elf$", "Blades and armour"],
     ["Archer|Crossbow|Bowman", "Bows"],
     ["Pirate|Viking|Raider|Smuggler|Outlaw|Gunslinger|Criminal|Convict|Thug|Goon|Pimp", "Outlaws, pirates and thugs"],
     ["Assassin|Hitman|Bounty Hunter|Mercenary|Infiltrator|Brawler|Enforcer|Vigilante|Fanatic|Disc Thrower|Arms Dealer|Heavy$", "Guns for hire"],
@@ -311,15 +314,15 @@ window.ORDER = {
     ["Police|Sheriff|Detective|SWAT|Animal Control|Highway Patrol|Watch|Patrol Captain|Forensic|Nightwatch", "The law"],
     ["Fire", "The fire service"],
     ["Droid|Killer Bot|Defense Bot|Robot$|Replica|Horse|Beast|Parasite|Power Source|Nanobot|Vessel", "Machines, beasts and things"],
-    ["Pilot|Squadron Leader|Hangar", "Pilots and aircrew"],
+    ["Pilot|Biplane|Squadron Leader|Hangar", "Pilots and aircrew"],
     ["Diver|Aqua|Dive Team", "Under the water"],
     ["Astronaut|Spaceman|Space Ranger|Space Cadet|Space Command|Space Biker|Space Engineer|Launch Director", "The space programme"],
     ["Militia|Verdauf", "The space militia"],
     ["Agent|Royal Intelligence|Master of|Occult|Shaman|Chaplain|Guardian|Auror", "Secrets, spies and sorcery"],
     ["General|Commander|Captain|Marshal|Squad Leader|Second in Command|Head of|Fleet|Secretary of War|Mentor|Instructor|Director|Officer|Sergeant|Invasion Leader|Leader", "Officers and commanders"],
-    ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Discarded", "Soldiers of every army"],
+    ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Defense Operator|Discarded", "Soldiers of every army"],
     ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Safari", "Mines, sites and open ground"],
-    ["Mechanic|Technician|Engineer|Inventor|Maker", "Mechanics and technicians"],
+    ["Mechanic|Technician|Engineer|Inventor|Maker|Tech Bot", "Mechanics and technicians"],
     ["Doctor|Professor|Librarian|Student|Graduate|Intern|Curator", "Learning and medicine"],
     ["Financier|Bank|Inventory|Secretary|Assistant|Shopkeeper|Greengrocer|Tea Seller|Courier|Gas Attendant", "Money, shops and desks"],
     ["Athlete|Racing|Stunt|Driver|Surfer|Backpacker|Traveller|Explorer|Adventure", "Sport, speed and going places"],
@@ -373,7 +376,7 @@ window.ORDER = {
     "the-transport-director", "the-escapees", "the-second-boxer",
     "the-financier-in-the-green-tie", "the-evil-financier",
     "the-financier-in-the-cravat", "the-tv-camera-woman", "the-pa",
-    "the-neutral-skeletons", "the-hospital-driver",
+    "the-neutral-skeletons", "the-hospital-driver", "cyan-0",
   ],
 
   /* --------------------------------------------------------- what they ARE
@@ -441,10 +444,15 @@ window.ORDER = {
     // at all - so the third number here holds them at the back of the rung.
     "Fighter Pilot": [5, 5, 80], "Pilot": [5, 5, 82], "Pilot Officer": [5, 5, 82],
     "Cargo Pilot": [5, 5, 84], "Test Pilot": [5, 5, 86],
+    // A man flying his own aircraft, for himself, goes behind all four of
+    // them. This is as far back as the rung goes.
+    "Biplane Operator": [5, 5, 88],
     "Scout": 5, "Guard": 5, "Prince's Guard": 5,
     // Two brothers holding the roads between worlds. Not an army and not
     // police - men standing over a route, which is what a guard is.
     "Trail Warden": 5,
+    // Defending is a soldier's rung, whether a person does it or a bot does.
+    "Defense Operator": 5,
     "Droid": 5, "Killer Bot": 5, "Defense Bot": 5, "Robot": 5,
     "Machine Gunner": 5, "Artillery": 5, "Defense Gunner": 5, "Medic": 5,
     "Armorer": 5, "Technician Sergeant": 5, "Sergeant": [5, 1],
@@ -510,6 +518,7 @@ window.ORDER = {
     "Mechanic": [10, 5, 32], "Mechanic Supervisor": [10, 0, 32],
     "Aircraft Mechanic": [10, 5, 32], "Aircraft Engineer": [10, 5, 32],
     "Engineer": [10, 5, 32], "Technician": [10, 5, 32], "Robot Builder": [10, 5, 32],
+    "Tech Bot": [10, 5, 32],
     "Construction Chief": [10, 0, 34], "Construction Worker": [10, 5, 34],
     "Site Planner": [10, 5, 34],
     "Racing Driver": [10, 5, 36], "Stunt Driver": [10, 5, 36],
