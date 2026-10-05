@@ -320,14 +320,14 @@ window.ORDER = {
     ["Militia|Verdauf", "The space militia"],
     ["Agent|Royal Intelligence|Master of|Occult|Shaman|Chaplain|Guardian|Auror", "Secrets, spies and sorcery"],
     ["General|Commander|Captain|Marshal|Squad Leader|Second in Command|Head of|Fleet|Secretary of War|Mentor|Instructor|Director|Officer|Sergeant|Invasion Leader|Leader", "Officers and commanders"],
-    ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Defense Operator|Discarded", "Soldiers of every army"],
+    ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Operator|Discarded", "Soldiers of every army"],
     ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Safari", "Mines, sites and open ground"],
     ["Mechanic|Technician|Engineer|Inventor|Maker|Tech Bot", "Mechanics and technicians"],
     ["Doctor|Nurse|Professor|Librarian|Student|Graduate|Intern|Curator", "Learning and medicine"],
     ["Financier|Bank|Inventory|Secretary|Assistant|Shopkeeper|Greengrocer|Tea Seller|Courier|Gas Attendant", "Money, shops and desks"],
     ["Athlete|Racing|Stunt|Driver|Biker|Surfer|Backpacker|Traveller|Explorer|Adventure", "Sport, speed and going places"],
     ["Chef|Farmer|Fisherman|Peasant|Woodsman", "Food, farms and water"],
-    ["Musician|Rapper|Bard|Jester|Clown|Comedian|Camera|Rights Activist|Easter Bunny", "Stage, screen and street"],
+    ["Musician|Rapper|Bard|Jester|Clown|Comedian|Trickster|Camera|Rights Activist|Easter Bunny", "Stage, screen and street"],
     ["Orphan|Royal Child|Child|Apprentice", "Children and apprentices"],
     ["Civilian|Gatekeeper", "Ordinary people"],
   ],
@@ -459,6 +459,9 @@ window.ORDER = {
     "Trail Warden": 5,
     // Defending is a soldier's rung, whether a person does it or a bot does.
     "Defense Operator": 5,
+    // Your word for two enemy figures in worked-over trooper armour.
+    // Nothing says either commands anybody, so it sits with the line troops.
+    "Operator": 5,
     "Droid": 5, "Killer Bot": 5, "Defense Bot": 5, "Robot": 5,
     "Machine Gunner": 5, "Artillery": 5, "Defense Gunner": 5, "Medic": 5,
     "Armorer": 5, "Technician Sergeant": 5, "Sergeant": [5, 1],
@@ -546,6 +549,10 @@ window.ORDER = {
     "Shopkeeper": [10, 5, 44], "Greengrocer": [10, 5, 44], "Tea Seller": [10, 5, 44],
     "Musician": [10, 5, 46], "Rapper": [10, 5, 46], "Bard": [10, 5, 46],
     "Jester": [10, 5, 46], "Clown": [10, 5, 46], "Stand-up Comedian": [10, 5, 46],
+    // The only other trickster here is a god. This one has nothing said about
+    // what he can do, so he goes with the people whose work is the trick
+    // rather than onto a rung a shared noun would have invented for him.
+    "Trickster": [10, 5, 46],
     "Camera Operator": [10, 5, 46],
     "Traveller": [10, 5, 48], "Backpacker": [10, 5, 48], "Surfer": [10, 5, 48],
     "Gatekeeper": [10, 5, 48], "Easter Bunny": [10, 5, 48],

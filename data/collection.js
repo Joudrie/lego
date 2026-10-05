@@ -27061,6 +27061,233 @@ window.COLLECTION = [
     notes: "Ninth king in the collection and the sixth on the good side. He is placed by his title, which is how every other king here is placed - the role table puts a king among the principals and nothing has been said to move him off it.\n\nThe face is a first. Nearly sixty cards here mention a skull and every one of them is a death's head - a helmet, a mask, a sigil, a bared bone face on something meant to frighten you. This is the other kind entirely: a skull drawn as decoration, ringed in pink, stitched across the mouth, flowers at the temples. It is a face made to be looked at rather than fled from, and nothing else in nine hundred figures is printed like it.\n\nThe crown is chrome, which four other figures here carry somewhere on them, and it is coming off. One lappet is still mirror-bright and the other has worn back to dull grain. A gold crown going dull on a king who was tricked is the kind of thing the plastic does on its own, and it is recorded rather than made to mean anything.\n\nWhat he was tricked into, and by whom, is the open question, and it is the only one on this card - the title, the side and the injury have all been given."
   },
 
+  {
+    id: "the-skull-trickster",
+    name: "The Skull Trickster",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Trickster",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-ferryman", label: "The other trickster, and the same hat" },
+      { to: "the-skull-king", label: "Came in the batch after him" }
+    ],
+    rating: 0,
+    background:
+      "A trickster with a skull for a face, and he walks straight into two " +
+      "things this collection already had.\n\n" +
+      "The first is the word. There is one other trickster here and he is a " +
+      "god — the Ferryman, who pilots an interdimensional boat, plays pranks " +
+      "on people, does all kinds of weird magic and is fundamentally good. " +
+      "Until today the word meant him and nobody else.\n\n" +
+      "The second is the hat. The Ferryman wears a black top hat. So does " +
+      "this one. Two tricksters in nine hundred figures and they are wearing " +
+      "the same piece of plastic, which is not a story but it is a fact, and " +
+      "this catalogue has always written those down.\n\n" +
+      "And he arrived one batch after a king who was tricked into doing evil. " +
+      "Nothing says they have met.",
+    provenance:
+      "A black top hat, flat-crowned with a narrow brim. Under it the classic " +
+      "skull head: bone white, two large round black eye sockets, a black " +
+      "triangle for a nose, and the mouth drawn as a single black zigzag of " +
+      "teeth running the width of the jaw with a short stroke under the nose.\n\n" +
+      "The torso is red, printed with two dark batons crossed in an X over the " +
+      "chest, bound where they meet, and a pale gold crest standing up out of " +
+      "the binding like a flame. Darker red folds of cloth are drawn behind " +
+      "the cross.\n\n" +
+      "Red arms and black hands. A black belt is printed round the waist and " +
+      "carries on down the inside of the legs as a line. Red legs.",
+    tags: ["trickster", "skull", "skeleton-head", "top-hat", "red",
+           "black-hands", "crossed-batons", "no-story-yet"],
+    images: [
+      { src: "images/the-skull-trickster-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed good, which is this world's default for a rogue with nothing written against him - the Space Criminal and the Blue Pirate Thug are both on the good deck for the same reason. One word moves him, and on this one the word matters more than usual.\n\nThe rung is the awkward part and it is set low on purpose. The only trickster in the catalogue is a god and sits among the principals; this figure has nothing said about what he can do, and promoting him on the strength of a shared noun would be inventing a power. He goes in with the jesters, the clowns and the comedian - the people whose work is the trick - and one line about what he is actually capable of moves him anywhere you like.\n\nThe skull is the plain old skeleton head, and Jack Skellington's is the only other bare skull in the collection - the three battle droids whose cards say skull head mean the long snouted B1 face, which is a different thing. It is also not the sugar skull the Skull King has. Two skull-faced figures in two days and they are not the same kind of skull at all: one is a death's head, the other is decoration.\n\nThe hat is the real find. Two other figures here wear a top hat and only one of them is black: the Leprechaun's is green and buckled, and the Ferryman's is the same flat black crown this one has. The Ferryman is the trickster god. Nobody has said these two are connected and the catalogue is not saying it either - but the plastic put a trickster in the trickster's hat without being asked."
+  },
+
+  {
+    id: "the-masked-mercenary",
+    name: "The Masked Mercenary",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mercenary",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-mercenary", label: "The other man called a mercenary" }
+    ],
+    rating: 0,
+    background:
+      "A mercenary, and the second man in the collection to be called one.\n\n" +
+      "The first is in the Space Militia — a former special-forces mercenary " +
+      "who took a commission and settled into an army. This one has not done " +
+      "that. Nothing says who he fights for, which for a mercenary is the " +
+      "whole point: the answer changes.",
+    provenance:
+      "A black cloth head wrap, moulded, drawn tight over the crown and across " +
+      "the lower face in folds, with a narrow slit left open. Through it a " +
+      "band of yellow face: two eyes under hard angled brows and nothing " +
+      "else.\n\n" +
+      "The torso is printed as a worn leather jerkin over a tan undershirt — " +
+      "dark brown panels at the shoulders and down both sides with a patched " +
+      "square at one breast, laced seams, a pale grey belt with a square " +
+      "buckle at the waist, and the undershirt showing between the panels with " +
+      "a curl of design drawn on it.\n\n" +
+      "Over all of it a wide brown strap runs corner to corner from the right " +
+      "shoulder to the left hip, where it ends in a satchel or a scabbard " +
+      "hanging past the belt.\n\n" +
+      "Bare yellow arms, yellow hands. Tan legs with a dark strap printed down " +
+      "the front of one.",
+    tags: ["mercenary", "mask", "head-wrap", "leather", "bandolier",
+           "satchel", "tan", "no-story-yet"],
+    images: [
+      { src: "images/the-masked-mercenary-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Named apart from the Mercenary because that id was taken. He is not a second of that man - that one is militia now and this one is not in anything.\n\nFiled with the elite, which is where this catalogue puts mercenaries, bounty hunters, assassins and the people who beat ordinary soldiers. Filed good by the same default as the Skull Trickster: nothing has been said against him.\n\nThe wrap leaves a slit and the slit shows a yellow face rather than a visor or a pair of lenses, which is worth a line. Almost everything masked here is masked to stop you seeing a person. This one is masked and there is plainly somebody behind it, looking back.\n\nThe strap and the satchel are the only kit on him. No weapon in either hand."
+  },
+
+  {
+    id: "jack-timbers",
+    name: "Jack Timbers",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-masked-mercenary", label: "Arrived together" }
+    ],
+    rating: 0,
+    background:
+      "An adventurer, with a name.\n\n" +
+      "Most of the adventurers here are described rather than called anything " +
+      "— the scrap one, the ginger one, the gem hunter, the white-haired one. " +
+      "This one came with a first name and a surname, which is rare enough on " +
+      "a custom figure to be the first thing worth writing down.",
+    provenance:
+      "A black hat, soft-crowned with a dent pressed into the top and a wide " +
+      "flat brim all the way round. The paint has rubbed off the crown in a " +
+      "pale blotch and along the brim's edge.\n\n" +
+      "A yellow face under it, carrying a full reddish-brown beard and " +
+      "moustache printed in fine strokes across the jaw, up both cheeks and " +
+      "over the lip. Two dot eyes and a small closed smile showing through it.\n\n" +
+      "The torso reads as a shirt pulled open: yellow at the shoulders with a " +
+      "ragged red panel across the chest, a black strap running corner to " +
+      "corner over it carrying a long curved blade in a sheath, and a black " +
+      "belt at the waist with a pale metal buckle.\n\n" +
+      "Yellow arms, yellow hands. Black legs, unprinted.",
+    tags: ["adventurer", "named", "hat", "beard", "machete", "bandolier",
+           "worn", "no-story-yet"],
+    images: [
+      { src: "images/jack-timbers-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed as an adventurer, which sits with the soldiers in this catalogue - the adventurers are not an army but every one of them is armed and every one goes where the trouble is. He carries a blade on his chest, so the rung is read off what he has on him as well as off the word.\n\nHe is not in the Jungle Adventurers or the Adventure Crew. Both of those are named outfits with members, and nothing connects him to either.\n\nThe hat has lost its paint across the crown and along the brim. That is wear rather than printing, and it is the kind of wear that comes from being carried about.\n\nThe name is the whole of the story so far. Jack Timbers, and nothing else."
+  },
+
+  {
+    id: "the-yellow-operator",
+    name: "The Yellow Operator",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Operator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-snow-operator", label: "The other operator" },
+      { to: "the-discarded-militarist", label: "The other enemy in hand-worked trooper armour" }
+    ],
+    rating: 0,
+    background:
+      "An enemy operator, in clone armour that somebody coloured in by hand.\n\n" +
+      "He joins a thread that has been running through this collection for a " +
+      "long time. Seven figures here wear trooper armour whose markings were " +
+      "put on by a person rather than printed at a factory — purple marker on " +
+      "the Clone Captain, brushwork on the Painted Clone Commander, orange on " +
+      "the Discarded Commander, three more in the Marked Soldiers, and blue " +
+      "over clone pilot armour on the Discarded Militarist.\n\n" +
+      "This is the eighth, and the second of them on the enemy deck.",
+    provenance:
+      "The helmet is not a trooper's. It is a moulded grey rig: a smooth dome " +
+      "over a deep rectangular visor slot with a dull red glow sitting behind " +
+      "the dark, thick corrugated hose running down both sides of the face " +
+      "from the crown and continuing under the chin, a short post with a bored " +
+      "hole standing off each top corner, and a cylinder pushed out forward " +
+      "below the jaw like a snorkel.\n\n" +
+      "Under it, white trooper armour printed in the ordinary way — a chest " +
+      "plate, a grooved abdominal belt with its row of slots, a dark waist " +
+      "sash — and over the print, yellow laid on by hand. A broad swipe across " +
+      "the chest, a stroke down each upper arm, a block on the outside of each " +
+      "thigh. The strokes run over the moulded and printed edges rather than " +
+      "following them, and the white shows through everywhere between them.\n\n" +
+      "Yellow hands. White legs under the paint.",
+    tags: ["operator", "enemy", "clone-armour", "hand-painted", "yellow",
+           "marker", "breathing-rig", "red-visor", "modified"],
+    images: [
+      { src: "images/the-yellow-operator-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New job title, filed with the soldiers. Operator is your word and it is kept; nothing says he commands anybody.\n\nThe helmet is the part that is not borrowed. The body is a trooper's and the paint is somebody's hand, but that grey rig with the hosed cheeks and the red behind the visor comes from somewhere else entirely, and it turns a soldier of one world into something that has to breathe through a machine.\n\nHand-worked trooper armour has almost always meant the good side here - a captain, two commanders and three of the Damaged or the Discarded. Only the Discarded Militarist wears it on the enemy deck, and that card is already the hardest in its batch to sit with. This one makes two.\n\nNo group. Two operators arrived together and nothing says they belong to anything, so nothing is drawn but the line between them."
+  },
+
+  {
+    id: "the-snow-operator",
+    name: "The Snow Operator",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Operator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-yellow-operator", label: "The other operator" },
+      { to: "the-snowtroopers", label: "The same armour, the other side" }
+    ],
+    rating: 0,
+    background:
+      "The second enemy operator, in snowtrooper armour gone over in black.\n\n" +
+      "The collection already has snowtroopers and they are filed good. This " +
+      "is the same armour on the other deck, with a person's hand all over it.",
+    provenance:
+      "A white snowtrooper hood: a ridged moulded crown, two dark lens slots " +
+      "for eyes, a blank faceplate below them and a flared skirt standing out " +
+      "round the neck.\n\n" +
+      "Sitting on top of the hood, a black hair piece. Not under it and not " +
+      "instead of it — a head of moulded black hair placed over the helmet, " +
+      "which no other figure in the collection is wearing.\n\n" +
+      "The body is white trooper armour printed in the ordinary way, a chest " +
+      "box with its row of slots and a grooved plate below it, and over that, " +
+      "black put on by hand: a thick bar across the collar, a swipe over one " +
+      "shoulder, a band round each thigh and another round each shin. The " +
+      "strokes cross the moulded edges rather than following them and the " +
+      "white shows through in gaps.\n\n" +
+      "Grey hands. In one of them a grey ring. White legs under the black.",
+    tags: ["operator", "enemy", "snowtrooper", "hand-painted", "black",
+           "marker", "hair-over-helmet", "modified"],
+    images: [
+      { src: "images/the-snow-operator-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Same new title and same rung as the Yellow Operator, and he stands behind him only because he was written down second.\n\nThe hair on top of the helmet is the detail, and he is the second to do it. The other is one of the two Lloyds, who wears a pale blonde piece pushed over his hood so the mask covers the mouth and the head is bare - which is a man half out of his uniform. This one is sealed inside a snowtrooper's hood with hair sitting on the outside of it, which is not that at all. Disguise, joke, or a figure assembled out of what was to hand: the catalogue is not choosing.\n\nThe armour is a snowtrooper's and the collection's snowtroopers are good. Taking an existing unit's kit onto the enemy deck is not new here - the Enemy Scout Trooper is a white scout helmet on the bad side, and the Shadow Troopers are stormtrooper armour moulded black on the good one - but it is worth recording each time, because in this world what a figure is made of is part of who the figure is.\n\nNinth hand-marked trooper, third on the enemy deck."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
