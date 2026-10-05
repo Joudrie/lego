@@ -26662,6 +26662,225 @@ window.COLLECTION = [
     notes: "New title. The police rung already holds the Watch Commander, who runs the domestic forces, and the Watch Command, and a commissioner over the SWAT team; a plain police commander had no line in the ladder until now. He goes in under the chiefs and level with the commissioner, because a chief runs the force and a commander runs a part of it.\n\nThe wear is the card. He has lost more paint than anybody else photographed this week - a whole cheek, the jaw and a band across the brow, all back to bare yellow plastic - and the gold badge on his chest is cracked through. If you want a figure who has been in the job a long time, this is what one looks like.\n\nHe and Arthur are the same torso and the same cap. The catalogue has plenty of repeated uniforms, but almost always on soldiers in a line; two named officers in the identical jacket, one chief and one commander, is a first for the law.\n\nWhether old means his age or his era is left as you said it."
   },
 
+  {
+    id: "the-officer-in-the-visor",
+    name: "The Officer in the Visor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Police",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [
+      { to: "arthur", label: "His chief" },
+      { to: "gregory", label: "Same jacket" },
+      { to: "laura", label: "On the same beat" }
+    ],
+    rating: 0,
+    background:
+      "A police officer of Lego City, and the only person in the collection " +
+      "with his job written on him in words.\n\n" +
+      "Seven figures here carry printed lettering — a race bib, a league, an " +
+      "expedition name and four soldiers in unit codes. His says POLICE, in " +
+      "black capitals across the crown of the helmet, which is not a code or " +
+      "a team. It is the word for what he is.",
+    provenance:
+      "A white helmet, round and full, with POLICE printed across the front of " +
+      "the crown in black and a thin red stripe running under the lettering. " +
+      "Clipped to it, a translucent light blue visor swung down over the whole " +
+      "face.\n\n" +
+      "Through the visor the face reads yellow: rectangular glasses printed " +
+      "with a frame and a pupil in each lens, and a small closed smile under " +
+      "them.\n\n" +
+      "The torso is the black uniform jacket Arthur and Gregory wear — open " +
+      "over a grey shirt and a dark blue tie, notched lapels with a gold pin " +
+      "at each point, three gold buttons, a flapped breast pocket and the gold " +
+      "eight-sided shield badge with its ring of circles.\n\n" +
+      "Black arms, yellow hands. White legs, scuffed and marked all down the " +
+      "front.",
+    tags: ["police", "lego-city-law", "visor", "helmet", "lettering",
+           "printed-glasses", "gold-badge", "uniform", "worn"],
+    images: [
+      { src: "images/the-officer-in-the-visor-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Third figure in the same black uniform jacket, after Arthur and Gregory, and the first of the three not wearing a cap. A chief, a commander and a constable in one coat.\n\nThe lettering is the thing. The collection has words printed on figures before - BIB 0937 on the marathon runner's vest, NBA on the basketball jersey, ARCTIC under the explorers' mountain, and ADU, WIZ and ACU as unit codes, the last of those on two separate soldiers - but every one of them is a number, a league, an expedition or a cipher. POLICE is the first that just says what the man does.\n\nThe glasses are printed on the face and the visor is a separate clear piece over them, so he is wearing two things on his eyes at once. Nothing says why.\n\nFiled as police on the beat, under Arthur with Laura."
+  },
+
+  {
+    id: "the-nurse",
+    name: "The Nurse",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Nurse",
+    group: "",
+    location: "Lego City",
+    relations: [
+      { to: "the-hospital-driver", label: "Wears the identical jacket" }
+    ],
+    rating: 0,
+    background:
+      "A nurse, in the hospital driver's coat.\n\n" +
+      "Not a coat like his — the same one. Red jacket over a white shirt and " +
+      "lapels with a cream panel beneath, and two broad silver-grey reflective " +
+      "bands straight across the front, the kind worn by people working near " +
+      "moving traffic in the dark.\n\n" +
+      "That is outdoor kit, and it is the first thing the collection has that " +
+      "says the hospital goes out to people rather than waiting for them.",
+    provenance:
+      "Long brown hair, moulded, swept back off the forehead and falling past " +
+      "both shoulders. A yellow face: thin dark brows, lashed eyes with a " +
+      "white glint in each, and a small red mouth closed in a half-smile.\n\n" +
+      "The torso is the hospital driver's exactly — red, printed as a jacket " +
+      "worn open over a white shirt with wide lapels, a cream panel showing " +
+      "beneath it, a pocket flap on each side, and the two reflective bands " +
+      "across the chest and the waist.\n\n" +
+      "Red arms, yellow hands. Cream legs, no printing on them, where his are " +
+      "red.",
+    tags: ["nurse", "hospital", "reflective-bands", "red", "woman",
+           "lego-city", "shared-torso"],
+    images: [
+      { src: "images/the-nurse-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New job title, filed with the doctors - the desk-and-ward band of the civilians, where a professor and a librarian also stand.\n\nShe is one rung below the hospital driver and the jacket is the argument against it. He is with the working people because driving a hospital vehicle through a city at night is work that can hurt you; she is wearing the identical garment, which means she is dressed for the same conditions. The catalogue follows the word given - nurse, not paramedic - and this is written down so the placement can be read rather than guessed at.\n\nThe two of them are the only figures wearing that red jacket. The Cheerful Worker has reflective banding too, but his is an orange work coat on a building site, which is a different garment doing a similar job. Nothing says the nurse and the driver work the same shift and nothing says they have met.\n\nHer legs are cream and his are red, which is the only difference between them below the neck."
+  },
+
+  {
+    id: "the-biker",
+    name: "The Biker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Biker",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-worker-in-the-white-helmet", label: "Same helmet" }
+    ],
+    rating: 0,
+    background:
+      "A biker, in a shirt and jeans with a helmet on.\n\n" +
+      "The collection already has three bikers and every one of them is a " +
+      "space biker — a leader, a slimed one and an orange one, riding " +
+      "together. This is the first who is just a man on a bike.",
+    provenance:
+      "A white helmet, close to the skull and brimless, with two short vent " +
+      "slots cut into the crown. It is scuffed along the top edge.\n\n" +
+      "A yellow face under it: wide black wraparound sunglasses, and below " +
+      "them a broad closed smile curving up at both ends. No brows showing " +
+      "above the glasses.\n\n" +
+      "The torso is red and the printing on it has very nearly gone. What " +
+      "survives is a pale open collar at the throat, a placket seam running " +
+      "down from it, and a faint angled line low on each side. Red arms, " +
+      "yellow hands, blue legs with no printing.",
+    tags: ["biker", "helmet", "sunglasses", "red", "blue-legs", "worn",
+           "rubbed-print", "civilian"],
+    images: [
+      { src: "images/the-biker-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New job title, filed in the band the catalogue keeps for people who move - the racing drivers, the stunt drivers, the hospital driver. He is not an athlete and he is not a worker; he rides.\n\nFirst biker here who is not in space. The Space Biker Leader, the Slimed Biker and the Orange Biker are all of this world and all of one gang, and until today the word meant them.\n\nThe helmet is the same white vented shell the Worker in the White Helmet turned up in on the same day, which is the only link drawn between them - one piece of plastic, two jobs.\n\nThe shirt is rubbed down to almost nothing. Whatever it said, it has gone."
+  },
+
+  {
+    id: "the-second-construction-chief",
+    name: "The Second Construction Chief",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Chief",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [
+      { to: "the-construction-chief", label: "The other chief" },
+      { to: "the-worker-in-the-white-helmet", label: "Same jacket" }
+    ],
+    rating: 0,
+    background:
+      "A second construction chief, and the crew already has one.\n\n" +
+      "The first runs construction in all of Lego City, trained every other " +
+      "crew in it, works at supersonic speed and trained as a Jedi. That is a " +
+      "large job. This one has the same title and a different coat, so either " +
+      "he runs a site under the man who runs the city, or the two titles mean " +
+      "different sizes of the same word.\n\n" +
+      "Nothing has been said, so nothing is decided here.",
+    provenance:
+      "A red hard hat, the ribbed moulded kind the whole crew wears. Under it " +
+      "a yellow face with a shock of dark ginger hair showing at the brow, " +
+      "brown brows, dark eyes, a dense field of freckles over both cheeks and " +
+      "the chin, and a small closed smile.\n\n" +
+      "The torso is a blue work jacket, not the orange the rest of the crew " +
+      "are in: a dark collar open over a grey shirt and a pale zip running " +
+      "down the centre, with two orange bands across it — one at the chest and " +
+      "one at the waist — and a square flapped pocket outlined in black at " +
+      "each end of the upper band. A small red tool stands in the left breast " +
+      "pocket.\n\n" +
+      "Blue arms, yellow hands. Orange legs, unprinted.",
+    tags: ["construction", "chief", "hard-hat", "blue-jacket", "freckles",
+           "orange-legs", "lego-city", "second"],
+    images: [
+      { src: "images/the-second-construction-chief-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Named on the pattern this collection already uses for a repeat - the Second Boxer, the Second Serpent, the Second Red Spartan, the Second Cyborg Soldier. It is a placeholder and it is meant to be replaced the moment there is a reason to.\n\nHe is the first of the crew out of orange. The chief wears a full orange jumpsuit, the workers wear orange hi-vis over blue or orange legs, and the Site Planner is the only one in white - he goes in a blue jacket with orange banding, which is the crew's colours the other way round.\n\nThe freckles are heavier than most: a dense field across both cheeks and the chin. Nine other cards here mention freckles - Sean, Anakin, the Grinning Ranger, a miner, a gardener, a pirate crew and three more - so they are not rare, but this many of them are.\n\nHe takes the same rung and the same standing as the first chief, because the ladder places a title and nothing has been said to separate two men holding it."
+  },
+
+  {
+    id: "the-worker-in-the-white-helmet",
+    name: "The Worker in the White Helmet",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [
+      { to: "the-second-construction-chief", label: "Same jacket" },
+      { to: "the-biker", label: "Same helmet" },
+      { to: "the-site-planner", label: "The other one not in a hard hat's colours" }
+    ],
+    rating: 0,
+    background:
+      "A construction worker, and the only one on the crew not in a hard hat.\n\n" +
+      "Nine of them wear the moulded helmet — red for the workers, white for " +
+      "the Site Planner. This one has a vented sports shell on instead, the " +
+      "same part the Biker turned up in on the same day.",
+    provenance:
+      "A white helmet, brimless and close to the skull, with two short vent " +
+      "slots in the crown — not a hard hat.\n\n" +
+      "A yellow face under it: round glasses with orange-brown rims and a " +
+      "pupil set in each lens, no brows, and a mouth drawn as a flat line " +
+      "pulled down at one end. He does not look pleased.\n\n" +
+      "The torso is the same blue work jacket the Second Construction Chief " +
+      "wears: dark collar open over a grey shirt, a pale zip down the middle, " +
+      "two orange bands across with black-outlined pockets at the chest, and a " +
+      "small red tool in the left breast pocket.\n\n" +
+      "Blue arms, yellow hands. Blue legs, and these are printed — a black " +
+      "belt across the hips with a round white buckle marked with a cross, a " +
+      "chain hanging down the left thigh with a spanner on the end of it, and " +
+      "a yellow tag or folded rule at the right hip.",
+    tags: ["construction", "worker", "white-helmet", "blue-jacket",
+           "printed-legs", "tool-belt", "spanner", "round-glasses",
+           "lego-city"],
+    images: [
+      { src: "images/the-worker-in-the-white-helmet-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Tenth on the Construction Crew. No other member's card records any printing below the waist - most of them do not describe the legs at all, and the two that do just give a colour - so this is the only one in the file carrying a belt, a chain, a spanner and a tag down the thighs.\n\nThe helmet is not safety equipment for the job he is doing. It is a vented sports shell - the same part the Biker has on - worn on a building site where nine other men are in moulded hard hats. Recorded, not explained.\n\nHe and the Second Construction Chief are the only two of the ten in blue jackets, and they arrived together.\n\nName is purely descriptive, in the pattern of the Worker in Shades and the Worker in Silver Shades."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

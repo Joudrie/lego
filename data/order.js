@@ -323,9 +323,9 @@ window.ORDER = {
     ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Defense Operator|Discarded", "Soldiers of every army"],
     ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Safari", "Mines, sites and open ground"],
     ["Mechanic|Technician|Engineer|Inventor|Maker|Tech Bot", "Mechanics and technicians"],
-    ["Doctor|Professor|Librarian|Student|Graduate|Intern|Curator", "Learning and medicine"],
+    ["Doctor|Nurse|Professor|Librarian|Student|Graduate|Intern|Curator", "Learning and medicine"],
     ["Financier|Bank|Inventory|Secretary|Assistant|Shopkeeper|Greengrocer|Tea Seller|Courier|Gas Attendant", "Money, shops and desks"],
-    ["Athlete|Racing|Stunt|Driver|Surfer|Backpacker|Traveller|Explorer|Adventure", "Sport, speed and going places"],
+    ["Athlete|Racing|Stunt|Driver|Biker|Surfer|Backpacker|Traveller|Explorer|Adventure", "Sport, speed and going places"],
     ["Chef|Farmer|Fisherman|Peasant|Woodsman", "Food, farms and water"],
     ["Musician|Rapper|Bard|Jester|Clown|Comedian|Camera|Rights Activist|Easter Bunny", "Stage, screen and street"],
     ["Orphan|Royal Child|Child|Apprentice", "Children and apprentices"],
@@ -377,7 +377,8 @@ window.ORDER = {
     "the-financier-in-the-green-tie", "the-evil-financier",
     "the-financier-in-the-cravat", "the-tv-camera-woman", "the-pa",
     "the-neutral-skeletons", "the-hospital-driver", "cyan-0",
-    "the-blue-lady",
+    "the-blue-lady", "the-second-construction-chief",
+    "the-worker-in-the-white-helmet",
   ],
 
   /* --------------------------------------------------------- what they ARE
@@ -528,13 +529,14 @@ window.ORDER = {
     "Tech Bot": [10, 5, 32],
     "Construction Chief": [10, 0, 34], "Construction Worker": [10, 5, 34],
     "Site Planner": [10, 5, 34],
-    "Racing Driver": [10, 5, 36], "Stunt Driver": [10, 5, 36],
+    "Racing Driver": [10, 5, 36], "Stunt Driver": [10, 5, 36], "Biker": [10, 5, 36],
     "Stuntman": [10, 5, 36], "Stunt Double": [10, 5, 36],
     "Hospital Driver": [10, 5, 36],
     "Chef": [10, 5, 36], "Gas Attendant": [10, 5, 36],
 
     // 40 - desks, shops, stages
-    "Doctor": [10, 5, 40], "Professor": [10, 5, 40], "Librarian": [10, 5, 40],
+    "Doctor": [10, 5, 40], "Nurse": [10, 5, 40], "Professor": [10, 5, 40],
+    "Librarian": [10, 5, 40],
     "Inventor": [10, 5, 40], "Curator": [10, 5, 40], "Occult Instructor": [10, 5, 40],
     "Launch Director": [10, 0, 40], "Director, Royal Transport Authority": [10, 0, 40],
     "Financier": [10, 5, 42], "Bank Teller": [10, 5, 42],
