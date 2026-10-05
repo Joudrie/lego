@@ -27656,6 +27656,220 @@ window.COLLECTION = [
     notes: "No job title and nothing said about him beyond the joke, so he takes the good side's default and stands with the civilians. That is the right place for him twice over.\n\nThird nude figure here, and the distinction the Nude Aliens' card draws applies to him exactly. He is not the Man from the Yellow Dimension, who is unprinted everywhere including his face and is a demigod for it. This one has a face, spectacles and a beard, and is simply not wearing anything.\n\nThe hat is the second black top hat recorded in the catalogue, after the Skull Trickster's, who arrived in the batch before him. The Leprechaun's is green and buckled, and the Ferryman wears a black one in his photograph although his card has never said so.\n\nA gentleman's hat, a gentleman's spectacles, a gentleman's beard, and nothing else at all. That is the whole card and it is meant to be."
   },
 
+  /* Five alien settlers, peaceful and somewhat outcast. The first two wear a
+     head this collection has seen twice and both of those are villains. */
+  {
+    id: "the-settler-farmer",
+    name: "The Settler Farmer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Farmer",
+    group: "The Alien Settlers",
+    location: "",
+    relations: [
+      { to: "the-settler-farmers-son", label: "His son" },
+      { to: "the-alien-medic", label: "The same head, the other deck" },
+      { to: "the-orc-alien-hybrid", label: "The same head again" }
+    ],
+    rating: 0,
+    background:
+      "A farmer, and the first of his kind here who is not a villain.\n\n" +
+      "The head is not new. Two figures in this collection already wear it, " +
+      "described part for part on both cards — the Alien Medic, who is one of " +
+      "the five Alien Soldiers on the enemy deck, and the Orc-Alien Hybrid, " +
+      "who is that head on an orc's body and is also an enemy. Until today the " +
+      "species had turned up twice and been a villain both times.\n\n" +
+      "This one farms, and he is a pacifist. So is everybody he came in with.",
+    provenance:
+      "A pale grey moulded alien head, wide and flat, with two red eyes on " +
+      "stalks standing out to either side, green speckling across the crown, a " +
+      "ring of small teeth and a long red tongue hanging out of the mouth. The " +
+      "same piece the Alien Medic and the Orc-Alien Hybrid wear.\n\n" +
+      "Cream arms and yellow hands. The torso is printed as black dungarees " +
+      "over a cream shirt: two straps up over the shoulders with a clasp at " +
+      "each top, a square bib pocket outlined in white at the chest, and a " +
+      "yellow belt across the waist carrying on down between the legs as a " +
+      "line.\n\n" +
+      "Black legs, unprinted.",
+    tags: ["alien", "settler", "farmer", "pacifist", "dungarees",
+           "stalked-eyes", "outcast", "shared-head"],
+    images: [
+      { src: "images/the-settler-farmer-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New group, The Alien Settlers, holding all five of them. Peaceful and pacifist is what you said about them and it is the whole of the lore so far; outcast is the other half, and nothing yet says from where or by whom.\n\nHe stands with the farmers at the trades end of the civilians, which is where the Farmer, the Farmer Boy, the Potato Farmer and the Alien Farmer already are. None of those four is on the working people's rung either, so he goes in beside them rather than above them.\n\nThe head is the thing worth recording. The collection already describes it twice, word for word, and both wearers are enemies. A third and a fourth of the same species arriving as pacifist farmers is the first time that mould has gone to the good deck - and in a world where what a figure is made of is part of who a figure is, two villains and two farmers in one face is a fact rather than a coincidence until somebody says otherwise."
+  },
+
+  {
+    id: "the-settler-farmers-son",
+    name: "The Settler Farmer's Son",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "The Alien Settlers",
+    location: "",
+    relations: [
+      { to: "the-settler-farmer", label: "His father" },
+      { to: "the-alien-medic", label: "The same head, the other deck" }
+    ],
+    rating: 0,
+    background:
+      "The farmer's son, in the same face and nothing like the same clothes.\n\n" +
+      "His father is in black working dungarees. This one is in a white tunic " +
+      "with red and blue running down it, which is not farm kit at all.",
+    provenance:
+      "The same pale grey moulded alien head as his father: wide and flat, two " +
+      "red eyes out on stalks, green speckling over the crown, a ring of small " +
+      "teeth and the long red tongue hanging out.\n\n" +
+      "Red arms and dark grey hands. The torso is white, printed with a broad " +
+      "red panel down the centre of the chest and a thin blue stripe either " +
+      "side of it, running from the collar to the waist.\n\n" +
+      "White legs, unprinted and scuffed grey along both feet.",
+    tags: ["alien", "settler", "son", "pacifist", "stalked-eyes", "white",
+           "outcast", "shared-head", "no-job-yet"],
+    images: [
+      { src: "images/the-settler-farmers-son-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "No job title. You said he is the farmer's son and did not say he farms, so nothing is written in, and he takes the good side's default and stands with the civilians. One word puts him on the farm beside his father.\n\nFourth figure here in that head and the second of the four on this side.\n\nThe clothes are the open thing. Everybody else in the settlement is dressed for work - dungarees, a harvester's kit, a waistcoat and tie for the man who does the selling - and this one is in a plain white tunic with a red panel down it. It reads as a uniform or a vestment rather than as farm clothes, and nothing says which."
+  },
+
+  {
+    id: "the-harvester",
+    name: "The Harvester",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Harvester",
+    group: "The Alien Settlers",
+    location: "",
+    relations: [
+      { to: "the-settler-farmer", label: "Works the same land" },
+      { to: "the-settlers-trader", label: "Grows what he sells" }
+    ],
+    rating: 0,
+    background:
+      "The big fish one, and he harvests.\n\n" +
+      "Two of the settlement farm and this is the one who brings it in. New " +
+      "job title in the catalogue — there are four farmers here already and " +
+      "nobody has ever been a harvester.",
+    provenance:
+      "The head is an enormous moulded piece in pale sage green that covers " +
+      "the whole skull and comes down past the shoulders. A stepped fin rises " +
+      "from the crown and runs back in two tiers. The lower edge opens into a " +
+      "mouth, and standing up out of it are three white cone teeth. Darker " +
+      "green mottling is printed across the whole of it in loose shapes.\n\n" +
+      "Cream arms. Below the head an orange torso shows, and orange legs " +
+      "printed with white chevrons at the shins.\n\n" +
+      "The photograph is taken from low and to one side, with the head tipped " +
+      "back, and it does not show the front of him. What his face looks like " +
+      "inside that piece is not visible and is not guessed at here.",
+    tags: ["alien", "settler", "harvester", "fish", "pacifist", "moulded-head",
+           "fin", "tusks", "orange", "outcast", "partial-photograph"],
+    images: [
+      { src: "images/the-harvester-01.jpg", caption: "The figure, from below" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New job title, filed with the farmers and the fishermen at the trades band of the civilians - the people whose work takes a body to do.\n\nThe photograph is the limitation on this card and it is written into the provenance rather than worked around. The head is tipped away from the camera and the front of the figure is not in frame. A straight-on shot gets him a proper description.\n\nThe head is not a head in the ordinary sense. It is a creature piece worn over the whole skull and down onto the shoulders, bigger than anything else in the settlement, which is presumably what big fish guy means. Whether it is his face or a thing he puts on is not settled - the Native in the Skeleton Mask has the same question on his card and it was answered there by one word from you."
+  },
+
+  {
+    id: "the-settlers-trader",
+    name: "The Settlers' Trader",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Trader",
+    group: "The Alien Settlers",
+    location: "",
+    relations: [
+      { to: "the-harvester", label: "Sells what he brings in" },
+      { to: "the-settler-farmer", label: "Sells what he grows" },
+      { to: "the-brick-seller", label: "The other man behind a counter" }
+    ],
+    rating: 0,
+    background:
+      "He does the settlement's business and does their selling at the town " +
+      "hall.\n\n" +
+      "Which means he is the one who goes in. The others work land that is " +
+      "theirs; this one walks into the place where the rest of the world is " +
+      "and stands in front of it on their behalf, and the settlement is " +
+      "somewhat outcast. He is dressed for it.",
+    provenance:
+      "A moulded head in bright green, finned out into frills either side and " +
+      "ridged in a crest over the crown. Two large eye sockets sunk deep and " +
+      "dark into the face, a heavy fold of brow over them, and a small downturned " +
+      "mouth below.\n\n" +
+      "The torso is printed as a black waistcoat over a grey shirt: pointed " +
+      "lapels, a blue tie knotted at the throat and running down the front, " +
+      "three buttons in a line and a welt pocket at each hip.\n\n" +
+      "Cream arms. Pale grey legs, unprinted.",
+    tags: ["alien", "settler", "trader", "town-hall", "waistcoat", "tie",
+           "finned", "pacifist", "outcast"],
+    images: [
+      { src: "images/the-settlers-trader-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New job title, filed at the shops-and-counters band of the civilians. There are three figures already there: the Brick Seller, who holds the Shopkeeper title; the Tea Seller; and the Two Peas in a Pod, who are the greengrocer.\n\nHe is the only one of the five dressed for a room rather than a field. A waistcoat and a tie on a settlement of farmers is a division of labour you can see without being told it.\n\nHis head is not the one his neighbours wear. The farmer and the son share a mould with two villains; this is a different piece again - green, finned, sunk-eyed - and the nearest thing to it here is the Bionic Alien, whose head is green and finned too but carries a pale blue face plate this one has not got. Four figures in one settlement and at least three different species in it.\n\nTown hall is the first mention of one in this collection."
+  },
+
+  {
+    id: "the-second-gungan-jedi",
+    name: "The Second Gungan Jedi",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Jedi",
+    group: "The Alien Settlers",
+    location: "",
+    relations: [
+      { to: "the-gungan-jedi", label: "The first, and lost" },
+      { to: "the-settler-farmer", label: "Protects him" },
+      { to: "the-settlers-trader", label: "Protects him" }
+    ],
+    rating: 0,
+    background:
+      "The settlers' protection, and the second Gungan Jedi in the collection.\n\n" +
+      "The first one is lost and dead. His card says there is no such thing in " +
+      "the films — the Gungans here are Jar Jar and two soldiers and none of " +
+      "them are Force users — and that the Jedi one is yours. That has been " +
+      "true of exactly one figure since it was written. It is now true of two.\n\n" +
+      "They are not the same build. The first is in a cream robe with a winged " +
+      "crest and a black cloth cape, laid flat in an old photograph. This one " +
+      "is in black, standing, with the blade lit.",
+    provenance:
+      "A moulded Gungan head in pale cream with dark brown markings over the " +
+      "crown and round both eyes, the eyes up on short stalks, and the long " +
+      "earflaps hanging down past the shoulders.\n\n" +
+      "The torso is black and printed as a heavy robe — close horizontal " +
+      "weave across the chest, a wrapped front, and a gold plate set in the " +
+      "belt at the waist with a dark device worked into it. Reddish-brown " +
+      "arms and reddish-brown hands.\n\n" +
+      "Dark grey legs with a gold panel at one hip.\n\n" +
+      "A silver lightsaber hilt, ribbed in three bands, held out level in his " +
+      "right hand. The blade is translucent green going to lime through the " +
+      "core.",
+    tags: ["jedi", "gungan", "alien", "settler", "protector", "green-blade",
+           "black-robe", "second", "custom-jedi"],
+    images: [
+      { src: "images/the-second-gungan-jedi-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed with the elite, on the Jedi's rung, which is where the first one stands.\n\nPut inside The Alien Settlers rather than left loose. You said they are protected by him, which is a job rather than a birth, so the group here is doing the work it is meant to do - everybody in a group is shown to everybody else in it, and these five found each other through him. If he is not one of their people, say so and he comes out and keeps the links.\n\nThe green blade is the fifth here on the good side, after the Snow Jedi, Ahsoka, the Green Demigod and the Second - and Reznod, who is the only one of them on the enemy deck.\n\nNamed on the repeat pattern. The first Gungan Jedi is filed with the lost, so this is not a second photograph of one figure: that one is a cream robe and a cloth cape and this one is black with gold at the belt. Two separate builds of an idea the films do not have."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
