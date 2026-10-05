@@ -27676,13 +27676,12 @@ window.COLLECTION = [
     ],
     rating: 0,
     background:
-      "A farmer, and the first of his kind here who is not a villain.\n\n" +
-      "The head is not new. Two figures in this collection already wear it, " +
-      "described part for part on both cards — the Alien Medic, who is one of " +
-      "the five Alien Soldiers on the enemy deck, and the Orc-Alien Hybrid, " +
-      "who is that head on an orc's body and is also an enemy. Until today the " +
-      "species had turned up twice and been a villain both times.\n\n" +
-      "This one farms, and he is a pacifist. So is everybody he came in with.",
+      "A farmer, and a good one. He is a pacifist, and so is everybody he " +
+      "came in with.\n\n" +
+      "The head is one this collection has seen before. The Alien Medic and " +
+      "the Orc-Alien Hybrid wear the same mould and both cards describe it " +
+      "part for part. That is a fact about a piece of plastic and it says " +
+      "nothing about him.",
     provenance:
       "A pale grey moulded alien head, wide and flat, with two red eyes on " +
       "stalks standing out to either side, green speckling across the crown, a " +
@@ -27700,7 +27699,7 @@ window.COLLECTION = [
       { src: "images/the-settler-farmer-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-10-05",
-    notes: "New group, The Alien Settlers, holding all five of them. Peaceful and pacifist is what you said about them and it is the whole of the lore so far; outcast is the other half, and nothing yet says from where or by whom.\n\nHe stands with the farmers at the trades end of the civilians, which is where the Farmer, the Farmer Boy, the Potato Farmer and the Alien Farmer already are. None of those four is on the working people's rung either, so he goes in beside them rather than above them.\n\nThe head is the thing worth recording. The collection already describes it twice, word for word, and both wearers are enemies. A third and a fourth of the same species arriving as pacifist farmers is the first time that mould has gone to the good deck - and in a world where what a figure is made of is part of who a figure is, two villains and two farmers in one face is a fact rather than a coincidence until somebody says otherwise."
+    notes: "New group, The Alien Settlers, holding all five of them. Peaceful and pacifist is what you said about them. They are also somewhat outcast, which is a circumstance rather than a character: all five are on the good deck and nothing here reads them as anything else.\n\nHe stands with the farmers at the trades end of the civilians, which is where the Farmer, the Farmer Boy, the Potato Farmer and the Alien Farmer already are. None of those four is on the working people's rung either, so he goes in beside them rather than above them.\n\nThe head is worth recording as a shelf fact. The collection describes it twice already, word for word, on the Alien Medic and the Orc-Alien Hybrid, and both of those are enemies. These two are the first on the good deck wearing it. That is a note about a mould, not an argument about either of them."
   },
 
   {
@@ -27801,10 +27800,10 @@ window.COLLECTION = [
     background:
       "He does the settlement's business and does their selling at the town " +
       "hall.\n\n" +
-      "Which means he is the one who goes in. The others work land that is " +
-      "theirs; this one walks into the place where the rest of the world is " +
-      "and stands in front of it on their behalf, and the settlement is " +
-      "somewhat outcast. He is dressed for it.",
+      "Which means he is the one who goes in. The others work the land; this " +
+      "one takes what they grow to market and handles the settlement's " +
+      "business when it has any. He is the only one of the five dressed for " +
+      "a room rather than a field.",
     provenance:
       "A moulded head in bright green, finned out into frills either side and " +
       "ridged in a crest over the crown. Two large eye sockets sunk deep and " +
@@ -27820,7 +27819,7 @@ window.COLLECTION = [
       { src: "images/the-settlers-trader-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-10-05",
-    notes: "New job title, filed at the shops-and-counters band of the civilians. There are three figures already there: the Brick Seller, who holds the Shopkeeper title; the Tea Seller; and the Two Peas in a Pod, who are the greengrocer.\n\nHe is the only one of the five dressed for a room rather than a field. A waistcoat and a tie on a settlement of farmers is a division of labour you can see without being told it.\n\nHis head is not the one his neighbours wear. The farmer and the son share a mould with two villains; this is a different piece again - green, finned, sunk-eyed - and the nearest thing to it here is the Bionic Alien, whose head is green and finned too but carries a pale blue face plate this one has not got. Four figures in one settlement and at least three different species in it.\n\nTown hall is the first mention of one in this collection."
+    notes: "New job title, filed at the shops-and-counters band of the civilians. There are three figures already there: the Brick Seller, who holds the Shopkeeper title; the Tea Seller; and the Two Peas in a Pod, who are the greengrocer.\n\nA waistcoat and a tie on a settlement of farmers is a division of labour you can see without being told it.\n\nHis head is not the one his neighbours wear. The farmer and the son share a mould that has turned up twice before; this is a different piece again - green, finned, sunk-eyed - and the nearest thing to it here is the Bionic Alien, whose head is green and finned too but carries a pale blue face plate this one has not got. Four figures in one settlement and at least three different species in it.\n\nTown hall is the first mention of one in this collection."
   },
 
   {
