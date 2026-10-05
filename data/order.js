@@ -324,7 +324,7 @@ window.ORDER = {
     ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Safari", "Mines, sites and open ground"],
     ["Mechanic|Technician|Engineer|Inventor|Maker|Tech Bot", "Mechanics and technicians"],
     ["Doctor|Nurse|Professor|Librarian|Student|Graduate|Intern|Curator", "Learning and medicine"],
-    ["Financier|Bank|Inventory|Secretary|Assistant|Shopkeeper|Greengrocer|Tea Seller|Courier|Gas Attendant", "Money, shops and desks"],
+    ["Financier|Banker|Bank|Inventory|Secretary|Assistant|Shopkeeper|Greengrocer|Tea Seller|Courier|Gas Attendant", "Money, shops and desks"],
     ["Athlete|Racing|Stunt|Driver|Biker|Surfer|Backpacker|Traveller|Explorer|Adventure", "Sport, speed and going places"],
     ["Chef|Farmer|Fisherman|Peasant|Woodsman", "Food, farms and water"],
     ["Musician|Rapper|Bard|Jester|Clown|Comedian|Trickster|Camera|Rights Activist|Easter Bunny", "Stage, screen and street"],
@@ -379,7 +379,7 @@ window.ORDER = {
     "the-neutral-skeletons", "the-hospital-driver", "cyan-0",
     "the-blue-lady", "the-second-construction-chief",
     "the-worker-in-the-white-helmet", "the-worker-in-the-wire-glasses",
-    "the-worker-in-the-red-helmet",
+    "the-worker-in-the-red-helmet", "the-snarling-astronaut",
   ],
 
   /* --------------------------------------------------------- what they ARE
@@ -543,7 +543,7 @@ window.ORDER = {
     "Librarian": [10, 5, 40],
     "Inventor": [10, 5, 40], "Curator": [10, 5, 40], "Occult Instructor": [10, 5, 40],
     "Launch Director": [10, 0, 40], "Director, Royal Transport Authority": [10, 0, 40],
-    "Financier": [10, 5, 42], "Bank Teller": [10, 5, 42],
+    "Financier": [10, 5, 42], "Banker": [10, 5, 42], "Bank Teller": [10, 5, 42],
     "Inventory Specialist": [10, 5, 42], "Secretary": [10, 5, 42],
     "Assistant": [10, 5, 42], "Rights Activist": [10, 5, 42],
     "Shopkeeper": [10, 5, 44], "Greengrocer": [10, 5, 44], "Tea Seller": [10, 5, 44],

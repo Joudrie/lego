@@ -27288,6 +27288,235 @@ window.COLLECTION = [
     notes: "Same new title and same rung as the Yellow Operator, and he stands behind him only because he was written down second.\n\nThe hair on top of the helmet is the detail, and he is the second to do it. The other is one of the two Lloyds, who wears a pale blonde piece pushed over his hood so the mask covers the mouth and the head is bare - which is a man half out of his uniform. This one is sealed inside a snowtrooper's hood with hair sitting on the outside of it, which is not that at all. Disguise, joke, or a figure assembled out of what was to hand: the catalogue is not choosing.\n\nThe armour is a snowtrooper's and the collection's snowtroopers are good. Taking an existing unit's kit onto the enemy deck is not new here - the Enemy Scout Trooper is a white scout helmet on the bad side, and the Shadow Troopers are stormtrooper armour moulded black on the good one - but it is worth recording each time, because in this world what a figure is made of is part of who the figure is.\n\nNinth hand-marked trooper, third on the enemy deck."
   },
 
+  /* Three of these five are wearing somebody else's kit, and two of them
+     killed for it. That thread started with the Suit Thief and has been one
+     figure long until today. */
+  {
+    id: "the-crab-alien",
+    name: "The Crab Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-suit-thief", label: "Killed a man and kept the suit" },
+      { to: "the-mercenary-in-stolen-armour", label: "The other one in a dead man's armour" }
+    ],
+    rating: 0,
+    background:
+      "A crab alien, wearing the armour of the clone trooper he killed, and " +
+      "the blood is still on it.\n\n" +
+      "The collection has had one figure like this and only one. The Suit " +
+      "Thief killed the white astronaut and took his suit, and his card ends " +
+      "on the line that makes it: not a mark on it. He wears it clean, and " +
+      "the man it belonged to is not in the catalogue because this is what " +
+      "happened to him.\n\n" +
+      "This one did the same thing and did not clean it.",
+    provenance:
+      "The head is a moulded carapace in deep red, flared out into plates " +
+      "either side of the skull and ridged down the crown, with crawling " +
+      "orange markings worked over the whole of it. Two black eyes with a " +
+      "white point in each sit under a heavy brow, and below them the face " +
+      "closes into a set of pale mouthparts drawn as a flat slit. The plating " +
+      "runs on down the chest as a collar.\n\n" +
+      "Under it, white trooper armour — the printed chest plate, the grooved " +
+      "abdominal belt, a black waist strap and a black line down the hips.\n\n" +
+      "Over the white, red put on by hand. Smears across both shoulders and " +
+      "the upper arms, and a solid block laid over the front of each thigh " +
+      "with the strokes still visible in it, two small spots below the right " +
+      "one. The white shows through everywhere between.\n\n" +
+      "Pale cream arms and black hands. White legs under the red.",
+    tags: ["alien", "crab", "carapace", "clone-armour", "stolen-armour",
+           "blood", "hand-painted", "enemy", "killer"],
+    images: [
+      { src: "images/the-crab-alien-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "No job title, so he takes the enemy side's default and lands with the soldiers. That is where a man who killed a trooper and took his kit belongs anyway, and nothing has been said that would move him.\n\nTenth figure here in trooper armour marked by hand rather than printed, and the fourth of those on the enemy deck - after the Discarded Militarist in blue, and the Yellow and Snow Operators earlier today. On all three of those the paint is markings. On this one it is blood, which is a different use of the same technique and the first time the hand on the plastic is standing for a wound rather than a unit. The nearest thing to it is the Delta Artilleryman, whose face is printed bloodied and furious - but that came out of a factory that way, and this was done by somebody.\n\nSecond figure in the collection wearing a dead man's kit, after the Suit Thief. The two of them are opposites in the one detail that matters: the Suit Thief's stolen suit has not a mark on it, and this one's is still wet.\n\nThe head is the only part of him that is his own."
+  },
+
+  {
+    id: "the-mercenary-in-stolen-armour",
+    name: "The Mercenary in Stolen Armour",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mercenary",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-crab-alien", label: "The other one in a dead man's armour" },
+      { to: "the-suit-thief", label: "The first of these" },
+      { to: "the-masked-mercenary", label: "The other mercenary catalogued today" }
+    ],
+    rating: 0,
+    background:
+      "A mercenary wearing the kit of two men he killed — a clone trooper and " +
+      "a scout trooper.\n\n" +
+      "Where the Suit Thief took one suit off one body, this one is assembled " +
+      "out of two. The helmet is a clone's and the sight rig clipped on top of " +
+      "it is a scout's, and neither of them is his.",
+    provenance:
+      "A white clone helmet, Phase 1: the black fin running up the centre of " +
+      "the faceplate, the black slashes out to each cheek, the small vents at " +
+      "the sides. Clipped over the crown and tilted up off the visor, a grey " +
+      "scout trooper's sight rig — a bar of two dark lenses on a hinged mount, " +
+      "with a pale rod standing up behind it.\n\n" +
+      "The torso is tan clone armour printed in the ordinary way: a chest " +
+      "plate with a rib line each side, two small dark vents at the collar, " +
+      "the abdominal plating below, and two pouches hung on a black belt at " +
+      "the waist.\n\n" +
+      "The arms do not match — one tan, one paler — and both hands are black. " +
+      "Tan legs with a black strip down the hips.",
+    tags: ["mercenary", "clone-armour", "scout-visor", "stolen-armour",
+           "enemy", "mismatched-arms", "two-victims"],
+    images: [
+      { src: "images/the-mercenary-in-stolen-armour-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed with the elite, which is where this catalogue puts mercenaries, and on the enemy deck because you said evil.\n\nThird figure here wearing a dead man's kit, and the first wearing two men's. The Suit Thief's card called that thread the first time a figure here was the evidence of a crime against a figure that does not exist; there are three of them now and this one stands for two missing men rather than one.\n\nSecond mercenary catalogued today and the other one is good. The Masked Mercenary is in nothing and fights for nobody in particular; this one is in a dead trooper's helmet. Nothing connects them but the word and the date.\n\nThe armour itself is printed rather than hand-marked, so he does not join the worked-over trooper count. What is done to it is structural - a scout's optics bolted onto a clone's helmet - rather than painted on.\n\nThe mismatched arms are left as they are."
+  },
+
+  {
+    id: "the-snarling-astronaut",
+    name: "The Snarling Astronaut",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "Mars Mission",
+    location: "",
+    relations: [
+      { to: "the-mars-mission-astronaut", label: "Same suit, other side" },
+      { to: "the-smiling-astronaut", label: "The opposite face in the same crew" }
+    ],
+    rating: 0,
+    background:
+      "An astronaut of the Mars Mission, and the first enemy in it.\n\n" +
+      "There are five of them already — the clench-jawed one, the grimy one, " +
+      "the smiling one, and two named for the colour of their visors — and " +
+      "every one has stood on the good deck since the day they were " +
+      "catalogued. This is the same suit and the same badge with somebody " +
+      "else inside it.",
+    provenance:
+      "A white helmet, domed and open at the front with no visor clipped into " +
+      "it. The plastic has been chewed or torn along the left edge of the " +
+      "opening and stands up in a ragged white fringe.\n\n" +
+      "The face showing through it is yellow: black brows driven down hard " +
+      "towards the nose, eyes with a white point in each, a line of dotted " +
+      "stitching down one cheek, and the mouth open on a long band of bared " +
+      "teeth. It is a grin and there is nothing friendly in it.\n\n" +
+      "The torso is the Mars Mission suit — white, printed with an orange " +
+      "harness that runs in a V down the chest with a bolt at each corner, " +
+      "orange tabs on dark grey mounts at both shoulders, a white ladder of " +
+      "zip up the centre, and dark grey instrument boxes at each hip. Set in " +
+      "the middle of the harness, a large orange disc carrying the old " +
+      "planet-and-rocket badge.\n\n" +
+      "White arms, yellow hands, white legs with no printing.",
+    tags: ["astronaut", "mars-mission", "space-badge", "planet-and-rocket",
+           "enemy", "no-visor", "chewed-helmet", "snarl"],
+    images: [
+      { src: "images/the-snarling-astronaut-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "Filed inside Mars Mission, because a group in this catalogue shows everybody to everybody and he is plainly one of them by the suit. That makes Mars Mission the ninth group here with people on both sides in it, after the Verdauf, the Discarded, the Ninja Lineage, the Royal Space Academy, the TV Unit, the Knock-offs, Delta Squad and the Atlantis Dive Team.\n\nHe is put on the working people's rung with the rest of the crew rather than dropped to the enemy's default. The job is the job: the five of them do rugged work that can kill them, and so does he.\n\nThe badge is the oldest one in the collection and ten figures were already wearing it: the four classic spacemen, the Woman in the Space Jacket, the Blue Lady, Boyd, the Clench-Jawed Astronaut, the First Man in Space and the Suit Thief. Two of those ten are on the enemy deck, so he is the third - and the other two are a man who went bad after walking on another world and a man who killed an astronaut for the suit he is standing in.\n\nThe helmet is damaged rather than modified. The left edge of the face opening is chewed or torn up into a white fringe, which is wear and not a design, and no other helmet in the catalogue is recorded as damaged like that.\n\nNothing says he turned. He may have been theirs and gone, or never have been theirs at all."
+  },
+
+  {
+    id: "the-banker",
+    name: "The Banker",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Banker",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-bank-teller", label: "The other one behind the counter" },
+      { to: "the-evil-financier", label: "The same money, a different title" }
+    ],
+    rating: 0,
+    background:
+      "A banker, and she is on the enemy deck.\n\n" +
+      "Money is already a side here. There are eight financiers in the " +
+      "catalogue and five of them are villains — a gangster financier and a " +
+      "second one, an evil financier, one in a green tie and one in a cravat. " +
+      "A banker is a new word for the same ground, and she is the first to " +
+      "carry it.",
+    provenance:
+      "Orange hair, moulded, swept across the forehead and gathered up into a " +
+      "knot standing off the crown. A yellow face: thin brows, heavily lashed " +
+      "eyes and a full red mouth closed in a neutral line. She is not doing " +
+      "anything with her expression at all.\n\n" +
+      "The torso is a black suit jacket printed open over a grey shirt with a " +
+      "wide collar. An orange tie hangs down the front in a long diamond, with " +
+      "a dark chain laid across the collar above it. A fan of green banknotes " +
+      "stands out of the inside pocket on the left with a dollar sign drawn on " +
+      "the top note, and on the right lapel a dark shield badge with an orange " +
+      "flame worked inside it.\n\n" +
+      "The hands do not match: one yellow, one white. White legs, unprinted.",
+    tags: ["banker", "money", "suit", "banknotes", "orange-tie", "chain",
+           "flame-badge", "enemy", "woman", "mismatched-hands"],
+    images: [
+      { src: "images/the-banker-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "New job title, filed at the desk band of the civilians beside the financiers and the bank teller. Being a villain does not lift anybody off that rung; it is what she does, not which side she does it on, that sets where she stands.\n\nShe is the first woman on the money in this collection. The eight financiers and the bank teller are all men.\n\nThe torso is doing a lot of work. The notes in the pocket say where the money is, the chain and the tie say what it bought, and the flame on the lapel is the only part of it that is not banking - a badge rather than a brand, and nothing here has said what it belongs to.\n\nThe mismatched hands are the fifth pair recorded here and the third in a fortnight - the Diver with the Crooked Smile and the Hiker have had theirs a long time, and the Native's Son and CYAN-0 arrived this month. Left as they are."
+  },
+
+  {
+    id: "the-second-werewolf",
+    name: "The Second Werewolf",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-werewolf", label: "The other one" },
+      { to: "the-wolfman", label: "The third wolf" }
+    ],
+    rating: 0,
+    background:
+      "A second werewolf, and he is further along than the first.\n\n" +
+      "The one already here is a man in a wolf's head: a red plaid shirt " +
+      "printed open across the chest, braces over the shoulders, blue jeans. " +
+      "Whatever happened to him happened while he was dressed. This one has " +
+      "nothing on at all — he is brown from the ears to the boots, with the " +
+      "last of his clothes printed on as black rags.",
+    provenance:
+      "A moulded brown wolf's head over the whole skull: two long ears " +
+      "standing up and swept back, a black snout, a heavy brow with a small " +
+      "white eye under each side of it, and a mouth of white teeth bared in a " +
+      "snarl with a ruff of fur standing out behind the jaw.\n\n" +
+      "The body is brown throughout — torso, arms, hands and legs, all the same " +
+      "plastic as the head. Printed over the chest, a large black tatter with " +
+      "a torn edge, and a smaller one on the left shoulder. Two black bands " +
+      "cross the left thigh and one the right, drawn the same ragged way.\n\n" +
+      "No shirt, no belt, no colour on him anywhere but the brown, the black " +
+      "and the white of the teeth.",
+    tags: ["werewolf", "wolf", "monster", "brown", "tatters", "snarl",
+           "enemy", "second"],
+    images: [
+      { src: "images/the-second-werewolf-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-05",
+    notes: "No job title, so he takes the enemy side's default and stands with the soldiers, which is where the first werewolf stands for the same reason.\n\nThird wolf-headed figure here. The Werewolf is a man in plaid and jeans with a wolf's head; the Wolfman is a goon of the Alien Goons, and his card has an open question on it about whether he is an alien at all. This one is the only one of the three with nothing human left on him but the rags.\n\nThe tatters are the whole of the story the figure tells on its own: he had clothes, and they came apart on him.\n\nNamed on the pattern this collection uses for a repeat, and it is a placeholder like all of those."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
