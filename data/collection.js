@@ -27869,6 +27869,105 @@ window.COLLECTION = [
     notes: "Filed with the elite, on the Jedi's rung, which is where the first one stands.\n\nPut inside The Alien Settlers rather than left loose. You said they are protected by him, which is a job rather than a birth, so the group here is doing the work it is meant to do - everybody in a group is shown to everybody else in it, and these five found each other through him. If he is not one of their people, say so and he comes out and keeps the links.\n\nThe green blade is the fifth here on the good side, after the Snow Jedi, Ahsoka, the Green Demigod and the Second - and Reznod, who is the only one of them on the enemy deck.\n\nNamed on the repeat pattern. The first Gungan Jedi is filed with the lost, so this is not a second photograph of one figure: that one is a cream robe and a cloth cape and this one is black with gold at the belt. Two separate builds of an idea the films do not have."
   },
 
+  /* Two men who met at university and are walking to Lego City through the
+     aftermath of more than one apocalypse. */
+  {
+    id: "the-ecologist",
+    name: "The Ecologist",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ecologist",
+    group: "The University Friends",
+    location: "",
+    relations: [
+      { to: "the-trained-cadet", label: "Friend from university" }
+    ],
+    rating: 0,
+    background:
+      "An ecologist, and the first one this collection has ever had.\n\n" +
+      "Not one card in the collection before him mentions ecology, " +
+      "conservation, botany or biology. There are miners, divers, " +
+      "astronauts, four farmers and a gardener — people who take things out " +
+      "of the ground and off the land — and nobody whose job is the land " +
+      "itself.\n\n" +
+      "He met the cadet at university. The two of them have come through more " +
+      "than one apocalypse together and they are walking to Lego City.",
+    provenance:
+      "A white pith helmet, ribbed over the dome with a stud at the crown and " +
+      "a wide brim all round. Under it a yellow face: black brows, dark eyes " +
+      "with a white glint in each, and a wide open grin with a full band of " +
+      "teeth showing. He is the most cheerful face in a long time.\n\n" +
+      "Over the shoulders and round the back of the neck, a brown yoke — a " +
+      "moulded frame with a flat bar standing out to each side, scuffed pale " +
+      "along the edges. A carrying rig of some kind, with nothing on it in " +
+      "the photograph.\n\n" +
+      "The torso is cream, printed as a field shirt: an open V collar with the " +
+      "throat showing yellow, a dark strap running from the right shoulder " +
+      "down across the chest with a line of dotted stitching beside it, grey " +
+      "crease marks through the cloth, and at the waist a brown belt with a " +
+      "pale oval plate at the buckle and a ribbed section to one side.\n\n" +
+      "Cream arms, yellow hands. Dark red legs printed across the hips and " +
+      "thighs with two rows of pouches — cartridge loops and small boxes in " +
+      "grey and dark red, running right the way round.",
+    tags: ["ecologist", "science", "pith-helmet", "field-kit", "yoke",
+           "ammunition-pouches", "survivor", "apocalypse", "university"],
+    images: [
+      { src: "images/the-ecologist-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-06",
+    notes: "New job title and a genuinely empty space in the catalogue. The nearest things to it were the Asteroid Gardener and the Safari Master, and neither of those is a scientist.\n\nFiled on the working people's rung at the rugged end - the band the ladder keeps for astronauts, power miners, divers and explorers, with the note that these people see combat. A man doing field science through an apocalypse with two rows of ammunition round his hips belongs in exactly that company.\n\nThe pouches are the thing the figure says on its own. The shirt and the helmet are a naturalist's; the legs are a soldier's. Nobody has said he fights and the plastic has him carrying enough to.\n\nThe brown yoke is left as described. It is a frame for carrying something and there is nothing on it."
+  },
+
+  {
+    id: "the-trained-cadet",
+    name: "The Trained Cadet",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Trained Cadet",
+    group: "The University Friends",
+    location: "",
+    relations: [
+      { to: "the-ecologist", label: "Friend from university" },
+      { to: "the-space-cadets", label: "Took their course and not their commission" }
+    ],
+    rating: 0,
+    background:
+      "He studied to be a space cadet and took a different major.\n\n" +
+      "That is a sharper fact in this world than it sounds. The Space Cadets' " +
+      "card calls them officer candidates — the ROTC of this world, the route " +
+      "into the military. He went the whole way down that route, knows " +
+      "everything it teaches, and then went and did something else. The " +
+      "training is real and the commission never happened.\n\n" +
+      "He and the ecologist met at university and have survived several " +
+      "apocalypses together. They are headed for Lego City.",
+    provenance:
+      "A moulded dark grey helmet, domed with a shelf of a brim, and the face " +
+      "gear built into it rather than clipped on: a goggle band across the " +
+      "eyes with an orange lens on one side and a deep red one on the other, " +
+      "and below it a respirator covering the mouth and jaw in overlapping " +
+      "grey plates. A strip of yellow face shows at the cheek between the two.\n\n" +
+      "The torso is an orange vest printed over dark grey: a thick band of " +
+      "white fur at the collar and another round the hem, a pale zip running " +
+      "down the centre, two round badges at the chest — one dark navy, one " +
+      "brown — and an angled pocket flap at each hip.\n\n" +
+      "Dark brown arms, yellow hands. Pale grey legs with no printing.\n\n" +
+      "A black blaster in his left hand, long-barrelled, held down at his " +
+      "side.",
+    tags: ["cadet", "respirator", "goggles", "fur-trim", "orange", "blaster",
+           "survivor", "apocalypse", "university", "no-commission"],
+    images: [
+      { src: "images/the-trained-cadet-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-06",
+    notes: "New job title, and the point of it is the gap. He is not filed as a Space Cadet, because that role sits on the soldiers' rung and belongs to people who took the commission. He is not filed as a civilian either, because he is armed and in the field. He goes on the working people's rung beside his friend, at the end the ladder keeps for rugged work that meets trouble.\n\nHe is not one of the Arctic Explorers. They are six figures in green parkas with white fur hoods, blue snow goggles and an ARCTIC badge; his vest is orange over grey and his badges are not theirs. The fur trim is the only thing the two have in common.\n\nThe helmet is a sealed system - goggles and respirator moulded into one piece - which is apocalypse kit rather than cadet kit. Whatever he trained for, this is not what he trained in.\n\nThe University Friends is the first group in the catalogue built on nothing but a friendship. The friend group of five is a hand-made set rather than a group - its members carry four different group fields between them, or none. This pair share one, and the only thing in it is that they know each other."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

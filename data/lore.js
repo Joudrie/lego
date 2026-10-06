@@ -1851,4 +1851,22 @@ window.LORE = [
       "body. Everybody else arrived in 2026. He became a person in it."
   },
 
+  {
+    title: "The apocalypses",
+    text:
+      "There has been more than one.\n\n" +
+      "That is the whole of what has been said, and it arrived attached to " +
+      "two men rather than as a fact about the world: an ecologist and a " +
+      "cadet who met at university, who have come through several of them " +
+      "together and are walking to Lego City.\n\n" +
+      "It is new ground. Seventy-five notes were written before this one and " +
+      "not one of them mentions an apocalypse. The catalogue has a shadow " +
+      "uprising, a day of betrayals, a Mega Bloks war, a problem of the dead " +
+      "and twenty-nine figures lost — all of it damage done by somebody to " +
+      "somebody. This is the first thing that happened to everybody.\n\n" +
+      "Nothing says what they were, how many, how long ago, or whether Lego " +
+      "City came through them. The city is still there and people are still " +
+      "walking to it, which is the only evidence either way."
+  },
+
 ];

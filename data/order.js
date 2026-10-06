@@ -364,12 +364,12 @@ window.ORDER = {
     ["Droid|Killer Bot|Defense Bot|Robot$|Replica|Horse|Beast|Parasite|Power Source|Nanobot|Vessel", "Machines, beasts and things"],
     ["Pilot|Biplane|Squadron Leader|Hangar", "Pilots and aircrew"],
     ["Diver|Aqua|Dive Team", "Under the water"],
-    ["Astronaut|Spaceman|Space Ranger|Space Cadet|Space Command|Space Biker|Space Engineer|Launch Director", "The space programme"],
+    ["Astronaut|Spaceman|Space Ranger|Space Cadet|Trained Cadet|Space Command|Space Biker|Space Engineer|Launch Director", "The space programme"],
     ["Militia|Verdauf", "The space militia"],
     ["Agent|Royal Intelligence|Master of|Occult|Shaman|Chaplain|Guardian|Auror", "Secrets, spies and sorcery"],
     ["General|Commander|Captain|Marshal|Squad Leader|Second in Command|Head of|Fleet|Secretary of War|Mentor|Instructor|Director|Officer|Sergeant|Invasion Leader|Leader", "Officers and commanders"],
     ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Operator|Discarded", "Soldiers of every army"],
-    ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Safari", "Mines, sites and open ground"],
+    ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Ecologist|Safari", "Mines, sites and open ground"],
     ["Mechanic|Technician|Engineer|Inventor|Maker|Tech Bot", "Mechanics and technicians"],
     ["Doctor|Nurse|Professor|Librarian|Student|Graduate|Intern|Curator", "Learning and medicine"],
     ["Financier|Banker|Bank|Inventory|Secretary|Assistant|Shopkeeper|Greengrocer|Tea Seller|Trader|Courier|Gas Attendant", "Money, shops and desks"],
@@ -428,6 +428,7 @@ window.ORDER = {
     "the-blue-lady", "the-second-construction-chief",
     "the-worker-in-the-white-helmet", "the-worker-in-the-wire-glasses",
     "the-worker-in-the-red-helmet", "the-snarling-astronaut",
+    "the-ecologist", "the-trained-cadet",
   ],
 
   /* --------------------------------------------------------- what they ARE
@@ -566,6 +567,9 @@ window.ORDER = {
     // 10 - rugged
     "Astronaut": [10, 5, 10], "Power Miner": [10, 5, 10], "Miner": [10, 5, 10],
     "Explorer": [10, 5, 10], "Safari Master": [10, 0, 10], "Spaceman": [10, 5, 10],
+    // Field science and a cadet who never took the commission. Both are
+    // armed and in the open, which is what this band is for.
+    "Ecologist": [10, 5, 10], "Trained Cadet": [10, 5, 10],
     "Aqua Force": [10, 5, 12], "Atlantis Diver": [10, 5, 13],
     "Diver": [10, 5, 14], "Dive Team": [10, 5, 14],
     "Leader": [10, 0, 13],
