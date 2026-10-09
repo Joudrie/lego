@@ -27968,6 +27968,46 @@ window.COLLECTION = [
     notes: "New job title, and the point of it is the gap. He is not filed as a Space Cadet, because that role sits on the soldiers' rung and belongs to people who took the commission. He is not filed as a civilian either, because he is armed and in the field. He goes on the working people's rung beside his friend, at the end the ladder keeps for rugged work that meets trouble.\n\nHe is not one of the Arctic Explorers. They are six figures in green parkas with white fur hoods, blue snow goggles and an ARCTIC badge; his vest is orange over grey and his badges are not theirs. The fur trim is the only thing the two have in common.\n\nThe helmet is a sealed system - goggles and respirator moulded into one piece - which is apocalypse kit rather than cadet kit. Whatever he trained for, this is not what he trained in.\n\nThe University Friends is the first group in the catalogue built on nothing but a friendship. The friend group of five is a hand-made set rather than a group - its members carry four different group fields between them, or none. This pair share one, and the only thing in it is that they know each other."
   },
 
+  {
+    id: "davine",
+    name: "Davine",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Miner",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-asteroid-gardener", label: "The other one who works the asteroid belt" }
+    ],
+    rating: 0,
+    background:
+      "A dwarf who learned space travel.\n\n" +
+      "He mines asteroids, and he likes it.",
+    provenance:
+      "A gold dome helmet with a short brim, the plating worn through along "  +
+      "the crown to pale patches and chipped at the front edge. Under it a "   +
+      "black hood closed round the face and under the chin.\n\n"               +
+      "A yellow face behind a black-framed visor print: a segmented readout "  +
+      "bar across the left temple, then a round lens with a blue arrow set "   +
+      "in a white field, then a second round lens with a dark pupil. A "       +
+      "grey-white moustache under it and a small open smile.\n\n"              +
+      "A white clone chest plate clipped over a black torso - the ribbed "     +
+      "chest, the fanned abdominal plating and the row of belt slots - "       +
+      "scuffed grey and stained yellow along both edges. Black arms, yellow "  +
+      "hands, black short legs.",
+    tags: ["dwarf", "miner", "asteroids", "space", "small-folk", "gold-helmet",
+           "worn-plating", "hood", "visor", "clone-armour", "moustache",
+           "short-legs", "custom"],
+    images: [
+      { src: "images/davine-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-09",
+    notes: "Sixth dwarf in the collection and the fifth on the good side. The other four good ones are a king, a librarian, a soldier and an archer - a hall, a library, a battlefield and a wood. He is the first with a job off the ground.\n\nHe is not filed in The Dwarves, for the same reason the Evil Dwarf is not: that group is a kingdom, nothing here says he is one of theirs, and a species is not an affiliation. One word puts him in.\n\nTenth miner card, eighth on the good deck. Mining in this world has stayed almost entirely a good job - seven cards on that side before him and two on the other.\n\nThe chest plate is the part worth flagging. Three figures here already wear white clone armour on a body that is not a clone's, and all three are villains: the Infamous Traitor, the Looter and the Mercenary in Stolen Armour, and every one of those cards reads it as a dead man's kit or a uniform turned. Those three have it printed on. His is a real plate clipped over a black torso, which is the difference between wearing a trooper's body and wearing a piece of armour, and he is the first good figure in the collection with it either way. Nothing is written about where he got it.\n\nHis card says he likes the work. Seven cards in nine hundred say somebody enjoys what they do, and one of the other seven is the Asteroid Gardener, who grows things on an asteroid while he digs into them. That is the only pair in the catalogue who both went out to the belt for a civilian reason and both came back pleased about it.\n\nFiled on the working people's rung at the rugged end, with the astronauts, power miners, divers and explorers.\n\nThe gold is worn through rather than painted on. The only other gold dome here is the Gold-Domed Astronaut's, and his is solid."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

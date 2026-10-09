@@ -399,6 +399,7 @@ window.ORDER = {
     "the-aqua-force-second", "the-cool-aqua-diver", "the-aqua-force-diver",
     "the-miner-in-goggles", "the-snarling-miner", "the-visored-miner",
     "the-green-eyed-miner", "the-miner-in-white", "the-smudged-miner",
+    "davine",
     "the-young-leader", "the-former-dive-captain", "the-atlantis-leader",
     "the-atlantis-diver", "the-moustached-diver", "the-bearded-diver",
     "the-grinning-diver", "the-scowling-diver",
