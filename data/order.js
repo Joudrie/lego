@@ -367,7 +367,7 @@ window.ORDER = {
     ["Astronaut|Spaceman|Space Ranger|Space Cadet|Trained Cadet|Space Command|Space Biker|Space Engineer|Launch Director", "The space programme"],
     ["Militia|Verdauf", "The space militia"],
     ["Agent|Royal Intelligence|Master of|Occult|Shaman|Chaplain|Guardian|Auror", "Secrets, spies and sorcery"],
-    ["General|Commander|Captain|Marshal|Squad Leader|Second in Command|Head of|Fleet|Secretary of War|Mentor|Instructor|Director|Officer|Sergeant|Invasion Leader|Leader", "Officers and commanders"],
+    ["General|Commander|Captain|Marshal|Squad Leader|Second in Command|Head of|Fleet|Secretary of War|Mentor|Advisor|Instructor|Director|Officer|Sergeant|Invasion Leader|Leader", "Officers and commanders"],
     ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Operator|Discarded", "Soldiers of every army"],
     ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Ecologist|Safari", "Mines, sites and open ground"],
     ["Mechanic|Technician|Engineer|Inventor|Maker|Tech Bot", "Mechanics and technicians"],
@@ -470,6 +470,10 @@ window.ORDER = {
     "Space Militia Commander": 3, "Domestic Security Captain": 3,
     "Second in Command": [3, 1], "Secretary of War": 3, "Invasion Leader": 3,
     "Ninja Master": 3, "Jedi Master": 3, "Mentor": 3,
+    // Counsel, which this ladder has always treated as command work. It can
+    // sit above the man it advises - the rung goes by the job and not by who
+    // reports to whom.
+    "Advisor": 3,
     "Master of Tradition": 3, "Master of the Dark Psyche": 3, "Master of Combat": 3,
     "Master of Stealing and Looting": 3, "Master of Dark Wisdom": 3,
     "Master of Disguise": 3, "Master of Apprentices": 3,

@@ -28008,6 +28008,225 @@ window.COLLECTION = [
     notes: "Sixth dwarf in the collection and the fifth on the good side. The other four good ones are a king, a librarian, a soldier and an archer - a hall, a library, a battlefield and a wood. He is the first with a job off the ground.\n\nHe is not filed in The Dwarves, for the same reason the Evil Dwarf is not: that group is a kingdom, nothing here says he is one of theirs, and a species is not an affiliation. One word puts him in.\n\nTenth miner card, eighth on the good deck. Mining in this world has stayed almost entirely a good job - seven cards on that side before him and two on the other.\n\nThe chest plate is the part worth flagging. Three figures here already wear white clone armour on a body that is not a clone's, and all three are villains: the Infamous Traitor, the Looter and the Mercenary in Stolen Armour, and every one of those cards reads it as a dead man's kit or a uniform turned. Those three have it printed on. His is a real plate clipped over a black torso, which is the difference between wearing a trooper's body and wearing a piece of armour, and he is the first good figure in the collection with it either way. Nothing is written about where he got it.\n\nHis card says he likes the work. Seven cards in nine hundred say somebody enjoys what they do, and one of the other seven is the Asteroid Gardener, who grows things on an asteroid while he digs into them. That is the only pair in the catalogue who both went out to the belt for a civilian reason and both came back pleased about it.\n\nFiled on the working people's rung at the rugged end, with the astronauts, power miners, divers and explorers.\n\nThe gold is worn through rather than painted on. The only other gold dome here is the Gold-Domed Astronaut's, and his is solid."
   },
 
+  {
+    id: "the-burned-samurai",
+    name: "The Burned Samurai",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Samurai",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-samurais-advisor", label: "Advised by" }
+    ],
+    rating: 0,
+    background:
+      "A samurai, burned, and an enemy.",
+    provenance:
+      "Moulded copper-red hair, parted and swept across the brow. The head "    +
+      "is pale rather than yellow, and the two sides of it do not match. The "  +
+      "left is burned: mottled tan scarring speckled with darker flecks "       +
+      "running from the temple down across the cheek and jaw, and the eye in "  +
+      "it is a blank white disc ringed in grey, with no pupil drawn. The "      +
+      "right side is clean skin with one thin red scar curving down the "       +
+      "cheek. Heavy black brows angled down and a flat, closed mouth.\n\n"      +
+      "A deep maroon robe worn open over a pale mint-green chest plate "        +
+      "printed with large overlapping scales in a chevron, and below it a "     +
+      "blue-grey sash across the waist with a long thin shape laid along it. "  +
+      "Maroon arms, silver-grey hands, maroon legs with a grey armour plate "   +
+      "printed on each thigh.",
+    tags: ["villain", "samurai", "burned", "scarred", "blind-eye", "maroon",
+           "scale-armour", "sash", "custom"],
+    images: [
+      { src: "images/the-burned-samurai-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-26",
+    notes: "Fourth samurai in the catalogue and the second on the enemy deck. The other three are the Samurai, who is Shogun of the Ninja Lineage, Nya, and the Robotic Samurai. Like the robotic one he is filed loose: nothing said connects him to the Lineage, and a shared word is not an affiliation here.\n\nThe face is the whole figure. Fifty-six cards before him mention a scar and they are almost all a line or two drawn on a cheek; this is a burn worked across half a head, with the eye inside it gone white and blank. No other figure in the collection has a blinded eye written down at all - the only other pupil-less eyes here belong to the Mini Beasts, and those are a beast's printed face rather than an injury. Nobody has said what happened.\n\nHe is also the first villain in the catalogue who arrives with an adviser attached. Two figures do not make a group in this world - that has been the rule since the Dwarves - so the pair are tied by a written relation instead.\n\nFiled with the warriors, where the ladder keeps samurai and knights. Nothing has been said about him commanding anybody, so he is not lifted above that, and the oddity that follows is flagged on the adviser's card."
+  },
+
+  {
+    id: "the-samurais-advisor",
+    name: "The Samurai's Advisor",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Advisor",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-burned-samurai", label: "Advises" }
+    ],
+    rating: 0,
+    background:
+      "The Burned Samurai's advisor.",
+    provenance:
+      "A black cap, domed, with a soft stitched brim and a ridged band round " +
+      "it. A yellow face under it: heavy black brows angled down, round black " +
+      "eyes, a short flat mouth, and a full beard and moustache drawn in "     +
+      "close dark dashes across the jaw and upper lip. The paint is rubbed "   +
+      "away in a patch on one cheek.\n\n"                                      +
+      "A very dark green coat worn open over a dark waistcoat, with a pale "   +
+      "blue-white cravat knotted at the throat and falling down the chest. "   +
+      "Under it a column of red frogging down the centre with two rows of "    +
+      "olive-gold tabs either side, and a small red panel at each hip. Black " +
+      "arms, yellow hands, black legs.",
+    tags: ["villain", "advisor", "beard", "cravat", "frogging", "cap",
+           "worn-print", "custom"],
+    images: [
+      { src: "images/the-samurais-advisor-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-26",
+    notes: "New job title. Advisor is the second office in this world that is a post rather than a throne, after the Supreme Chancellor of the Sting Rays, and it is the first one defined entirely by somebody else - his card says what he does and the name says who he does it for.\n\nHe is filed on the command rung, beside the mentors and the Masters of the League of Shadows, because that is where this ladder keeps people whose work is counsel. That puts him above the man he advises, who is a samurai and stands with the warriors. The ladder goes by job and not by chain of command, and nothing has been said about what the Burned Samurai commands. One word about that fixes it, and until there is one the catalogue is not going to invent a warlord.\n\nThe clothes are not a soldier's. A frock coat, a cravat and braid down the chest is court dress or a merchant's, and the only thing on him that could be a uniform is the frogging. He is the first figure on either deck dressed like a civilian official.\n\nTwo of them is not a group. They are tied by a relation instead, both ways."
+  },
+
+  {
+    id: "the-ghost-of-the-american-dream",
+    name: "The Ghost of the American Dream",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Musician",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The ghost of the American dream.\n\n"                                   +
+      "He is not evil. He is not good either. He is chaotic neutral, and he "  +
+      "plays the banjo.",
+    provenance:
+      "A white skull head with two round black sockets and a mouth drawn as "  +
+      "a long curve with short teeth ruled across it. On top of it a black "   +
+      "top hat with a silver band and a flat brim.\n\n"                        +
+      "A blue tailcoat printed over a white wing collar and a red bow tie, "   +
+      "with a red and white vertically striped waistcoat down the front and "  +
+      "a line of buttons. Blue arms, white hands. Red legs printed with "      +
+      "white vertical stripes.\n\n"                                            +
+      "A silver banjo held across the body: a round resonator with the head "  +
+      "and tailpiece drawn on it, and a long fretted neck running up to a "    +
+      "flared peghead.",
+    tags: ["ghost", "skeleton-head", "top-hat", "banjo", "musician",
+           "stars-and-stripes", "chaotic-neutral", "not-evil", "custom"],
+    images: [
+      { src: "images/the-ghost-of-the-american-dream-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-26",
+    notes: "You said chaotic neutral and you said not evil, and this catalogue has two decks. It used to have three. The Plain-Faced Skeletons opened a neutral deck and then closed it - you looked at a tab carrying one card and said a section with one card in it does not help anybody, and they went to the enemy side because there was nowhere else. He is the opposite case: they wanted nothing and nothing was said for them, and of him you said plainly that he is not evil. So he goes on the good deck, and the card says what he actually is rather than letting the filing say it for him.\n\nThe banjo is the first stringed instrument in the collection. There are four musicians here and none of them had one - Max Rebo plays a keyboard, the Saxophone Player a saxophone, the Rap Star has no instrument at all, and the Bard's card does not give him one.\n\nThird black top hat, after the Skull Trickster's and the Naked Man's, and the second skull-faced figure wearing one. The Skull Trickster is also good, also filed on the same rung, and also a rogue with nothing written against him. Nothing says they have met.\n\nThe red and white stripes, the blue coat and the top hat are the flag, and the face is a skull. Nothing needs to be added to that.\n\nFiled on the civilians' rung, in the band the ladder keeps for stages, desks and shops, with the other musicians."
+  },
+
+  {
+    id: "the-second-banker",
+    name: "The Second Banker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Banker",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A banker.",
+    provenance:
+      "Moulded dark brown hair, tousled and swept across the forehead. A "     +
+      "yellow face with black brows and a small closed smile.\n\n"             +
+      "White shirtsleeves on both arms, and the torso printed with a green "   +
+      "cable-knit waistcoat buttoned over a white shirt, a red bow tie at "    +
+      "the collar, two pockets at the waist with a pen clipped into one, and " +
+      "a black belt with a square buckle. Blue legs, yellow hands.",
+    tags: ["banker", "money", "knitted-waistcoat", "bow-tie", "pen",
+           "shirtsleeves", "custom"],
+    images: [
+      { src: "images/the-second-banker-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-26",
+    notes: "Second banker in the catalogue and the first good one. The first is a woman on the enemy deck, and her card opens by saying money is already a side here - eight financiers, five of them villains. He shifts it slightly. Counting the bank teller, the money people now run six villains to five on the good side; before him it was six to four.\n\nThe clothes are the interesting part and they are not a banker's. A knitted waistcoat, a bow tie and rolled shirtsleeves with a pen in the pocket is a schoolmaster or a shopkeeper; the first Banker wears a black suit with a chain, a tie and a fan of banknotes standing out of the pocket. Two cards with the same job title and nothing in common on the plastic. The word is yours and the card keeps it.\n\nFiled at the desk band of the civilians with the financiers, the bank teller and the first Banker. Nothing about which side somebody is on moves them off that rung, which is the rule her card set."
+  },
+
+  {
+    id: "the-steampunk-inventor",
+    name: "The Steampunk Inventor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Inventor",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-inventors-daughter", label: "Father of" }
+    ],
+    rating: 0,
+    background:
+      "A steampunk inventor, and a father.",
+    provenance:
+      "A dark grey top hat with a brown band, and strapped across the front "  +
+      "of it a pair of brass-rimmed goggles with round green lenses. Under "   +
+      "it a yellow face with a curled grey-brown handlebar moustache, one "    +
+      "plain black eye and one ringed in a silver monocle.\n\n"                +
+      "An olive torso printed with brass engineering: a riveted boiler plate " +
+      "across the chest, a round clock dial beside it, a coiled hose at one "  +
+      "shoulder, a key or valve hanging at the waist, and a buckled belt "     +
+      "under a dark harness. Olive arms and legs, the legs printed with dark " +
+      "panels and gearwork, yellow hands.\n\n"                                 +
+      "In one hand a tan steam tool: a riveted cylinder with a gauge on the "  +
+      "end, a ribbed barrel and a dark forked head, with three white puffs "   +
+      "standing off it.",
+    tags: ["steampunk", "inventor", "top-hat", "goggles", "monocle",
+           "moustache", "brass", "clockwork", "steam", "father", "custom"],
+    images: [
+      { src: "images/the-steampunk-inventor-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-26",
+    notes: "Placeholder name - you called him a cool steampunk father and gave him no name of his own.\n\nFirst steampunk figure in the collection, and that is a real gap closed. Nine hundred and thirty-odd cards and nothing here had been brass and clockwork: the machines in this world are circuit plates, hoses and welded steel, and the only gold on anybody has been divine, precious or one tooth. A man with a boiler on his chest and a pressure gauge on his gun is a different century from everything else on the shelf.\n\nSecond inventor, and the first good one. The only other is the Maker, who is a cross between Tony Stark and Ultron and sits on the enemy deck. Two inventors, one of them a man who built the thing that ruined him and the other a man with a steam wrench and a daughter.\n\nFifth top hat in the collection, after the Leprechaun's green one, the Skull Trickster's, the Naked Man's and the ghost's in this same batch. Goggles are not rare here - a dozen figures wear a pair and most of them have them pushed up on a helmet or a cap. His are strapped flat across the front of a top hat, which nobody else has.\n\nFiled with the mechanics and technicians at the desk band, where the ladder keeps inventors. Two of them is not a group, so he and his daughter are tied by a relation rather than filed as a family."
+  },
+
+  {
+    id: "the-inventors-daughter",
+    name: "The Inventor's Daughter",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-steampunk-inventor", label: "Daughter of" }
+    ],
+    rating: 0,
+    background:
+      "The Steampunk Inventor's daughter, dressed up as a knight.",
+    provenance:
+      "A pearl-gold great helm with the visor raised: a wide riveted brow "    +
+      "plate, a disc at each side and a bar down the centre, with a bright "   +
+      "pink feather plume standing from the crown. A flat silver gorget "      +
+      "under it, and a yellow face with arched brows, lashed eyes and a wide " +
+      "open grin.\n\n"                                                         +
+      "A moulded light grey breastplate clipped over the torso, with "         +
+      "shoulder plates, printed with a purple shield carrying a cream crown. " +
+      "Light grey arms and legs.\n\n"                                          +
+      "A pearl-gold sword in one hand, and a shield on the other arm - grey "  +
+      "edged, purple field, the same cream crown on it.",
+    tags: ["costume", "knight", "girl", "child", "armour", "plume",
+           "crown-blazon", "sword", "shield", "custom"],
+    images: [
+      { src: "images/the-inventors-daughter-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-10-26",
+    notes: "Placeholder name, taken from her father because you gave her no other.\n\nFiled a civilian rather than a knight, and that is the whole decision on this card. You said dressed up as a knight, which is costume language, and this collection has a precedent exactly on it: the Girl in the Guinea Pig Costume is filed a civilian with the costume in her name. There are ten knights in the catalogue and every one of them is a man with the job. She is the first figure here in a knight's armour who is not one of them. If she is actually a knight, one word moves her and the rung goes with it.\n\nThe armour is real plate rather than a print - a moulded breastplate clipped over the torso, a visored helm and a shield, which is more kit than the costume figures in this collection usually carry. The Guy in the Pizza Costume has a pizza.\n\nThe crown on the shield is the part nobody has explained. Blazons here have meant something every time: the Royal Knights wear the lion, the Second Royal Archer carries the crown of the royal house. A child in a steampunk inventor's house carrying a royal crown on her shield is either a toy, or it is not. Nothing has been said, so nothing is written.\n\nTwo of them is not a group. She and her father are tied by a relation both ways."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
